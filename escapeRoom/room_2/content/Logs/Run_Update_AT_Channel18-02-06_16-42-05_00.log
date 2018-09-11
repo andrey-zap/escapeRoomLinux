@@ -1,0 +1,26 @@
+﻿2018-Feb-06 16:42:05.966 INFO: [Process: Run Update_AT_Channel] Init #52009 - Process initializing.
+2018-Feb-06 16:42:05.990 INFO: [Source: Update_AT_Channel : Source] #52321 - Activation arguments - '{ SuiteStatus=Pass, Ended=6/2/2018 16:42:05.945000, SuiteName=MI_Slices }'
+2018-Feb-06 16:42:05.998 INFO: [Process: Run Update_AT_Channel] Init #52512 - Profiler activation mode: [No] | Snapshot interval: N/A seconds | Txn profiling mode: [N/A], N/A microseconds, num top blocks: N/A, output txn data: N/A.
+2018-Feb-06 16:42:06.057 INFO: [Process: Run Update_AT_Channel] #52001 - Process is running.
+2018-Feb-06 16:42:06.057 INFO: [Flow: Update_AT_Flow(1)] Init #50040 - Flow initializing.
+2018-Feb-06 16:42:06.057 INFO: [Source: Update_AT_Channel : Source] Init #53001 - Source initializing.
+2018-Feb-06 16:42:06.057 INFO: [Flow: Update_AT_Flow(1)] Init #50041 - Flow initialized successfully.
+2018-Feb-06 16:42:06.058 INFO: [Source: Update_AT_Channel : Source] Init #53002 - Source initialized successfully.
+2018-Feb-06 16:42:06.058 INFO: [Flow: Update_AT_Channel : Source] Java #89240 - Active Component disposal started.
+2018-Feb-06 16:42:06.058 INFO: [Flow: Update_AT_Channel : Source] Java #89241 - Active Component disposal ended.
+2018-Feb-06 16:42:06.059 INFO: [Source: Update_AT_Channel : Source] #53007 - Source step 1 (Passed: 1, Filtered:0, Erroneous: 0, Containers deadlocks: 0, End of Source: 0).
+2018-Feb-06 16:42:06.059 INFO: [Source: Update_AT_Channel : Source] End #53004 - Source cleanup started.
+2018-Feb-06 16:42:06.059 INFO: [Source: Update_AT_Channel : Source] End #53005 - Source cleanup ended.
+2018-Feb-06 16:42:06.059 INFO: [Source: Update_AT_Channel : Source] End #53009 - Source finished normally.
+2018-Feb-06 16:42:06.067 INFO: [Flow: Update_AT_Flow(1)] Java #89240 - Active Component disposal started.
+2018-Feb-06 16:42:06.067 INFO: [Flow: Update_AT_Flow(1)] Java #89241 - Active Component disposal ended.
+2018-Feb-06 16:42:06.067 INFO: [Flow: Update_AT_Flow(1)] #50044 - Flow step 1, containers deadlocks: 0.
+2018-Feb-06 16:42:06.067 INFO: [Flow: Update_AT_Flow(1)] End #50042 - Flow cleanup started.
+2018-Feb-06 16:42:06.069 INFO: [Flow: Update_AT_Flow(1)] End #50043 - Flow cleanup ended.
+2018-Feb-06 16:42:06.069 INFO: [Flow: Update_AT_Flow(1)] End #50045 - Flow finished successfully.
+2018-Feb-06 16:42:06.069 INFO: [Flow: Update_AT_Flow] #52221 - Waiting for distributions finish.
+2018-Feb-06 16:42:06.069 INFO: [Flow: Update_AT_Flow] #52222 - Distributions finished.
+2018-Feb-06 16:42:06.069 INFO: [Process: Run Update_AT_Channel] Java #89242 - Process Environment disposal started.
+2018-Feb-06 16:42:06.070 INFO: [Process: Run Update_AT_Channel] Java #89243 - Process Environment disposal ended.
+2018-Feb-06 16:42:06.070 INFO: [Process: Run Update_AT_Channel] End #52005 - Process finished successfully.
+<log ended>

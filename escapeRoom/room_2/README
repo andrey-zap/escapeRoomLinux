@@ -1,0 +1,6 @@
+Congratulations! You have reached room2!!
+to pass this room:
+1.Find out the White Rabbit's user ID (local user of this machine). hint: read about users in Linux.
+2.Search the users_list file in this room for ID from prev step and take the name of the user which's IP starts with
+this ID!!. hint: use find/grep/cat/vim and etc.
+3.Search for all the appearance of 

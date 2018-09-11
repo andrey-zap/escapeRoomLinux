@@ -1,0 +1,86 @@
+11:00:52.163  799  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:00:52.213  849  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:00:52.213  849  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:00:52.395  1031 [main] DEBUG c.a.automation.infra.Environment - name
+11:00:52.396  1032 [main] DEBUG c.a.automation.infra.Environment - name
+11:00:52.396  1032 [main] DEBUG c.a.automation.infra.Environment - name
+11:00:52.397  1033 [main] DEBUG c.a.automation.infra.Environment - name
+11:00:52.415  1051 [main] DEBUG c.a.automation.infra.Environment - name
+11:00:52.416  1052 [main] DEBUG c.a.automation.infra.Environment - name
+11:00:52.419  1055 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:00:52.420  1056 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:00:52.525  1161 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+11:02:29.941  742  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:02:29.947  748  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:02:29.947  748  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:02:30.119  920  [main] DEBUG c.a.automation.infra.Environment - name
+11:02:30.120  921  [main] DEBUG c.a.automation.infra.Environment - name
+11:02:30.121  922  [main] DEBUG c.a.automation.infra.Environment - name
+11:02:30.121  922  [main] DEBUG c.a.automation.infra.Environment - name
+11:02:30.128  929  [main] DEBUG c.a.automation.infra.Environment - name
+11:02:30.134  935  [main] DEBUG c.a.automation.infra.Environment - name
+11:02:30.139  940  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:02:30.139  940  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:02:30.305  1106 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+15:39:30.245  461  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+15:39:30.248  464  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+15:39:30.248  464  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+15:39:30.346  562  [main] DEBUG c.a.automation.infra.Environment - name
+15:39:30.346  562  [main] DEBUG c.a.automation.infra.Environment - name
+15:39:30.347  563  [main] DEBUG c.a.automation.infra.Environment - name
+15:39:30.347  563  [main] DEBUG c.a.automation.infra.Environment - name
+15:39:30.366  582  [main] DEBUG c.a.automation.infra.Environment - name
+15:39:30.367  583  [main] DEBUG c.a.automation.infra.Environment - name
+15:39:30.372  588  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:39:30.372  588  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:39:30.484  700  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+15:39:30.485  701  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+15:39:30.551  767  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+15:39:30.552  768  [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-15-03.39.30.551.json
+16:04:44.609  764  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:04:44.612  767  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+16:04:44.613  768  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:04:44.760  915  [main] DEBUG c.a.automation.infra.Environment - name
+16:04:44.761  916  [main] DEBUG c.a.automation.infra.Environment - name
+16:04:44.761  916  [main] DEBUG c.a.automation.infra.Environment - name
+16:04:44.761  916  [main] DEBUG c.a.automation.infra.Environment - name
+16:04:44.769  924  [main] DEBUG c.a.automation.infra.Environment - name
+16:04:44.771  926  [main] DEBUG c.a.automation.infra.Environment - name
+16:04:44.775  930  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:04:44.775  930  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:04:44.911  1066 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+17:02:20.619  510  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+17:02:20.621  512  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+17:02:20.621  512  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+17:02:20.711  602  [main] DEBUG c.a.automation.infra.Environment - name
+17:02:20.712  603  [main] DEBUG c.a.automation.infra.Environment - name
+17:02:20.712  603  [main] DEBUG c.a.automation.infra.Environment - name
+17:02:20.712  603  [main] DEBUG c.a.automation.infra.Environment - name
+17:02:20.718  609  [main] DEBUG c.a.automation.infra.Environment - name
+17:02:20.719  610  [main] DEBUG c.a.automation.infra.Environment - name
+17:02:20.721  612  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+17:02:20.722  613  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+17:02:20.729  620  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+17:02:20.729  620  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+17:02:20.806  697  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+17:02:20.812  703  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+17:02:40.005  19896 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //pk[@name='validate_proper_db_connect']/statement
+17:02:40.017  19908 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='validate_proper_db_connect']/export
+17:04:12.199  560  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+17:04:12.201  562  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+17:04:12.201  562  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+17:04:12.289  650  [main] DEBUG c.a.automation.infra.Environment - name
+17:04:12.289  650  [main] DEBUG c.a.automation.infra.Environment - name
+17:04:12.289  650  [main] DEBUG c.a.automation.infra.Environment - name
+17:04:12.289  650  [main] DEBUG c.a.automation.infra.Environment - name
+17:04:12.294  655  [main] DEBUG c.a.automation.infra.Environment - name
+17:04:12.295  656  [main] DEBUG c.a.automation.infra.Environment - name
+17:04:12.296  657  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+17:04:12.296  657  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+17:04:12.303  664  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+17:04:12.303  664  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+17:04:12.373  734  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+17:04:12.376  737  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+17:04:13.922  2283 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //pk[@name='validate_proper_db_connect']/statement
+17:04:13.925  2286 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='validate_proper_db_connect']/export

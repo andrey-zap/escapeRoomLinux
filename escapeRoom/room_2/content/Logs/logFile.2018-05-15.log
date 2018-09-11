@@ -1,0 +1,419 @@
+10:58:11.442  442  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+10:58:11.451  451  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+10:58:11.452  452  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+10:58:11.704  704  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+10:58:11.705  705  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+10:58:11.736  736  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+10:58:11.736  736  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+10:58:11.737  737  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+10:58:11.738  738  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+10:58:11.741  741  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+10:58:12.136  1136 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+10:58:12.147  1147 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+10:58:12.154  1154 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+10:58:12.177  1177 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+10:58:12.240  1240 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+10:58:12.285  1285 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+10:58:20.993  202  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.RcmRestClient' was added to the class mapper under the name 'RcmRestClient'.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.UpdateConfigParameter' was added to the class mapper under the name 'UpdateConfigParameter'.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.webservice.RCMWSActions' was added to the class mapper under the name 'RCMWSActions'.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.platformlist.PlatformListUtils' was added to the class mapper under the name 'PlatformListUtils'.
+10:58:20.996  205  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.Navigation' was added to the class mapper under the name 'Navigation'.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.PopUp' was added to the class mapper under the name 'PopUp'.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.ApplitoolsUtilities' was added to the class mapper under the name 'ApplitoolsUtilities'.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.UIUtilities' was added to the class mapper under the name 'UIUtilities'.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.AVARestClient' was added to the class mapper under the name 'AVARestClient'.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+10:58:20.997  206  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.infra.actimizeTests.DataSourceAisActionsUtil' was added to the class mapper under the name 'AisAdmin'.
+10:58:23.257  2466 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers will be closed
+10:58:23.262  2471 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+10:58:23.296  2505 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+10:58:25.797  5006 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+10:58:25.955  5164 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+10:58:28.455  7664 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+10:58:28.597  7806 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+10:58:31.097  10306 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+10:58:31.111  10320 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+10:58:33.613  12822 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+10:58:33.625  12834 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+10:58:36.125  15334 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+10:58:36.137  15346 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+10:58:41.138  20347 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers were closed
+12:50:28.389  253  [main] DEBUG c.a.automation.infra.TestFactory - Init test framework
+12:50:28.391  255  [main] DEBUG c.a.automation.infra.TestFactory - jvm = 64
+12:50:28.391  255  [main] DEBUG c.a.automation.infra.TestFactory - java version = 1.8.0_161
+12:50:28.391  255  [main] DEBUG c.a.automation.infra.TestFactory - Infra version = 2.1.5-SNAPSHOT
+12:50:28.392  256  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite file name: ExportData
+12:50:28.394  258  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite init completed
+12:50:39.178  342  [main] DEBUG c.a.automation.infra.TestFactory - Init test framework
+12:50:39.182  346  [main] DEBUG c.a.automation.infra.TestFactory - jvm = 64
+12:50:39.182  346  [main] DEBUG c.a.automation.infra.TestFactory - java version = 1.8.0_161
+12:50:39.182  346  [main] DEBUG c.a.automation.infra.TestFactory - Infra version = 2.1.5-SNAPSHOT
+12:50:39.182  346  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite file name: ExportData
+12:50:39.184  348  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite init completed
+12:52:32.365  341  [main] DEBUG c.a.automation.infra.TestFactory - Init test framework
+12:52:32.368  344  [main] DEBUG c.a.automation.infra.TestFactory - jvm = 64
+12:52:32.369  345  [main] DEBUG c.a.automation.infra.TestFactory - java version = 1.8.0_161
+12:52:32.369  345  [main] DEBUG c.a.automation.infra.TestFactory - Infra version = 2.1.5-SNAPSHOT
+12:52:32.369  345  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite file name: ExportData
+12:52:32.371  347  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite init completed
+12:54:22.939  26554 [main] DEBUG c.a.automation.infra.TestFactory - Init test framework
+12:54:22.942  26557 [main] DEBUG c.a.automation.infra.TestFactory - jvm = 64
+12:54:22.942  26557 [main] DEBUG c.a.automation.infra.TestFactory - java version = 1.8.0_161
+12:54:22.943  26558 [main] DEBUG c.a.automation.infra.TestFactory - Infra version = 2.1.5-SNAPSHOT
+12:54:22.943  26558 [main] DEBUG c.a.automation.infra.TestFactory - TestSuite file name: ExportData
+12:54:22.947  26562 [main] DEBUG c.a.automation.infra.TestFactory - TestSuite init completed
+13:07:31.698  201  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:07:31.700  203  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:07:31.700  203  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:07:31.750  253  [main] DEBUG c.a.automation.infra.Environment - name
+13:07:31.789  292  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:07:31.789  292  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:07:31.799  302  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:07:31.799  302  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:07:31.800  303  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:07:31.800  303  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:07:31.800  303  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:07:31.986  489  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:07:31.993  496  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:07:31.997  500  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:07:32.010  513  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:07:32.048  551  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:07:32.074  577  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:07:36.410  94   [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.413  97   [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.RcmRestClient' was added to the class mapper under the name 'RcmRestClient'.
+13:07:36.413  97   [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.413  97   [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.UpdateConfigParameter' was added to the class mapper under the name 'UpdateConfigParameter'.
+13:07:36.413  97   [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.webservice.RCMWSActions' was added to the class mapper under the name 'RCMWSActions'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.platformlist.PlatformListUtils' was added to the class mapper under the name 'PlatformListUtils'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.Navigation' was added to the class mapper under the name 'Navigation'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.PopUp' was added to the class mapper under the name 'PopUp'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.ApplitoolsUtilities' was added to the class mapper under the name 'ApplitoolsUtilities'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.UIUtilities' was added to the class mapper under the name 'UIUtilities'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.AVARestClient' was added to the class mapper under the name 'AVARestClient'.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:07:36.419  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.infra.actimizeTests.DataSourceAisActionsUtil' was added to the class mapper under the name 'AisAdmin'.
+13:07:37.824  1508 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers will be closed
+13:07:37.826  1510 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+13:07:37.840  1524 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+13:07:40.350  4034 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+13:07:40.357  4041 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+13:07:42.865  6549 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+13:07:42.872  6556 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+13:07:45.389  9073 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+13:07:45.396  9080 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+13:07:47.906  11590 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+13:07:47.919  11603 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+13:07:50.430  14114 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+13:07:50.446  14130 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+13:07:55.464  19148 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers were closed
+13:08:18.972  832823 [main] DEBUG c.a.automation.infra.TestFactory - Init test framework
+13:08:18.977  832828 [main] DEBUG c.a.automation.infra.TestFactory - jvm = 64
+13:08:18.977  832828 [main] DEBUG c.a.automation.infra.TestFactory - java version = 1.8.0_161
+13:08:18.978  832829 [main] DEBUG c.a.automation.infra.TestFactory - Infra version = 2.1.5-SNAPSHOT
+13:08:18.979  832830 [main] DEBUG c.a.automation.infra.TestFactory - TestSuite file name: ExportData
+13:08:18.983  832834 [main] DEBUG c.a.automation.infra.TestFactory - TestSuite init completed
+13:08:42.643  214  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:08:42.645  216  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:08:42.645  216  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:08:42.702  273  [main] DEBUG c.a.automation.infra.Environment - name
+13:08:42.739  310  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:08:42.739  310  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:08:42.750  321  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:08:42.751  322  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:08:42.751  322  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:08:42.751  322  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:08:42.751  322  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:08:42.953  524  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:08:42.955  526  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:08:42.959  530  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:08:42.976  547  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:08:43.013  584  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:08:43.039  610  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:08:47.653  101  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.655  103  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.RcmRestClient' was added to the class mapper under the name 'RcmRestClient'.
+13:08:47.656  104  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.656  104  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.UpdateConfigParameter' was added to the class mapper under the name 'UpdateConfigParameter'.
+13:08:47.656  104  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.webservice.RCMWSActions' was added to the class mapper under the name 'RCMWSActions'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.platformlist.PlatformListUtils' was added to the class mapper under the name 'PlatformListUtils'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.Navigation' was added to the class mapper under the name 'Navigation'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.PopUp' was added to the class mapper under the name 'PopUp'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.ApplitoolsUtilities' was added to the class mapper under the name 'ApplitoolsUtilities'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.UIUtilities' was added to the class mapper under the name 'UIUtilities'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.AVARestClient' was added to the class mapper under the name 'AVARestClient'.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:08:47.662  110  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.infra.actimizeTests.DataSourceAisActionsUtil' was added to the class mapper under the name 'AisAdmin'.
+13:08:49.210  1658 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers will be closed
+13:08:49.212  1660 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+13:08:49.221  1669 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+13:08:51.733  4181 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+13:08:51.740  4188 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+13:08:54.245  6693 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+13:08:54.256  6704 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+13:08:56.762  9210 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+13:08:56.783  9231 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+13:08:59.286  11734 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+13:08:59.300  11748 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+13:09:01.805  14253 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+13:09:01.819  14267 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+13:09:24.979  220  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:09:24.988  229  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:09:24.988  229  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:09:25.066  307  [main] DEBUG c.a.automation.infra.Environment - name
+13:09:25.153  394  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:09:25.154  395  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:09:25.171  412  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:09:25.171  412  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:09:25.171  412  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:09:25.172  413  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:09:25.172  413  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:09:25.388  629  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:09:25.393  634  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:09:25.396  637  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\testInputsFile
+13:09:25.409  650  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:09:25.444  685  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:09:25.467  708  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/CaseWI\RCM_Connector.ini --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\RCM_Connector.ini
+13:09:30.101  151  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.101  151  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.RcmRestClient' was added to the class mapper under the name 'RcmRestClient'.
+13:09:30.101  151  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.101  151  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.UpdateConfigParameter' was added to the class mapper under the name 'UpdateConfigParameter'.
+13:09:30.101  151  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.webservice.RCMWSActions' was added to the class mapper under the name 'RCMWSActions'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.platformlist.PlatformListUtils' was added to the class mapper under the name 'PlatformListUtils'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.Navigation' was added to the class mapper under the name 'Navigation'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.PopUp' was added to the class mapper under the name 'PopUp'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.ApplitoolsUtilities' was added to the class mapper under the name 'ApplitoolsUtilities'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.gui.UIUtilities' was added to the class mapper under the name 'UIUtilities'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.rcm.infra.rest.AVARestClient' was added to the class mapper under the name 'AVARestClient'.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - In 'addClassToMapper' method.
+13:09:30.117  167  [main] DEBUG c.a.automation.infra.TestFactory - The class 'com.actimize.automation.infra.actimizeTests.DataSourceAisActionsUtil' was added to the class mapper under the name 'AisAdmin'.
+13:09:31.636  1686 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers will be closed
+13:09:31.638  1688 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+13:09:31.646  1696 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+13:09:34.149  4199 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing explorer driver
+13:09:34.158  4208 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing explorer web driver
+13:09:36.661  6711 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+13:09:36.672  6722 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+13:09:39.194  9244 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing FireFox driver
+13:09:39.217  9267 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing FireFox web driver
+13:09:41.724  11774 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+13:09:41.730  11780 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+13:09:44.244  14294 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Killing Chrome driver
+13:09:44.257  14307 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - Finished killing Chrome web driver
+13:09:49.275  19325 [Finalizer] DEBUG c.a.a.infra.utils.DriverUtil - all drivers were closed
+13:11:46.154  358  [main] DEBUG c.a.automation.infra.TestFactory - Init test framework
+13:11:46.158  362  [main] DEBUG c.a.automation.infra.TestFactory - jvm = 64
+13:11:46.158  362  [main] DEBUG c.a.automation.infra.TestFactory - java version = 1.8.0_161
+13:11:46.159  363  [main] DEBUG c.a.automation.infra.TestFactory - Infra version = 2.1.5-SNAPSHOT
+13:11:46.159  363  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite file name: ExportData
+13:11:46.161  365  [main] DEBUG c.a.automation.infra.TestFactory - TestSuite init completed
+13:11:46.567  771  [main] DEBUG c.a.automation.infra.TestFactory - Before suite
+13:11:46.567  771  [main] DEBUG c.a.automation.infra.TestFactory - Running suite: ExportData
+13:11:46.567  771  [main] DEBUG c.a.automation.infra.TestFactory - ++++++++++++++++++++++++++ USING LATEST VERSION ***************************
+13:11:46.567  771  [main] DEBUG c.a.automation.infra.TestFactory - ++++++++++++++++++++++++++ USING LATEST VERSION ***************************
+13:11:46.571  775  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:11:46.571  775  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm
+13:11:46.572  776  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:11:46.678  882  [main] DEBUG c.a.automation.infra.Environment - name
+13:11:46.761  965  [TestNG] DEBUG c.a.automation.infra.TestFactory - before test
+13:11:46.761  965  [TestNG] DEBUG c.a.automation.infra.TestFactory - Running Test suit= ExportData
+13:11:46.762  966  [TestNG] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:11:46.762  966  [TestNG] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:11:46.785  989  [TestNG] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\logo.png
+13:11:46.820  1024 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.821  1025 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.821  1025 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.821  1025 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.822  1026 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.822  1026 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.823  1027 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.823  1027 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.823  1027 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.824  1028 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.825  1029 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.825  1029 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.825  1029 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.825  1029 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.825  1029 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.825  1029 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.826  1030 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.826  1030 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.826  1030 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.826  1030 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.826  1030 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.826  1030 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.827  1031 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.828  1032 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.829  1033 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.829  1033 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.829  1033 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.829  1033 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.829  1033 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.833  1037 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.834  1038 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.835  1039 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.836  1040 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.836  1040 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.837  1041 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.ActimizeTest
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.838  1042 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.839  1043 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.841  1045 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.OSActions
+13:11:46.842  1046 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.WebServices
+13:11:46.843  1047 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.WebServices
+13:11:46.843  1047 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.WebServices
+13:11:46.843  1047 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.WebServices
+13:11:46.843  1047 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.actimizeTests.WebServices
+13:11:46.843  1047 [TestNG] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.rcm.tests.ExportData
+13:11:46.856  1060 [TestNG] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+13:11:46.872  1076 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - cmd: runUtility: cmd=cd C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\target\utilities\utilities_6.0.0.7-SNAPSHOT\bin && import.bat -acm http://10.128.16.38:8080/RCM -user admin -password password
+13:11:46.872  1076 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - cmd: runUtility: cmd=cd C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\target\utilities\utilities_6.0.0.7-SNAPSHOT\bin && import.bat -acm http://10.128.16.38:8080/RCM -user admin -password password
+13:11:46.872  1076 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - TEST_NAME_IN_SUMMARY = PRE_CONDITION_APF import APF with DDQ's and Alert type and role
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - headlessMode = false
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - ACTION_CATEGORY = BEFORE_SUITE
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - TEST_SUITE_NAME = ExportData
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - SKIP_IE1 = 
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - UTILITY_PASSWORD = password
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CLASS_ACTION = ExportData
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CMD_PARAM_3 = brokenlinkpolicy
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - runAllTests = true
+13:11:46.873  1077 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CMD_PARAM_1 = filename
+13:11:46.876  1080 [TestNG] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/testInputsFile/ExportData/ExportData_oracle.apf --> C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\ExportData_oracle.apf
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - solution = rcm
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CMD_PARAM_2 = importPolicy
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - UTILITY_NAME = import.bat
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CMD_VALUE_1 = ExportData/ExportData_oracle.apf
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - SKIP_IE = 
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - SKIP_CHROME = x
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CMD_VALUE_2 = Overwrite
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - TEST_NAME = PRE_CONDITION_APF import APF with DDQ's and Alert type and role
+13:11:46.882  1086 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - navigateToDefaultUrl = true
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - ID = 0
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - IMPORT_BY = db_type
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - SKIP_FIREFOX = x
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - DEPENDENCY_TEST = 
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - dataFormat = JSON
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - CMD_VALUE_3 = Permissive
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - ALM_TEST_ID = 
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - SKIP_FIREFOX1 = x
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - TEST_DESCRIPTION = 
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - SKIP_CHROME1 = x
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - ACTION = DB_APF_run_utility
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - TEST_STEPS = 
+13:11:46.883  1087 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - UTILITY_USER_ID = admin
+13:11:46.887  1091 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: cd C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\target\utilities\utilities_6.0.0.7-SNAPSHOT\bin && import.bat -acm http://10.128.16.38:8080/RCM -user admin -password password -brokenlinkpolicy Permissive -filename C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\ExportData_oracle.apf -importPolicy Overwrite 
+13:11:46.887  1091 [TestNG] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+13:11:46.895  1099 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c cd C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\target\utilities\utilities_6.0.0.7-SNAPSHOT\bin && import.bat -acm http://10.128.16.38:8080/RCM -user admin -password password -brokenlinkpolicy Permissive -filename C:\Users\develeap\Work\Actimize\AAF\code\rcm\rcm\output\ExportData_oracle.apf -importPolicy Overwrite

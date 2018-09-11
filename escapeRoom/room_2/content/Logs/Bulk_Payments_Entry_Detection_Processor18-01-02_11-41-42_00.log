@@ -1,0 +1,60 @@
+﻿2018-Jan-02 11:41:42.009 INFO: [Process: Bulk Payments Entry Detection Processor] Init #52009 - Process initializing.
+2018-Jan-02 11:41:42.015 INFO: [Process: Bulk Payments Entry Detection Processor] Init #52512 - Profiler activation mode: [No] | Snapshot interval: N/A seconds | Txn profiling mode: [N/A], N/A microseconds, num top blocks: N/A, output txn data: N/A.
+2018-Jan-02 11:41:47.208 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_DbConnector_DSN' from instance with value 'database'. Location: [Connector:FF_appTransactionSaverConnector\<dsn>]
+2018-Jan-02 11:41:47.209 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_DbConnector_RealTimeUserName' from instance with value 'QA_IFM_1_APP_REALTIME'. Location: [Connector:FF_appTransactionSaverConnector\<user name>]
+2018-Jan-02 11:41:47.209 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_DbConnector_RealTimePassword' from instance with value '********'. Location: [Connector:FF_appTransactionSaverConnector\<password>]
+2018-Jan-02 11:41:47.209 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_DbConnector_DefaultDatabase' from instance with value 'QA_IFM_1_APP'. Location: [Connector:FF_appTransactionSaverConnector\<default database>]
+2018-Jan-02 11:41:47.209 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_TransactionSaver_ConnectTimeout' from instance with value '120'. Location: [Connector:FF_appTransactionSaverConnector\<connection time out>]
+2018-Jan-02 11:41:47.210 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_TransactionSaver_CommandTimeout' from instance with value '2000'. Location: [Connector:FF_appTransactionSaverConnector\<command time out>]
+2018-Jan-02 11:41:47.210 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_DbConnector_DatabaseType' from instance with value 'SQLServer'. Location: [Connector:FF_appTransactionSaverConnector\<dbms type>]
+2018-Jan-02 11:41:47.210 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_APP_DbConnector_ServerName' from instance with value 'database'. Location: [Connector:FF_appTransactionSaverConnector\<server name>]
+2018-Jan-02 11:41:59.502 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_commercialActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'Rule set for commercial' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'Channel - Web' { <no test rules> }.
+2018-Jan-02 11:41:59.797 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_commercialActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'RuleSet_MPA_Commercial' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'MPA AccountKey', 'MPA TrxType', 'MPA Channel', 'MPA PartyKey', 'MPA RejTrxInd', 'MPA NormOrigAmount' { <no test rules> }.
+2018-Jan-02 11:42:00.068 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_commercialActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'RuleSet_Main_Ent_Act_Commercial' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'MainEntityActivityCommSet AccountKey', 'MainEntityActivityCommSet TrxType', 'MainEntityActivityCommSet Channel', 'MainEntityActivityCommSet PartyKey', 'MainEntityActivityCommSet RejTrxInd' { <no test rules> }.
+2018-Jan-02 11:42:00.344 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_commercialActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'RuleSet_Main_Ent_Trx_Commercial' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'MainEntityTrxCommSet AccountKey', 'MainEntityTrxCommSet TrxType', 'MainEntityTrxCommSet Channel', 'MainEntityTrxCommSet PartyKey', 'MainEntityTrxCommSet RejTrxInd' { <no test rules> }.
+2018-Jan-02 11:42:01.632 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_customActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'PayeeAliasKey' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'Alias' { <no test rules> }.
+2018-Jan-02 11:42:01.838 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_depositActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'RuleSet_Deposit' compiled successfully. Execution mode: 'Regular'. Active rule(s): <no rules> { <no test rules> }.
+2018-Jan-02 11:42:02.826 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_retailActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'Retail PayeeAliasKey' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'Alias' { <no test rules> }.
+2018-Jan-02 11:42:03.011 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88401 - View 'FF_retailActivityScoringRulesContext' (Rule Set Context 'FF_userAnalyticsScoringRulesContext'): Rule Set 'RuleSet_Retail' compiled successfully. Execution mode: 'Regular'. Active rule(s): 'Rule_Retail' { <no test rules> }.
+2018-Jan-02 11:42:05.962 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_acpActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.962 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_acpActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:05.962 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_acquirerActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.962 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_acquirerActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_cardActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_cardActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_commercialActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_commercialActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_customActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_customActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:05.963 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_depositActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.964 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_depositActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:05.964 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_retailActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:05.964 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88307 - View 'FF_retailActivityActionRulesContext' cleared, no policies are active.
+2018-Jan-02 11:42:12.952 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88777 - Generating code for Rule Set Context 'FF_userAnalyticsBulkPaymentEntryActionRulesContext'...
+2018-Jan-02 11:42:13.037 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88780 - Generating code for Rule Set Context View 'FF_commBulkPaymentEntryActivityActionRulesContext'...
+2018-Jan-02 11:42:13.117 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88301 - View 'FF_commBulkPaymentEntryActivityActionRulesContext': Tenant '' policy compiled with no active rules.
+2018-Jan-02 11:42:13.134 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Rule_Set_Context #88778 - Code for Rule Set Context 'FF_userAnalyticsBulkPaymentEntryActionRulesContext' View(s) was generated successfully.
+2018-Jan-02 11:42:20.254 INFO: [Process: Bulk Payments Entry Detection Processor] #52001 - Process is running.
+2018-Jan-02 11:42:20.255 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Init #50040 - Flow initializing.
+2018-Jan-02 11:42:20.255 INFO: [Source: FF_infiniteWorkerChannel : infinite] Init #53001 - Source initializing.
+2018-Jan-02 11:42:20.255 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Init #50041 - Flow initialized successfully.
+2018-Jan-02 11:42:20.255 INFO: [Source: FF_infiniteWorkerChannel : infinite] Init #53002 - Source initialized successfully.
+2018-Jan-02 11:44:43.301 INFO: [Process: Bulk Payments Entry Detection Processor] End #52003 - Process aborting by user request.
+2018-Jan-02 11:44:43.302 INFO: [Flow: FF_infiniteWorkerChannel : infinite] Java #89240 - Active Component disposal started.
+2018-Jan-02 11:44:43.303 INFO: [Flow: FF_infiniteWorkerChannel : infinite] Java #89241 - Active Component disposal ended.
+2018-Jan-02 11:44:43.303 INFO: [Source: FF_infiniteWorkerChannel : infinite] #53007 - Source step 1002 (Passed: 1002, Filtered:0, Erroneous: 0, Containers deadlocks: 0, End of Source: 0).
+2018-Jan-02 11:44:43.303 INFO: [Source: FF_infiniteWorkerChannel : infinite] End #53004 - Source cleanup started.
+2018-Jan-02 11:44:43.303 INFO: [Source: FF_infiniteWorkerChannel : infinite] End #53005 - Source cleanup ended.
+2018-Jan-02 11:44:43.304 INFO: [Source: FF_infiniteWorkerChannel : infinite] End #53011 - Source aborted.
+2018-Jan-02 11:44:43.305 ERROR: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Java #89029 - Java exception: Worker aborted Location: [Flow:FF_bulkPaymentsEntryDetectionWorker\[Call Bulk Payment Entry Detection Worker]]
+2018-Jan-02 11:44:43.305 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Java #89240 - Active Component disposal started.
+2018-Jan-02 11:44:43.308 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] Java #89241 - Active Component disposal ended.
+2018-Jan-02 11:44:43.308 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] #50044 - Flow step 36, containers deadlocks: 0.
+2018-Jan-02 11:44:43.308 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] End #50042 - Flow cleanup started.
+2018-Jan-02 11:44:43.342 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] End #50043 - Flow cleanup ended.
+2018-Jan-02 11:44:43.342 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker(1)] End #50047 - Flow aborted.
+2018-Jan-02 11:44:43.345 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker] #52221 - Waiting for distributions finish.
+2018-Jan-02 11:44:43.345 INFO: [Flow: FF_bulkPaymentsEntryDetectionWorker] #52222 - Distributions finished.
+2018-Jan-02 11:44:43.345 INFO: [Process: Bulk Payments Entry Detection Processor] Java #89242 - Process Environment disposal started.
+2018-Jan-02 11:44:43.346 INFO: [Process: Bulk Payments Entry Detection Processor] Java #89243 - Process Environment disposal ended.
+2018-Jan-02 11:44:43.346 INFO: [Process: Bulk Payments Entry Detection Processor] End #52008 - Process aborted.

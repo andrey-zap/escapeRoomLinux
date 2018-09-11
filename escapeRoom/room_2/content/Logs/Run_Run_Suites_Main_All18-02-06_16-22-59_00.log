@@ -1,0 +1,4 @@
+﻿2018-Feb-06 16:22:59.641 INFO: [ExecutionPlanTask] Process #4118 - Condition block 'IsSuiteListNotNULL' started.
+2018-Feb-06 16:22:59.643 INFO: [ExecutionPlanTask] Process #4119 - Condition block 'IsSuiteListNotNULL' ended. Result was 'false'.
+2018-Feb-06 16:22:59.685 INFO: [ExecutionPlanTask: Run All Suites] Process #4018 - New process 'Run All Suites' has been launched. Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]
+2018-Feb-06 16:22:59.685 INFO: [ExecutionPlanTask: Run All Suites] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_All_Suites18-02-06_16-22-59_00.log'. Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]

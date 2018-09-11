@@ -1,0 +1,3 @@
+﻿(TID#0x00001750) 2018-Feb-06 16:21:59.201 INFO: [Process] #6008 - SQL statement 'truncate table FF_REJECT_NOTIFICATIONS;'.
+(TID#0x00001750) 2018-Feb-06 16:21:59.212 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=QA_IFM_1_APP_owner;PWD=Actimize1;DATABASE=QA_IFM_1_APP;'.
+(TID#0x00000abc) <log ended>

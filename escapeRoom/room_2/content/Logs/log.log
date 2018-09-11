@@ -1,0 +1,170 @@
+10:29:13.321  550  [main] ERROR c.a.a.t.e.ExcelJsonConverter - Wrong arguments passed.
+10:29:27.274  655  [JavaFX Application Thread] ERROR sample.Controller - null
+10:35:27.084  360465 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\OutGoingForm (1).xlsx, C:\Users\develeap\Desktop\New folder\Output Files, EXCEL_TO_JSON
+10:35:27.084  360465 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:35:27.084  360465 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:35:27.084  360465 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+10:35:27.088  360469 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file OutGoingForm (1).xlsx...
+10:35:28.094  361475 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+10:35:28.096  361477 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to OutGoingForm (1).json...
+10:35:28.157  361538 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+10:35:28.161  361542 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:35:28.161  361542 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:35:28.161  361542 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+10:36:15.652  409033 [Thread-6] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\ExportData.json, C:\Users\develeap\Desktop\New folder\Output Files, JSON_TO_EXCEL
+10:36:15.652  409033 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:36:15.652  409033 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:36:15.652  409033 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion JSON_TO_EXCEL (1/1)...
+10:36:15.654  409035 [Thread-6] INFO  c.a.a.t.e.model.parsers.JsonParser - Parsing source file ExportData.json...
+10:36:15.668  409049 [Thread-6] INFO  c.a.a.t.e.model.parsers.JsonParser - Source file parsed successfully.
+10:36:15.670  409051 [Thread-6] INFO  c.a.a.t.e.model.writers.ExcelWriter - Writing test cases in ExportData.xlsx...
+10:36:17.589  410970 [Thread-6] INFO  c.a.a.t.e.model.writers.ExcelWriter - Test cases written in the Excel output file successfully.
+10:36:17.589  410970 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:36:17.589  410970 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:36:17.589  410970 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+10:36:38.635  432016 [Thread-7] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop\New folder\Output Files, EXCEL_TO_JSON
+10:36:38.636  432017 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:36:38.636  432017 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:36:38.636  432017 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+10:36:38.636  432017 [Thread-7] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+10:36:38.711  432092 [Thread-7] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+10:36:38.712  432093 [Thread-7] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+10:36:38.732  432113 [Thread-7] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+10:36:38.746  432127 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:36:38.746  432127 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:36:38.747  432128 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+10:38:49.395  562776 [Thread-8] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop\New folder\Output Files, EXCEL_TO_JSON
+10:38:49.396  562777 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:38:49.396  562777 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:38:49.396  562777 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+10:38:49.396  562777 [Thread-8] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+10:38:49.433  562814 [Thread-8] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+10:38:49.433  562814 [Thread-8] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+10:38:49.439  562820 [Thread-8] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+10:38:49.446  562827 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:38:49.447  562828 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:38:49.447  562828 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+10:41:26.827  720208 [Thread-9] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\PolicyManager.xlsx, C:\Users\develeap\Desktop\New folder\Output Files, EXCEL_TO_JSON
+10:41:26.828  720209 [Thread-9] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:41:26.828  720209 [Thread-9] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:41:26.828  720209 [Thread-9] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+10:41:26.828  720209 [Thread-9] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file PolicyManager.xlsx...
+10:41:27.180  720561 [Thread-9] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+10:41:27.180  720561 [Thread-9] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to PolicyManager.json...
+10:41:27.183  720564 [Thread-9] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+10:41:27.193  720574 [Thread-9] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:41:27.193  720574 [Thread-9] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:41:27.194  720575 [Thread-9] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+10:55:22.459  699  [JavaFX Application Thread] ERROR sample.Controller - null
+10:55:44.268  22508 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\jsonWithAmpersent.json, C:\Users\develeap\Desktop\New folder\Output Files, JSON_TO_EXCEL
+10:55:44.268  22508 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:55:44.268  22508 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:55:44.268  22508 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion JSON_TO_EXCEL (1/1)...
+10:55:44.270  22510 [Thread-4] INFO  c.a.a.t.e.model.parsers.JsonParser - Parsing source file jsonWithAmpersent.json...
+10:55:44.327  22567 [Thread-4] INFO  c.a.a.t.e.model.parsers.JsonParser - Source file parsed successfully.
+10:55:44.331  22571 [Thread-4] INFO  c.a.a.t.e.model.writers.ExcelWriter - Writing test cases in jsonWithAmpersent.xlsx...
+10:55:46.260  24500 [Thread-4] INFO  c.a.a.t.e.model.writers.ExcelWriter - Test cases written in the Excel output file successfully.
+10:55:46.260  24500 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:55:46.261  24501 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:55:46.261  24501 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+10:57:06.861  105101 [Thread-6] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\jsonWithAmpersent.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+10:57:06.861  105101 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+10:57:06.862  105102 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:57:06.862  105102 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+10:57:06.863  105103 [Thread-6] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file jsonWithAmpersent.xlsx...
+10:57:07.087  105327 [Thread-6] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+10:57:07.089  105329 [Thread-6] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to jsonWithAmpersent.json...
+10:57:07.110  105350 [Thread-6] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+10:57:07.118  105358 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+10:57:07.118  105358 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+10:57:07.119  105359 [Thread-6] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:02:47.606  445846 [Thread-7] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:02:47.606  445846 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:02:47.606  445846 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:02:47.606  445846 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:02:47.606  445846 [Thread-7] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:02:47.701  445941 [Thread-7] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:02:47.701  445941 [Thread-7] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:02:47.706  445946 [Thread-7] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:02:47.721  445961 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:02:47.721  445961 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:02:47.721  445961 [Thread-7] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:05:10.701  588941 [Thread-8] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:05:10.701  588941 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:05:10.702  588942 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:05:10.702  588942 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:05:10.702  588942 [Thread-8] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:05:10.742  588982 [Thread-8] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:05:10.742  588982 [Thread-8] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:05:10.746  588986 [Thread-8] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:05:10.753  588993 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:05:10.754  588994 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:05:10.754  588994 [Thread-8] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:11:56.897  721  [JavaFX Application Thread] ERROR sample.Controller - null
+11:13:24.205  88029 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:13:30.478  94302 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:13:33.372  97196 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:13:41.099  104923 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:14:08.283  132107 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:20:31.646  515470 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:20:31.648  515472 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:20:31.699  515523 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:20:31.705  515529 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:20:31.705  515529 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:20:31.705  515529 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:21:35.110  450  [JavaFX Application Thread] ERROR sample.Controller - null
+11:21:44.413  9753 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:21:44.413  9753 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:21:44.414  9754 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:21:44.414  9754 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:21:44.439  9779 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:22:01.516  26856 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:22:01.517  26857 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:22:01.568  26908 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:22:01.574  26914 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:22:01.575  26915 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:22:01.575  26915 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:22:57.521  462  [JavaFX Application Thread] ERROR sample.Controller - null
+11:22:58.967  1908 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:22:58.967  1908 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:22:58.967  1908 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:22:58.967  1908 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:22:58.974  1915 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:23:00.553  3494 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:23:00.554  3495 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:23:00.604  3545 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:23:00.613  3554 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:23:00.613  3554 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:23:00.613  3554 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:23:15.105  441  [JavaFX Application Thread] ERROR sample.Controller - null
+11:23:31.395  16731 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:23:31.395  16731 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:23:31.395  16731 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:23:31.395  16731 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:23:31.404  16740 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:41:41.183  1106519 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:41:41.186  1106522 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:41:41.260  1106596 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:41:41.268  1106604 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:41:41.268  1106604 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:41:41.268  1106604 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:41:59.624  436  [JavaFX Application Thread] ERROR sample.Controller - null
+11:42:01.802  2614 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:42:01.802  2614 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:42:01.802  2614 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:42:01.802  2614 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:42:01.808  2620 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:43:03.284  64096 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:43:03.286  64098 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...
+11:43:03.342  64154 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Test cases written in the Json output file successfully.
+11:43:03.350  64162 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Conversion completed successfully.
+11:43:03.351  64163 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:43:03.351  64163 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) conversion finished.
+11:44:18.276  450  [JavaFX Application Thread] ERROR sample.Controller - null
+11:44:22.685  4859 [Thread-4] INFO  sample.Controller - Careated converter with params: C:\Users\develeap\Desktop\New folder\Output Files\ExportData.xlsx, C:\Users\develeap\Desktop, EXCEL_TO_JSON
+11:44:22.685  4859 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - File(s) to convert: 1
+11:44:22.685  4859 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - --------------------------------------------------
+11:44:22.686  4860 [Thread-4] INFO  c.a.a.t.e.ExcelJsonConverter - Starting the conversion EXCEL_TO_JSON (1/1)...
+11:44:22.698  4872 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Parsing source file ExportData.xlsx...
+11:44:44.492  26666 [Thread-4] INFO  c.a.a.t.e.model.parsers.ExcelParser - Source file parsed successfully.
+11:44:44.495  26669 [Thread-4] INFO  c.a.a.t.e.model.writers.JsonWriter - Writing test cases to ExportData.json...

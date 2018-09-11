@@ -1,0 +1,1050 @@
+16:14:39.469  670  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:39.479  680  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:39.479  680  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:39.542  743  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:39.542  743  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:39.617  818  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:14:39.618  819  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:39.621  822  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:39.635  836  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:39.636  837  [main] ERROR c.a.a.infra.reporter.BasicReporter - Unable to locate actimize icon. 'other' is different type of Path
+16:14:39.640  841  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:39.932  1133 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:40.019  1220 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.020  1221 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.027  1228 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.085  1286 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\1533820479972.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\1533820479972.log","attachedLog":"1533820479975.txt"}
+16:14:40.090  1291 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:40.091  1292 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.091  1292 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Specific1
+16:14:40.097  1298 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Specific1
+16:14:40.097  1298 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.097  1298 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:40.099  1300 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:40.119  1320 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:40.120  1321 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.120  1321 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.121  1322 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.159  1360 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\1533820480120.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\1533820480120.log","attachedLog":"1533820480120.txt"}
+16:14:40.164  1365 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:40.165  1366 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.165  1366 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:40.167  1368 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:40.187  1388 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:40.188  1389 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.188  1389 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.189  1390 [pool-4-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.226  1427 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\1533820480188.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\1533820480188.log","attachedLog":"1533820480188.txt"}
+16:14:40.231  1432 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:40.231  1432 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.245  1446 [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:14:40.246  1447 [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:40.246  1447 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:40.247  1448 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:40.266  1467 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\log_5.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\log_5.html","attachedLog":"./1.txt"}
+16:14:40.268  1469 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.268  1469 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.268  1469 [pool-5-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.304  1505 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\1533820480268.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\1533820480268.log","attachedLog":"1533820480268.txt"}
+16:14:40.308  1509 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:40.308  1509 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.308  1509 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:40.310  1511 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:40.333  1534 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\log_6.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\log_6.html","attachedLog":"./1.txt"}
+16:14:40.334  1535 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.334  1535 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.335  1536 [pool-6-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.369  1570 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\1533820480334.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\1533820480334.log","attachedLog":"1533820480334.txt"}
+16:14:40.374  1575 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:40.374  1575 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.374  1575 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:40.375  1576 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:40.392  1593 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\log_7.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\log_7.html","attachedLog":"./1.txt"}
+16:14:40.394  1595 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.394  1595 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.394  1595 [pool-7-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.430  1631 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\1533820480394.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\1533820480394.log","attachedLog":"1533820480394.txt"}
+16:14:40.436  1637 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:40.436  1637 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.436  1637 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Specific1
+16:14:40.438  1639 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Specific1
+16:14:40.439  1640 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.440  1641 [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:14:40.440  1641 [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:40.440  1641 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Specific1
+16:14:40.447  1648 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Specific1
+16:14:40.448  1649 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.448  1649 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:40.449  1650 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:40.467  1668 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\log_9.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\log_9.html","attachedLog":"./1.txt"}
+16:14:40.468  1669 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.468  1669 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.468  1669 [pool-8-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.507  1708 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\1533820480468.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\1533820480468.log","attachedLog":"1533820480468.txt"}
+16:14:40.511  1712 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:40.511  1712 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.511  1712 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:40.513  1714 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:40.530  1731 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\log_10.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\log_10.html","attachedLog":"./1.txt"}
+16:14:40.531  1732 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.531  1732 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.531  1732 [pool-9-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.568  1769 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\1533820480531.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\1533820480531.log","attachedLog":"1533820480531.txt"}
+16:14:40.572  1773 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:40.572  1773 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.572  1773 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:40.574  1775 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:40.590  1791 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\log_11.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\log_11.html","attachedLog":"./1.txt"}
+16:14:40.591  1792 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.592  1793 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.592  1793 [pool-10-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.626  1827 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\1533820480591.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\1533820480591.log","attachedLog":"1533820480591.txt"}
+16:14:40.631  1832 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:40.631  1832 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.633  1834 [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:14:40.633  1834 [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:40.633  1834 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:40.634  1835 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:40.654  1855 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\log_13.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\log_13.html","attachedLog":"./1.txt"}
+16:14:40.656  1857 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.656  1857 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.661  1862 [pool-11-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.697  1898 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_1\1533820480656.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_1\\1533820480656.log","attachedLog":"1533820480656.txt"}
+16:14:40.702  1903 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:40.703  1904 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.703  1904 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Specific1
+16:14:40.705  1906 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Specific1
+16:14:40.705  1906 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.706  1907 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:40.707  1908 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:40.725  1926 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\log_14.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\log_14.html","attachedLog":"./1.txt"}
+16:14:40.726  1927 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.726  1927 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.727  1928 [pool-12-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.762  1963 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_2\1533820480726.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_2\\1533820480726.log","attachedLog":"1533820480726.txt"}
+16:14:40.767  1968 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:40.767  1968 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:40.767  1968 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:40.768  1969 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:40.784  1985 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\log_15.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\log_15.html","attachedLog":"./1.txt"}
+16:14:40.785  1986 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:40.785  1986 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:40.785  1986 [pool-13-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:40.820  2021 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.14.39\Snapshots\actions\Dummy_3\1533820480785.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.14.39\\Snapshots\\actions\\Dummy_3\\1533820480785.log","attachedLog":"1533820480785.txt"}
+16:14:40.824  2025 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:40.824  2025 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:42.619  372  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:14:42.622  375  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: TestDbReporterFolderBatch ***************************************
+16:14:42.668  421  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:42.668  421  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:42.668  421  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:42.732  485  [main] DEBUG c.a.automation.infra.Environment - name
+16:14:42.733  486  [main] DEBUG c.a.automation.infra.Environment - name
+16:14:42.733  486  [main] DEBUG c.a.automation.infra.Environment - name
+16:14:42.733  486  [main] DEBUG c.a.automation.infra.Environment - name
+16:14:42.737  490  [main] DEBUG c.a.automation.infra.Environment - name
+16:14:42.737  490  [main] DEBUG c.a.automation.infra.Environment - name
+16:14:42.739  492  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.739  492  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.740  493  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.740  493  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.743  496  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:14:42.745  498  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:42.745  498  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:42.745  498  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:42.750  503  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.750  503  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.763  516  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:14:42.763  516  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.763  516  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.764  517  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:14:42.764  517  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.764  517  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.764  517  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:14:42.764  517  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.765  518  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.765  518  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:14:42.765  518  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:42.765  518  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:42.841  594  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:14:42.842  595  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:14:42.850  603  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:42.851  604  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:14:42.859  612  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:42.890  643  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:14:42.891  644  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:42.900  653  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:43.154  907  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:43.199  952  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:43.199  952  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:43.208  961  [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:43.260  1013 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\Dummy_1\1533820483192.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\Dummy_1\\1533820483192.log","attachedLog":"1533820483195.txt"}
+16:14:43.276  1029 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:43.277  1030 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:43.277  1030 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: DBAction
+16:14:43.645  1398 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\DBAction\log_5.html!{"expected":"any statement","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\DBAction\\log_5.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.43.html"}
+16:14:43.673  1426 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\DBAction\log_5.html!{"expected":"any statement","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\DBAction\\log_5.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.43-2.html"}
+16:14:43.696  1449 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\DBAction\log_5.html!{"expected":"any statement","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\DBAction\\log_5.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.43-3.html"}
+16:14:43.721  1474 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\DBAction\log_5.html!{"expected":"any statement","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\DBAction\\log_5.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.43-4.html"}
+16:14:43.743  1496 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: DBAction
+16:14:43.744  1497 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:43.744  1497 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:43.745  1498 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:43.756  1509 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:43.757  1510 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:43.757  1510 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:43.757  1510 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:43.794  1547 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\Dummy_2\1533820483757.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\Dummy_2\\1533820483757.log","attachedLog":"1533820483757.txt"}
+16:14:43.810  1563 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:43.810  1563 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:43.811  1564 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:43.813  1566 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:43.822  1575 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:43.823  1576 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:43.823  1576 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:43.824  1577 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:43.862  1615 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\actions\Dummy_3\1533820483823.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\actions\\Dummy_3\\1533820483823.log","attachedLog":"1533820483823.txt"}
+16:14:43.880  1633 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:43.881  1634 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:43.881  1634 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:14:43.899  1652 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:14:43.899  1652 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:43.917  1670 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:14:43.957  1710 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:43.990  1743 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\tests\usecase0\testDbFolderReport\log.html!{"expected":"testReportFolder","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\tests\\usecase0\\testDbFolderReport\\log.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.43.html"}
+16:14:44.017  1770 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.017  1770 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.023  1776 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:14:44.050  1803 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\tests\usecase3\testDbFolderReport\log.html!{"expected":"testReportFolder","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\tests\\usecase3\\testDbFolderReport\\log.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.44.html"}
+16:14:44.069  1822 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.070  1823 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.077  1830 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:14:44.110  1863 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\tests\usecase2\testDbFolderReport\log.html!{"expected":"testReportFolder","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\tests\\usecase2\\testDbFolderReport\\log.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.44.html"}
+16:14:44.127  1880 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.127  1880 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.135  1888 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:14:44.164  1917 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.42\Snapshots\tests\usecase1\testDbFolderReport\log.html!{"expected":"testReportFolder","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.42\\Snapshots\\tests\\usecase1\\testDbFolderReport\\log.html","attachedLog":"Compare Reports/Equals CompareHtmlReport2018-08-09T16.14.44.html"}
+16:14:44.179  1932 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.179  1932 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.180  1933 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:44.197  1950 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.197  1950 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.198  1951 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:14:44.213  1966 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.213  1966 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.214  1967 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:14:44.228  1981 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.228  1981 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.229  1982 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:14:44.243  1996 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.244  1997 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.244  1997 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:44.261  2014 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.435  2188 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.447  2200 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.447  2200 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.448  2201 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:14:44.466  2219 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:14:44.473  2226 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.480  2233 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.488  2241 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.488  2241 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.488  2241 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:14:44.502  2255 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:14:44.508  2261 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.515  2268 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.523  2276 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.523  2276 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.523  2276 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:14:44.539  2292 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:14:44.545  2298 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.552  2305 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+16:14:44.560  2313 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:44.560  2313 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: TestDbReporterFolderBatch *********************
+16:14:44.561  2314 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:14:44.602  2355 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 1s
+16:14:46.421  381  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:14:46.424  384  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: BasicFullScenarioTest ***************************************
+16:14:46.427  387  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:14:46.432  392  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:46.432  392  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:46.432  392  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:46.488  448  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:46.488  448  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:46.538  498  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:14:46.538  498  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:14:46.539  499  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:14:46.539  499  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:14:46.601  561  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:14:46.601  561  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:14:46.605  565  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:46.605  565  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:14:46.613  573  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:46.641  601  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:14:46.641  601  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:46.650  610  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:46.884  844  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.46\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.46\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:46.926  886  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:46.926  886  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:46.936  896  [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:46.985  945  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.46\Snapshots\actions\Dummy_1\1533820486920.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.46\\Snapshots\\actions\\Dummy_1\\1533820486920.log","attachedLog":"1533820486923.txt"}
+16:14:47.003  963  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:47.003  963  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:47.003  963  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:47.005  965  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:47.012  972  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.46\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.46\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:47.014  974  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:47.014  974  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:47.014  974  [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:47.052  1012 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.46\Snapshots\actions\Dummy_2\1533820487013.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.46\\Snapshots\\actions\\Dummy_2\\1533820487013.log","attachedLog":"1533820487013.txt"}
+16:14:47.068  1028 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:47.068  1028 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:47.068  1028 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:47.069  1029 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:47.077  1037 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.46\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.46\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:47.079  1039 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:47.079  1039 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:47.080  1040 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:47.118  1078 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.46\Snapshots\actions\Dummy_3\1533820487079.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.46\\Snapshots\\actions\\Dummy_3\\1533820487079.log","attachedLog":"1533820487079.txt"}
+16:14:47.134  1094 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:47.134  1094 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:47.134  1094 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:14:47.155  1115 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:14:47.155  1115 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:47.172  1132 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:14:47.209  1169 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:14:47.216  1176 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Calling testFullScenario
+16:14:47.216  1176 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - verify all actions were called
+16:14:47.217  1177 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Verify per use case action called for all use cases
+16:14:47.218  1178 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - End testFullScenario
+16:14:47.233  1193 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:47.233  1193 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BasicFullScenarioTest *********************
+16:14:47.233  1193 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:14:47.256  1216 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:14:47.259  1219 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Calling testFullScenario
+16:14:47.259  1219 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - verify all actions were called
+16:14:47.259  1219 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Verify per use case action called for all use cases
+16:14:47.259  1219 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - End testFullScenario
+16:14:47.272  1232 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:47.273  1233 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BasicFullScenarioTest *********************
+16:14:47.273  1233 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:14:47.291  1251 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:47.294  1254 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Calling testFullScenario
+16:14:47.294  1254 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - verify all actions were called
+16:14:47.294  1254 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Verify per use case action called for all use cases
+16:14:47.294  1254 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - End testFullScenario
+16:14:47.306  1266 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:47.307  1267 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BasicFullScenarioTest *********************
+16:14:47.307  1267 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:14:47.326  1286 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:14:47.329  1289 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Calling testFullScenario
+16:14:47.329  1289 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - verify all actions were called
+16:14:47.329  1289 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - Verify per use case action called for all use cases
+16:14:47.329  1289 [main] DEBUG c.a.a.b.u.t.f.BasicFullScenarioTest - End testFullScenario
+16:14:47.341  1301 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:47.341  1301 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BasicFullScenarioTest *********************
+16:14:47.341  1301 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:14:47.387  1347 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:14:49.134  347  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:14:49.137  350  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: FilterUsecaseTest ***************************************
+16:14:49.140  353  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:14:49.145  358  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:49.146  359  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:49.146  359  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:49.201  414  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:49.201  414  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:49.248  461  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:14:49.293  506  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:14:49.294  507  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:14:49.298  511  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:49.298  511  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:14:49.306  519  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:49.332  545  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:14:49.332  545  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:49.340  553  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:49.586  799  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.49\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.49\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:49.633  846  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:49.633  846  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:49.642  855  [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:49.691  904  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.49\Snapshots\actions\Dummy_1\1533820489626.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.49\\Snapshots\\actions\\Dummy_1\\1533820489626.log","attachedLog":"1533820489629.txt"}
+16:14:49.707  920  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:49.707  920  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:49.707  920  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:49.709  922  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:49.719  932  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.49\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.49\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:49.720  933  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:49.721  934  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:49.721  934  [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:49.759  972  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.49\Snapshots\actions\Dummy_2\1533820489720.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.49\\Snapshots\\actions\\Dummy_2\\1533820489720.log","attachedLog":"1533820489720.txt"}
+16:14:49.774  987  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:49.774  987  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:49.774  987  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:49.776  989  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:49.783  996  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.49\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.49\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:49.786  999  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:49.786  999  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:49.786  999  [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:49.821  1034 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.49\Snapshots\actions\Dummy_3\1533820489785.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.49\\Snapshots\\actions\\Dummy_3\\1533820489785.log","attachedLog":"1533820489785.txt"}
+16:14:49.836  1049 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:49.837  1050 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:49.837  1050 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:14:49.855  1068 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:14:49.855  1068 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:49.870  1083 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:14:49.905  1118 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:49.925  1138 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:49.925  1138 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: FilterUsecaseTest *********************
+16:14:49.926  1139 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:14:49.968  1181 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:14:51.743  422  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:14:51.748  427  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: SpecificActionTestAllActionsPassTest ***************************************
+16:14:51.752  431  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:14:51.757  436  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:51.757  436  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:51.757  436  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:51.816  495  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:51.816  495  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:51.863  542  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:14:51.864  543  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:14:51.864  543  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:14:51.864  543  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:14:51.930  609  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:14:51.930  609  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:14:51.935  614  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:51.935  614  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:14:51.942  621  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:51.970  649  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:14:51.970  649  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:51.977  656  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:52.262  941  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:52.322  1001 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:52.322  1001 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:52.334  1013 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:52.395  1074 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\Dummy_1\1533820492310.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\Dummy_1\\1533820492310.log","attachedLog":"1533820492316.txt"}
+16:14:52.417  1096 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:52.417  1096 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:52.417  1096 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: specific_action
+16:14:52.422  1101 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\specific_action\log_5.html!{"expected":"specific_action","observed":"something specific_action","message":"This is Demo action","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\specific_action\\log_5.html","attachedLog":"./1.txt"}
+16:14:52.426  1105 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\specific_action\log_5.html!{"expected":"specific_action","observed":"something specific_action","message":"This is Demo action","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\specific_action\\log_5.html","attachedLog":"./1.txt"}
+16:14:52.447  1126 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: specific_action
+16:14:52.448  1127 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:52.448  1127 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:52.449  1128 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:52.457  1136 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:52.458  1137 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:52.459  1138 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:52.464  1143 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:52.501  1180 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\Dummy_2\1533820492458.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\Dummy_2\\1533820492458.log","attachedLog":"1533820492458.txt"}
+16:14:52.516  1195 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:52.516  1195 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:52.517  1196 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:52.518  1197 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:52.525  1204 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:52.527  1206 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:52.527  1206 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:52.527  1206 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:52.567  1246 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.51\Snapshots\actions\Dummy_3\1533820492526.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.51\\Snapshots\\actions\\Dummy_3\\1533820492526.log","attachedLog":"1533820492526.txt"}
+16:14:52.585  1264 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:52.585  1264 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:52.585  1264 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:14:52.603  1282 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:14:52.604  1283 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:52.620  1299 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:14:52.656  1335 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:14:52.661  1340 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - verify all actions were called
+16:14:52.665  1344 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - exepected usecase1_specific_action
+16:14:52.681  1360 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:52.681  1360 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: SpecificActionTestAllActionsPassTest *********************
+16:14:52.681  1360 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:14:52.704  1383 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:14:52.707  1386 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - verify all actions were called
+16:14:52.707  1386 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - exepected usecase1_specific_action
+16:14:52.721  1400 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:52.722  1401 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: SpecificActionTestAllActionsPassTest *********************
+16:14:52.722  1401 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:14:52.745  1424 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:52.748  1427 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - verify all actions were called
+16:14:52.749  1428 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - exepected usecase1_specific_action
+16:14:52.761  1440 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:52.761  1440 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: SpecificActionTestAllActionsPassTest *********************
+16:14:52.762  1441 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:14:52.791  1470 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:14:52.794  1473 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - verify all actions were called
+16:14:52.794  1473 [main] DEBUG c.a.a.b.u.t.f.SpecificActionTestAllActionsPassTest - exepected usecase1_specific_action
+16:14:52.811  1490 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:52.811  1490 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: SpecificActionTestAllActionsPassTest *********************
+16:14:52.812  1491 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:14:52.855  1534 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:14:54.604  307  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:14:54.607  310  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: VerifyNumberOfTest ***************************************
+16:14:54.609  312  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:14:54.614  317  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:54.614  317  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:54.614  317  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:54.675  378  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:54.676  379  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:54.724  427  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:14:54.724  427  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:14:54.724  427  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:14:54.724  427  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:14:54.790  493  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:14:54.790  493  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:14:54.794  497  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:54.794  497  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:14:54.803  506  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:54.831  534  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:14:54.832  535  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:54.839  542  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:55.081  784  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.54\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.54\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:55.123  826  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:55.124  827  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:55.135  838  [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:55.190  893  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.54\Snapshots\actions\Dummy_1\1533820495117.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.54\\Snapshots\\actions\\Dummy_1\\1533820495117.log","attachedLog":"1533820495120.txt"}
+16:14:55.207  910  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:55.207  910  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:55.207  910  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:55.209  912  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:55.220  923  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.54\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.54\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:55.221  924  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:55.221  924  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:55.222  925  [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:55.262  965  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.54\Snapshots\actions\Dummy_2\1533820495221.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.54\\Snapshots\\actions\\Dummy_2\\1533820495221.log","attachedLog":"1533820495221.txt"}
+16:14:55.277  980  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:55.278  981  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:55.278  981  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:55.279  982  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:55.287  990  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.54\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.54\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:55.289  992  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:55.289  992  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:55.289  992  [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:55.326  1029 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.54\Snapshots\actions\Dummy_3\1533820495289.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.54\\Snapshots\\actions\\Dummy_3\\1533820495289.log","attachedLog":"1533820495289.txt"}
+16:14:55.343  1046 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:14:55.343  1046 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:55.343  1046 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:14:55.360  1063 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:14:55.360  1063 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:55.376  1079 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:14:55.420  1123 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:14:55.443  1146 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:55.443  1146 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: VerifyNumberOfTest *********************
+16:14:55.443  1146 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:14:55.467  1170 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:14:55.482  1185 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:55.482  1185 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: VerifyNumberOfTest *********************
+16:14:55.482  1185 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:14:55.503  1206 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:14:55.520  1223 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:55.520  1223 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: VerifyNumberOfTest *********************
+16:14:55.520  1223 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:14:55.542  1245 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:14:55.564  1267 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:14:55.564  1267 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: VerifyNumberOfTest *********************
+16:14:55.565  1268 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:14:55.629  1332 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:14:59.227  385  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:14:59.232  390  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: BatchHtmlLoggerTest ***************************************
+16:14:59.235  393  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:14:59.240  398  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:14:59.240  398  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:14:59.240  398  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:14:59.305  463  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:14:59.305  463  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:14:59.358  516  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:14:59.358  516  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:14:59.359  517  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:14:59.359  517  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:14:59.434  592  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:14:59.435  593  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:14:59.439  597  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:14:59.439  597  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:14:59.449  607  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:14:59.472  630  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:14:59.472  630  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:14:59.480  638  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:14:59.737  895  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:14:59.779  937  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:59.779  937  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:59.789  947  [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:59.841  999  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\Dummy_1\1533820499773.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\Dummy_1\\1533820499773.log","attachedLog":"1533820499776.txt"}
+16:14:59.859  1017 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:14:59.859  1017 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:59.859  1017 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: specific_action
+16:14:59.863  1021 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html!{"expected":"specific_action","observed":"something specific_action","message":"This is Demo action","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\specific_action\\log_5.html","attachedLog":"./1.txt"}
+16:14:59.868  1026 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html!{"expected":"specific_action","observed":"something specific_action","message":"This is Demo action","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\specific_action\\log_5.html","attachedLog":"./1.txt"}
+16:14:59.883  1041 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: specific_action
+16:14:59.883  1041 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:59.883  1041 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:14:59.885  1043 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:14:59.892  1050 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:14:59.893  1051 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:59.893  1051 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:59.894  1052 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:59.932  1090 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\Dummy_2\1533820499893.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\Dummy_2\\1533820499893.log","attachedLog":"1533820499893.txt"}
+16:14:59.947  1105 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:14:59.947  1105 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:14:59.947  1105 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:14:59.948  1106 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:14:59.959  1117 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:14:59.960  1118 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:14:59.960  1118 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:14:59.960  1118 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:14:59.999  1157 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\Dummy_3\1533820499960.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\actions\\Dummy_3\\1533820499960.log","attachedLog":"1533820499960.txt"}
+16:15:00.018  1176 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:15:00.019  1177 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:00.019  1177 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:00.036  1194 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:00.036  1194 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:00.051  1209 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:15:00.086  1244 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:15:00.092  1250 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase2
+16:15:00.094  1252 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.176  1334 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.180  1338 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.197  1355 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.198  1356 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.205  1363 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:15:00.208  1366 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase1
+16:15:00.208  1366 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.212  1370 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.216  1374 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.232  1390 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.233  1391 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.240  1398 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:00.244  1402 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase0
+16:15:00.244  1402 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.247  1405 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.250  1408 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.267  1425 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.267  1425 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.274  1432 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:15:00.278  1436 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase3
+16:15:00.278  1436 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.282  1440 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.284  1442 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\actions\specific_action\log_5.html
+16:15:00.297  1455 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.297  1455 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.297  1455 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:15:00.300  1458 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase2
+16:15:00.301  1459 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase2\testLoggerForTest\log.html!{"expected":"This is the expected","observed":"This is observed","message":"This is the test","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\tests\\usecase2\\testLoggerForTest\\log.html","attachedLog":null}
+16:15:00.303  1461 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase2\testLoggerForTest\log.html
+16:15:00.308  1466 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase2\testLoggerForTest\log.html
+16:15:00.321  1479 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.321  1479 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.322  1480 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:15:00.340  1498 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:15:00.342  1500 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase1
+16:15:00.343  1501 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase1\testLoggerForTest\log.html!{"expected":"This is the expected","observed":"This is observed","message":"This is the test","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\tests\\usecase1\\testLoggerForTest\\log.html","attachedLog":null}
+16:15:00.345  1503 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase1\testLoggerForTest\log.html
+16:15:00.349  1507 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase1\testLoggerForTest\log.html
+16:15:00.358  1516 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.358  1516 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.358  1516 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:15:00.374  1532 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:00.376  1534 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase0
+16:15:00.377  1535 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase0\testLoggerForTest\log.html!{"expected":"This is the expected","observed":"This is observed","message":"This is the test","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\tests\\usecase0\\testLoggerForTest\\log.html","attachedLog":null}
+16:15:00.378  1536 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase0\testLoggerForTest\log.html
+16:15:00.383  1541 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase0\testLoggerForTest\log.html
+16:15:00.391  1549 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.392  1550 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.392  1550 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:15:00.406  1564 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:15:00.408  1566 [main] DEBUG c.a.a.b.u.t.l.BatchHtmlLoggerTest - called test 1 for usecase usecase3
+16:15:00.409  1567 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase3\testLoggerForTest\log.html!{"expected":"This is the expected","observed":"This is observed","message":"This is the test","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.14.59\\Snapshots\\tests\\usecase3\\testLoggerForTest\\log.html","attachedLog":null}
+16:15:00.410  1568 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase3\testLoggerForTest\log.html
+16:15:00.414  1572 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.14.59\Snapshots\tests\usecase3\testLoggerForTest\log.html
+16:15:00.430  1588 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:00.430  1588 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: BatchHtmlLoggerTest *********************
+16:15:00.430  1588 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:15:00.475  1633 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:15:02.415  622  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:02.418  625  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:02.419  626  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:02.480  687  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:02.481  688  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:02.537  744  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:15:02.537  744  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:02.538  745  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:02.551  758  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:02.553  760  [main] ERROR c.a.a.infra.reporter.BasicReporter - Unable to locate actimize icon. 'other' is different type of Path
+16:15:02.556  763  [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase0: This is for test
+16:15:02.556  763  [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase1: This is for test
+16:15:02.557  764  [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase2: This is for test
+16:15:02.557  764  [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase3: This is for test
+16:15:02.567  774  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:15:02.567  774  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:02.574  781  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:15:02.574  781  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:02.574  781  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:02.576  783  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:02.576  783  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:02.576  783  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_2
+16:15:02.584  791  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_2
+16:15:02.584  791  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:02.590  797  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:15:02.590  797  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:02.590  797  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:02.598  805  [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase2: This is for test
+16:15:02.599  806  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:02.599  806  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:02.599  806  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_2
+16:15:02.602  809  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_2
+16:15:02.602  809  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:02.605  812  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:15:02.606  813  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:02.606  813  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:02.607  814  [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase3: This is for test
+16:15:02.608  815  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:02.608  815  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:02.608  815  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_2
+16:15:02.612  819  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_2
+16:15:02.612  819  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:04.292  354  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:15:04.295  357  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: CreateQcDummyUponNoIdTest ***************************************
+16:15:04.543  605  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:15:04.549  611  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:04.549  611  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:04.549  611  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:04.617  679  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:04.617  679  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:04.671  733  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:15:04.723  785  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:15:04.723  785  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is true. Starting listener
+16:15:04.727  789  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:04.727  789  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:15:04.736  798  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:04.761  823  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:15:04.761  823  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:15:04.770  832  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:15:05.014  1076 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.04\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.04\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:15:05.055  1117 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:05.055  1117 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:05.064  1126 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:05.117  1179 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.04\Snapshots\actions\Dummy_1\1533820505048.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.04\\Snapshots\\actions\\Dummy_1\\1533820505048.log","attachedLog":"1533820505052.txt"}
+16:15:05.133  1195 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:15:05.134  1196 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:05.134  1196 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:15:05.135  1197 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:15:05.146  1208 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.04\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.04\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:15:05.147  1209 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:05.148  1210 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:05.148  1210 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:05.183  1245 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.04\Snapshots\actions\Dummy_2\1533820505147.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.04\\Snapshots\\actions\\Dummy_2\\1533820505147.log","attachedLog":"1533820505147.txt"}
+16:15:05.200  1262 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:15:05.200  1262 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:05.200  1262 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:15:05.202  1264 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:15:05.212  1274 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.04\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.04\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:15:05.214  1276 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:05.214  1276 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:05.214  1276 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:05.251  1313 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.04\Snapshots\actions\Dummy_3\1533820505213.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.04\\Snapshots\\actions\\Dummy_3\\1533820505213.log","attachedLog":"1533820505213.txt"}
+16:15:05.267  1329 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:15:05.267  1329 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:05.267  1329 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:05.284  1346 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:05.284  1346 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:05.300  1362 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:15:05.336  1398 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:05.342  1404 [main] DEBUG c.a.a.b.u.t.q.CreateQcDummyUponNoIdTest - test if a row without qc test id at all, and test not exists in qc,It creates a test in qc
+16:15:05.364  1426 [main] DEBUG c.a.a.i.q.AbstractQcReporterListener - On Test Result for usecase0_testCreateDummyInQc
+16:15:05.376  1438 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:05.376  1438 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: CreateQcDummyUponNoIdTest *********************
+16:15:05.376  1438 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:15:05.423  1485 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:15:05.479  1541 [main] DEBUG c.a.a.i.q.AbstractQcReporterListener - Getting report zip file
+16:15:07.087  372  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:15:07.091  376  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: QcGetInstanceByNameTest ***************************************
+16:15:07.337  622  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:15:07.342  627  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:07.342  627  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:07.342  627  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:07.405  690  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:07.405  690  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:07.457  742  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:15:07.506  791  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:15:07.507  792  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is true. Starting listener
+16:15:07.510  795  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:07.510  795  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:15:07.519  804  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:07.543  828  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:15:07.544  829  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:15:07.553  838  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:15:07.793  1078 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.07\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.07\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:15:07.832  1117 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:07.832  1117 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:07.841  1126 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:07.891  1176 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.07\Snapshots\actions\Dummy_1\1533820507826.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.07\\Snapshots\\actions\\Dummy_1\\1533820507826.log","attachedLog":"1533820507829.txt"}
+16:15:07.907  1192 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:15:07.907  1192 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:07.907  1192 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:15:07.909  1194 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:15:07.918  1203 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.07\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.07\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:15:07.920  1205 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:07.920  1205 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:07.920  1205 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:07.957  1242 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.07\Snapshots\actions\Dummy_2\1533820507919.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.07\\Snapshots\\actions\\Dummy_2\\1533820507919.log","attachedLog":"1533820507919.txt"}
+16:15:07.975  1260 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:15:07.975  1260 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:07.975  1260 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:15:07.977  1262 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:15:07.989  1274 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.07\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.07\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:15:07.990  1275 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:07.990  1275 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:07.991  1276 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:08.032  1317 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.07\Snapshots\actions\Dummy_3\1533820507990.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.07\\Snapshots\\actions\\Dummy_3\\1533820507990.log","attachedLog":"1533820507990.txt"}
+16:15:08.050  1335 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:15:08.050  1335 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:08.050  1335 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:08.068  1353 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:08.068  1353 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:08.085  1370 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:15:08.127  1412 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:08.134  1419 [main] DEBUG c.a.a.b.u.t.q.QcGetInstanceByNameTest - Should find test by name
+16:15:08.150  1435 [main] DEBUG c.a.a.i.q.AbstractQcReporterListener - On Test Result for usecase0_testSecondTestUseDummyId
+16:15:08.162  1447 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:08.162  1447 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: QcGetInstanceByNameTest *********************
+16:15:08.163  1448 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:15:08.204  1489 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:15:08.259  1544 [main] DEBUG c.a.a.i.q.AbstractQcReporterListener - Getting report zip file
+16:15:09.905  382  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:15:09.908  385  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: QcGetTestByIdTest ***************************************
+16:15:10.114  591  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:15:10.119  596  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:10.119  596  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:10.120  597  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:10.181  658  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:10.181  658  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:10.231  708  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:15:10.279  756  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:15:10.279  756  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is true. Starting listener
+16:15:10.284  761  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:10.284  761  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:15:10.291  768  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:10.315  792  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:15:10.316  793  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:15:10.325  802  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:15:10.573  1050 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.10\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:15:10.619  1096 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:10.619  1096 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:10.629  1106 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:10.682  1159 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\Snapshots\actions\Dummy_1\1533820510611.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.10\\Snapshots\\actions\\Dummy_1\\1533820510611.log","attachedLog":"1533820510615.txt"}
+16:15:10.698  1175 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:15:10.699  1176 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:10.699  1176 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:15:10.700  1177 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:15:10.710  1187 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.10\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:15:10.711  1188 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:10.711  1188 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:10.712  1189 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:10.748  1225 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\Snapshots\actions\Dummy_2\1533820510711.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.10\\Snapshots\\actions\\Dummy_2\\1533820510711.log","attachedLog":"1533820510711.txt"}
+16:15:10.763  1240 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:15:10.763  1240 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:10.763  1240 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:15:10.765  1242 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:15:10.772  1249 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.10\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:15:10.774  1251 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:10.774  1251 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:10.774  1251 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:10.809  1286 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\Snapshots\actions\Dummy_3\1533820510774.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.10\\Snapshots\\actions\\Dummy_3\\1533820510774.log","attachedLog":"1533820510774.txt"}
+16:15:10.827  1304 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:15:10.827  1304 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:10.827  1304 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:10.844  1321 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:10.844  1321 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:10.860  1337 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:15:10.895  1372 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:10.918  1395 [main] DEBUG c.a.a.i.q.AbstractQcReporterListener - On Test Result for usecase0_firstTestInBatch
+16:15:10.930  1407 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:10.930  1407 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: QcGetTestByIdTest *********************
+16:15:10.930  1407 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:15:10.948  1425 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.10\1.html
+16:15:11.048  1525 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:15:11.098  1575 [main] DEBUG c.a.a.i.q.AbstractQcReporterListener - Getting report zip file
+16:15:12.784  441  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:12.787  444  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:12.787  444  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:12.863  520  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:12.864  521  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:12.866  523  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:12.866  523  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:12.866  523  [main] DEBUG c.a.a.b.u.t.r.DurationReportTest - Send events for actions
+16:15:12.866  523  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:15:12.876  533  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:12.899  556  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:15:12.954  611  [main] DEBUG c.a.a.b.u.t.r.DurationReportTest - Send events for use cases completed
+16:15:16.046  3703 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 5s
+16:15:16.131  3788 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\Command line test\develeap\HTML_Reports2018-08-09T16.15.12\SummaryReport.html
+16:15:16.287  3944 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\Command line test\develeap\HTML_Reports2018-08-09T16.15.12\SummaryReport.html
+16:15:16.295  3952 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\Command line test\develeap\HTML_Reports2018-08-09T16.15.12\SummaryReport.html
+16:15:16.301  3958 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\Command line test\develeap\HTML_Reports2018-08-09T16.15.12\1.html
+16:15:18.400  496  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:15:18.403  499  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: PerUseCaseActionWithFailureTest ***************************************
+16:15:18.407  503  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:15:18.412  508  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:18.413  509  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:18.413  509  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:18.478  574  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:18.478  574  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:18.536  632  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:15:18.536  632  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:15:18.536  632  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:15:18.536  632  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:15:18.600  696  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:15:18.601  697  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:15:18.605  701  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:18.605  701  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:15:18.615  711  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:18.639  735  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:15:18.639  735  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:15:18.649  745  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:15:18.906  1002 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.18\Snapshots\actions\Dummy_1\log_1.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.18\\Snapshots\\actions\\Dummy_1\\log_1.html","attachedLog":"./1.txt"}
+16:15:18.955  1051 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:18.956  1052 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:18.969  1065 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:19.024  1120 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.18\Snapshots\actions\Dummy_1\1533820518947.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.18\\Snapshots\\actions\\Dummy_1\\1533820518947.log","attachedLog":"1533820518952.txt"}
+16:15:19.047  1143 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:15:19.048  1144 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:19.048  1144 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_2
+16:15:19.050  1146 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_2
+16:15:19.060  1156 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.18\Snapshots\actions\Dummy_2\log_2.html!{"expected":"Dummy_2","observed":"something Dummy_2","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.18\\Snapshots\\actions\\Dummy_2\\log_2.html","attachedLog":"./1.txt"}
+16:15:19.062  1158 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:19.062  1158 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:19.063  1159 [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:19.099  1195 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.18\Snapshots\actions\Dummy_2\1533820519062.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.18\\Snapshots\\actions\\Dummy_2\\1533820519062.log","attachedLog":"1533820519062.txt"}
+16:15:19.116  1212 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_2
+16:15:19.116  1212 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:19.116  1212 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_3
+16:15:19.118  1214 [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_3
+16:15:19.128  1224 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.18\Snapshots\actions\Dummy_3\log_3.html!{"expected":"Dummy_3","observed":"something Dummy_3","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.18\\Snapshots\\actions\\Dummy_3\\log_3.html","attachedLog":"./1.txt"}
+16:15:19.130  1226 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:19.130  1226 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:19.131  1227 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:19.196  1292 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.18\Snapshots\actions\Dummy_3\1533820519130.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.18\\Snapshots\\actions\\Dummy_3\\1533820519130.log","attachedLog":"1533820519130.txt"}
+16:15:19.233  1329 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_3
+16:15:19.233  1329 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:19.233  1329 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:19.236  1332 [main] ERROR c.a.a.b.a.AbstractPerUseCaseAction - Error while running Per_use_case_dummy_1 for usecase2: This is for test
+16:15:19.278  1374 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:19.279  1375 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:19.307  1403 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:15:19.394  1490 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:15:19.416  1512 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:19.416  1512 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: PerUseCaseActionWithFailureTest *********************
+16:15:19.417  1513 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:15:19.486  1582 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:15:19.490  1586 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - use Case = usecase1
+16:15:19.519  1615 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:19.519  1615 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: PerUseCaseActionWithFailureTest *********************
+16:15:19.520  1616 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:15:19.549  1645 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:19.553  1649 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - use Case = usecase0
+16:15:19.574  1670 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:19.574  1670 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: PerUseCaseActionWithFailureTest *********************
+16:15:19.575  1671 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:15:19.602  1698 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:15:19.606  1702 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - use Case = usecase3
+16:15:19.626  1722 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:19.626  1722 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: PerUseCaseActionWithFailureTest *********************
+16:15:19.626  1722 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:15:19.681  1777 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:15:21.455  351  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ***************************************************************************************
+16:15:21.458  354  [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** UNIT TEST START: RunOnceFailureTest ***************************************
+16:15:21.460  356  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Calling data provider
+16:15:21.465  361  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:21.465  361  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:21.465  361  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:21.524  420  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:21.524  420  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:21.576  472  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase0
+16:15:21.576  472  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase1
+16:15:21.576  472  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase2
+16:15:21.576  472  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called factory of usecase3
+16:15:21.649  545  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
+16:15:21.649  545  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - QC_UPDATE is not enabled
+16:15:21.654  550  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:21.654  550  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on actionStarted
+16:15:21.663  559  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:21.687  583  [main] DEBUG c.a.a.b.i.BatchTestDriverListener - Finish actionStarted
+16:15:21.688  584  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:21.721  617  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:21.721  617  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:21.721  617  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:15:21.727  623  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:15:21.986  882  [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Snapshots\actions\Dummy_1\log_2.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.21\\Snapshots\\actions\\Dummy_1\\log_2.html","attachedLog":"./1.txt"}
+16:15:22.028  924  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:22.028  924  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:22.038  934  [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:22.095  991  [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Snapshots\actions\Dummy_1\1533820522022.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\test_suite\\develeap\\HTML_Reports2018-08-09T16.15.21\\Snapshots\\actions\\Dummy_1\\1533820522022.log","attachedLog":"1533820522025.txt"}
+16:15:22.111  1007 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:15:22.111  1007 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:22.112  1008 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: exception
+16:15:22.151  1047 [main] ERROR c.a.a.batch.impl.AbstractBatchTest - Error during preparation. all tests should be ignored.
+16:15:22.151  1047 [main] DEBUG c.a.a.b.u.t.r.RunOnceFailureTest - Run Once action failed but test is proceed in order to check run once action failure reporting
+16:15:22.151  1047 [main] DEBUG c.a.a.b.i.BatchTestDriverListener - on start
+16:15:22.193  1089 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:15:22.200  1096 [main] DEBUG c.a.a.b.u.t.r.RunOnceFailureTest - testing
+16:15:22.214  1110 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.215  1111 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.221  1117 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:15:22.223  1119 [main] DEBUG c.a.a.b.u.t.r.RunOnceFailureTest - testing
+16:15:22.236  1132 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.236  1132 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.242  1138 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:22.246  1142 [main] DEBUG c.a.a.b.u.t.r.RunOnceFailureTest - testing
+16:15:22.258  1154 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.258  1154 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.264  1160 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:15:22.268  1164 [main] DEBUG c.a.a.b.u.t.r.RunOnceFailureTest - testing
+16:15:22.281  1177 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.282  1178 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.282  1178 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase2"
+16:15:22.286  1182 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\SummaryReport.html
+16:15:22.363  1259 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.370  1266 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.382  1278 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.383  1279 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.383  1279 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase2" completed
+16:15:22.399  1295 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase1"
+16:15:22.401  1297 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\SummaryReport.html
+16:15:22.403  1299 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.407  1303 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.418  1314 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.418  1314 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.418  1314 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase1" completed
+16:15:22.431  1327 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase0"
+16:15:22.434  1330 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\SummaryReport.html
+16:15:22.436  1332 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.439  1335 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.449  1345 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.450  1346 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.450  1346 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase0" completed
+16:15:22.465  1361 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Called beforeMethod for "usecase3"
+16:15:22.467  1363 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\SummaryReport.html
+16:15:22.469  1365 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.474  1370 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\test_suite\develeap\HTML_Reports2018-08-09T16.15.21\Preparation Process.html
+16:15:22.484  1380 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - ****************************************************************
+16:15:22.484  1380 [main] DEBUG c.a.a.b.u.t.f.AbstractFullScenario - **************************** END: RunOnceFailureTest *********************
+16:15:22.485  1381 [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - Use Case "usecase3" completed
+16:15:22.528  1424 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 0s
+16:15:24.528  623  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+16:15:24.532  627  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver
+16:15:24.533  628  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+16:15:24.607  702  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+16:15:24.608  703  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+16:15:24.673  768  [main] DEBUG c.a.a.b.u.t.AbstractBatchTestDriver - Calling execute from unit test
+16:15:24.673  768  [main] DEBUG c.a.a.batch.impl.ActionManagerImpl - ActionManagerImpl.execute()
+16:15:24.675  770  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Per_use_case_dummy_1
+16:15:24.689  784  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\logo.png
+16:15:24.691  786  [main] ERROR c.a.a.infra.reporter.BasicReporter - Unable to locate actimize icon. 'other' is different type of Path
+16:15:24.701  796  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Per_use_case_dummy_1
+16:15:24.702  797  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:24.702  797  [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: Dummy_1
+16:15:24.704  799  [main] DEBUG c.a.a.b.u.model.actions.DummyAction - Executing Dummy_1
+16:15:24.975  1070 [main] DEBUG c.actimize.automation.batch.Action - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.15.24\Snapshots\actions\Dummy_1\log_2.html!{"expected":"Dummy_1","observed":"something Dummy_1","message":"trtetetewtsdfgxdgfxcfg","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.15.24\\Snapshots\\actions\\Dummy_1\\log_2.html","attachedLog":"./1.txt"}
+16:15:25.058  1153 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: copy 
+16:15:25.058  1153 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+16:15:25.068  1163 [pool-1-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c copy
+16:15:25.128  1223 [main] ERROR c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-batch-test-driver\output\execution\suite\develeap\HTML_Reports2018-08-09T16.15.24\Snapshots\actions\Dummy_1\1533820525010.log!{"expected":"Run Command:<br>copy ","observed":"The syntax of the command is incorrect.<br><br><br>Command Exit Value: 1","message":"copy","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-batch-test-driver\\output\\execution\\suite\\develeap\\HTML_Reports2018-08-09T16.15.24\\Snapshots\\actions\\Dummy_1\\1533820525010.log","attachedLog":"1533820525014.txt"}
+16:15:25.134  1229 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Finished action: Dummy_1
+16:15:25.134  1229 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:15:25.134  1229 [main] DEBUG c.a.a.batch.impl.ActionContainer - +++++++++++++ Starting action: exception

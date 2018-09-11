@@ -1,0 +1,15 @@
+﻿2018-Feb-14 17:32:11.686 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_DSN' from instance with value 'database'. Location: [Connector:IDB_StageConnector\<dsn>]
+2018-Feb-14 17:32:11.686 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_MaintenanceUserName' from instance with value 'QA_IDB_1_MAINT'. Location: [Connector:IDB_StageConnector\<user name>]
+2018-Feb-14 17:32:11.687 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_MaintenancePassword' from instance with value '********'. Location: [Connector:IDB_StageConnector\<password>]
+2018-Feb-14 17:32:11.687 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_DefaultDatabase' from instance with value 'QA_IDB_1'. Location: [Connector:IDB_StageConnector\<default database>]
+2018-Feb-14 17:32:11.687 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_ConnectionTimeout' from instance with value '120'. Location: [Connector:IDB_StageConnector\<connection time out>]
+2018-Feb-14 17:32:11.687 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_CommandTimeout' from instance with value '600'. Location: [Connector:IDB_StageConnector\<command time out>]
+2018-Feb-14 17:32:11.687 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_DatabaseType' from instance with value 'SQLServer'. Location: [Connector:IDB_StageConnector\<dbms type>]
+2018-Feb-14 17:32:11.695 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ FromRollbackDate=2/1/2000 00:00:00.000000, batchName=RCM }'
+2018-Feb-14 17:32:11.696 INFO: [ExecutionPlanTask] Process #4118 - Condition block 'MSSQL?' started.
+2018-Feb-14 17:32:11.699 INFO: [ExecutionPlanTask] Process #4119 - Condition block 'MSSQL?' ended. Result was 'true'.
+2018-Feb-14 17:32:11.736 INFO: [ExecutionPlanTask: MSSQL] Process #4018 - New process 'MSSQL' has been launched. Location: [Execution plan:IDB_RunRollback\MSSQL]
+2018-Feb-14 17:32:11.736 INFO: [ExecutionPlanTask: MSSQL] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/MSSQL18-02-14_17-32-11_01.log'. Location: [Execution plan:IDB_RunRollback\MSSQL]
+2018-Feb-14 17:32:11.765 INFO: [ExecutionPlanTask: MSSQL] Process #4025 - Process MSSQL ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/MSSQL18-02-14_17-32-11_01.log' Location: [Execution plan:IDB_RunRollback\MSSQL]
+2018-Feb-14 17:32:11.766 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/Run_RCM_rollback18-02-14_17-32-11_00.log'
+<log ended>

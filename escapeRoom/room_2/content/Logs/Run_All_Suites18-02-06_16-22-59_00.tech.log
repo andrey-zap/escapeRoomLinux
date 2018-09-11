@@ -1,0 +1,128 @@
+﻿(TID#0x00000774) 2018-Feb-06 16:22:59.685 DIAGNOSTIC: [Process: Run All Suites] Execution plan loop: execution started
+(TID#0x00000774) 2018-Feb-06 16:22:59.685 INFO: [Process: Run All Suites] #4106 - Initializing loop with '1' concurrent processes.
+(TID#0x00000774) 2018-Feb-06 16:22:59.686 INFO: [Process: Run All Suites] #4100 - Starting iteration 1
+(TID#0x00000774) 2018-Feb-06 16:22:59.819 INFO: [Process: Run All Suites] Process #4018 - New process 'Run_MI_Slices' has been launched. Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]
+(TID#0x00000774) 2018-Feb-06 16:22:59.820 INFO: [Process: Run All Suites] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_MI_Slices18-02-06_16-22-59_00.log'. Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]
+(TID#0x00000774) 2018-Feb-06 16:22:59.820 INFO: [Process: Run All Suites] New process has been launched. Process id: 37313c83-8aa9-45de-8726-32d70462a14f. Process launch definition
+<?xml version="1.0" encoding="UTF-16" standalone="no" ?>
+<TextSerialization __DOCUMENT_VERSION__="4.24.0.51">
+
+  <Data>
+    <ExecutionPlanProcessLaunchInfo>
+      <ExecutionPlanName>Run_Single_Suite</ExecutionPlanName>
+      <ActivationArguments>
+        <std-vector count="1">
+          <item>
+            <ActivationArgument>
+              <name>TestSuiteName</name>
+              <data>
+                <engine_objects-data-data_property_t>
+                  <data>
+                    <engine_objects-data-string_t>
+                      <value>MI_Slices</value>
+                    </engine_objects-data-string_t>
+                    <engine_objects-data-scalar_t>
+                      <data_existence_state>has value</data_existence_state>
+                      <engine_objects-data-data_t>
+                        <place_holder>0</place_holder>
+                      </engine_objects-data-data_t>
+                    </engine_objects-data-scalar_t>
+                  </data>
+                  <data_type type="scalar">
+                    <engine_objects-data_types-scalar_t>
+                      <scalar_type>string</scalar_type>
+                      <length>0</length>
+                      <scale>0</scale>
+                      <precision>0</precision>
+                      <engine_objects-data_types-data_type_t>
+                        <place_holder>0</place_holder>
+                      </engine_objects-data_types-data_type_t>
+                    </engine_objects-data_types-scalar_t>
+                  </data_type>
+                  <type>scalar</type>
+                </engine_objects-data-data_property_t>
+              </data>
+            </ActivationArgument>
+          </item>
+        </std-vector>
+      </ActivationArguments>
+      <ProcessId>37313c83-8aa9-45de-8726-32d70462a14f</ProcessId>
+      <ProcessLaunchInfo>
+        <Name>Run_MI_Slices</Name>
+        <LaunchingApplication>AIS</LaunchingApplication>
+        <RunUnderProfiler>0</RunUnderProfiler>
+        <TraceProperties>
+          <std-vector count="0"/>
+        </TraceProperties>
+        <DebugMode>0</DebugMode>
+        <ProfilerDumpInterval>0</ProfilerDumpInterval>
+      </ProcessLaunchInfo>
+    </ExecutionPlanProcessLaunchInfo>
+  </Data>
+
+</TextSerialization>
+.
+(TID#0x00000774) 2018-Feb-06 16:42:06.100 DIAGNOSTIC: [Process: Run All Suites] Execution plan Loop: event receiver:00000000-0000-0000-0000-000000000000
+(TID#0x00000f14) 2018-Feb-06 16:42:06.073 INFO: [Process: Run All Suites] Process #4025 - Process Run_MI_Slices ended with status 'Finished with error'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_MI_Slices18-02-06_16-22-59_00.log' Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]
+(TID#0x00000774) 2018-Feb-06 16:42:06.133 INFO: [Process: Run All Suites] #4100 - Starting iteration 2
+(TID#0x00000774) 2018-Feb-06 16:42:06.272 INFO: [Process: Run All Suites] Process #4018 - New process 'Run_MO_Slices' has been launched. Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]
+(TID#0x00000774) 2018-Feb-06 16:42:06.272 INFO: [Process: Run All Suites] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_MO_Slices18-02-06_16-42-06_00.log'. Location: [Execution plan:Run_Suites_Main_All\[Run All Suites]]
+(TID#0x00000774) 2018-Feb-06 16:42:06.273 INFO: [Process: Run All Suites] New process has been launched. Process id: 6756de77-1bb4-420c-9bf6-8eefbd6a1b82. Process launch definition
+<?xml version="1.0" encoding="UTF-16" standalone="no" ?>
+<TextSerialization __DOCUMENT_VERSION__="4.24.0.51">
+
+  <Data>
+    <ExecutionPlanProcessLaunchInfo>
+      <ExecutionPlanName>Run_Single_Suite</ExecutionPlanName>
+      <ActivationArguments>
+        <std-vector count="1">
+          <item>
+            <ActivationArgument>
+              <name>TestSuiteName</name>
+              <data>
+                <engine_objects-data-data_property_t>
+                  <data>
+                    <engine_objects-data-string_t>
+                      <value>MO_Slices</value>
+                    </engine_objects-data-string_t>
+                    <engine_objects-data-scalar_t>
+                      <data_existence_state>has value</data_existence_state>
+                      <engine_objects-data-data_t>
+                        <place_holder>0</place_holder>
+                      </engine_objects-data-data_t>
+                    </engine_objects-data-scalar_t>
+                  </data>
+                  <data_type type="scalar">
+                    <engine_objects-data_types-scalar_t>
+                      <scalar_type>string</scalar_type>
+                      <length>0</length>
+                      <scale>0</scale>
+                      <precision>0</precision>
+                      <engine_objects-data_types-data_type_t>
+                        <place_holder>0</place_holder>
+                      </engine_objects-data_types-data_type_t>
+                    </engine_objects-data_types-scalar_t>
+                  </data_type>
+                  <type>scalar</type>
+                </engine_objects-data-data_property_t>
+              </data>
+            </ActivationArgument>
+          </item>
+        </std-vector>
+      </ActivationArguments>
+      <ProcessId>6756de77-1bb4-420c-9bf6-8eefbd6a1b82</ProcessId>
+      <ProcessLaunchInfo>
+        <Name>Run_MO_Slices</Name>
+        <LaunchingApplication>AIS</LaunchingApplication>
+        <RunUnderProfiler>0</RunUnderProfiler>
+        <TraceProperties>
+          <std-vector count="0"/>
+        </TraceProperties>
+        <DebugMode>0</DebugMode>
+        <ProfilerDumpInterval>0</ProfilerDumpInterval>
+      </ProcessLaunchInfo>
+    </ExecutionPlanProcessLaunchInfo>
+  </Data>
+
+</TextSerialization>
+.

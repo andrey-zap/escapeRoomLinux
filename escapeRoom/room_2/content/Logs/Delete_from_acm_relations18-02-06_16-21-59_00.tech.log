@@ -1,0 +1,3 @@
+﻿(TID#0x00001280) 2018-Feb-06 16:21:59.486 INFO: [Process] #6008 - SQL statement 'delete from acm_relations'.
+(TID#0x00001280) 2018-Feb-06 16:21:59.489 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=RCM_APP_USER;PWD=Actimize1;DATABASE=RCM_DB_NAME;'.
+(TID#0x00000abc) <log ended>

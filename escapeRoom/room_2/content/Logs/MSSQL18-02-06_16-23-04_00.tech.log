@@ -1,0 +1,7 @@
+﻿(TID#0x0000103c) 2018-Feb-06 16:23:04.867 INFO: [Process] #6008 - SQL statement 'begin
+set nocount on
+EXEC STAGING_IDB.PROC_IDB_ROLLBACK '01/02/2000','DBT','10'
+end
+'.
+(TID#0x0000103c) 2018-Feb-06 16:23:04.886 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=database;UID=QA_IDB_1_MAINT;PWD=Actimize1;DATABASE=QA_IDB_1;'.
+(TID#0x00000abc) <log ended>

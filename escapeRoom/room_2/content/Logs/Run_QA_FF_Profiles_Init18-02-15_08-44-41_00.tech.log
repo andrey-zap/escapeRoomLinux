@@ -1,0 +1,60 @@
+﻿(TID#0x0000050c) 2018-Feb-15 08:44:41.912 DIAGNOSTIC: Execution plan: execution started
+(TID#0x0000050c) 2018-Feb-15 08:44:41.913 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{  }'
+(TID#0x0000050c) 2018-Feb-15 08:44:41.924 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x0000050c) 2018-Feb-15 08:44:41.924 DIAGNOSTIC: Execution plan: current event data:
+	from: aa2ca9d4-d155-4dcd-998e-24063f4103e7
+	to: 0b3964ed-2bc4-488d-8570-e94236f0a179
+	msg: continue to work
+
+(TID#0x0000050c) 2018-Feb-15 08:44:41.924 DIAGNOSTIC: Execution plan: event receiver:0b3964ed-2bc4-488d-8570-e94236f0a179
+(TID#0x0000050c) 2018-Feb-15 08:44:41.926 INFO: [ExecutionPlanTask: Run FF_resetUserProfiles] Process #4027 - Execution plan process execution plan name: 'FF_resetUserProfiles'. Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_resetUserProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.009 INFO: [ExecutionPlanTask: Run FF_resetUserProfiles] Process #4018 - New process 'Run FF_resetUserProfiles' has been launched. Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_resetUserProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.009 INFO: [ExecutionPlanTask: Run FF_resetUserProfiles] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-15_08-44-21_00/Run_FF_resetUserProfiles18-02-15_08-44-41_00.log'. Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_resetUserProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.010 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013cc) 2018-Feb-15 08:44:42.858 INFO: [ExecutionPlanTask: Run FF_resetUserProfiles] Process #4025 - Process Run FF_resetUserProfiles ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-15_08-44-21_00/Run_FF_resetUserProfiles18-02-15_08-44-41_00.log' Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_resetUserProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.859 DIAGNOSTIC: Execution plan: current event data:
+	from: 0b3964ed-2bc4-488d-8570-e94236f0a179
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013cc) 2018-Feb-15 08:44:42.859 INFO: [ExecutionPlanTask: Run FF_resetUserProfiles] Process #4020 - Transition event 'on success any' from process 'Run FF_resetUserProfiles' has been received.
+(TID#0x0000050c) 2018-Feb-15 08:44:42.859 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x0000050c) 2018-Feb-15 08:44:42.859 DIAGNOSTIC: Execution plan: current event data:
+	from: 0b3964ed-2bc4-488d-8570-e94236f0a179
+	to: 05253cf4-0f65-473c-9903-af66582633df
+	msg: continue to work
+
+(TID#0x0000050c) 2018-Feb-15 08:44:42.859 DIAGNOSTIC: Execution plan: event receiver:05253cf4-0f65-473c-9903-af66582633df
+(TID#0x0000050c) 2018-Feb-15 08:44:42.861 INFO: [ExecutionPlanTask: Run FF_cleanupSolutionProfiles] Process #4027 - Execution plan process execution plan name: 'FF_resetSolutionProfiles'. Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_cleanupSolutionProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.914 INFO: [ExecutionPlanTask: Run FF_cleanupSolutionProfiles] Process #4018 - New process 'Run FF_cleanupSolutionProfiles' has been launched. Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_cleanupSolutionProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.914 INFO: [ExecutionPlanTask: Run FF_cleanupSolutionProfiles] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-15_08-44-21_00/Run_FF_cleanupSolutionProfiles18-02-15_08-44-42_00.log'. Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_cleanupSolutionProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:44:42.915 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x0000050c) 2018-Feb-15 08:44:42.915 DIAGNOSTIC: Execution plan: current event data:
+	from: 0b3964ed-2bc4-488d-8570-e94236f0a179
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000050c) 2018-Feb-15 08:44:42.915 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000008ec) 2018-Feb-15 08:45:07.089 INFO: [ExecutionPlanTask: Run FF_cleanupSolutionProfiles] Process #4025 - Process Run FF_cleanupSolutionProfiles ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-15_08-44-21_00/Run_FF_cleanupSolutionProfiles18-02-15_08-44-42_00.log' Location: [Execution plan:QA_FF_Profiles_Init\[Run FF_cleanupSolutionProfiles]]
+(TID#0x0000050c) 2018-Feb-15 08:45:07.089 DIAGNOSTIC: Execution plan: current event data:
+	from: 05253cf4-0f65-473c-9903-af66582633df
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: current event data:
+	from: 05253cf4-0f65-473c-9903-af66582633df
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: current event data:
+	from: 05253cf4-0f65-473c-9903-af66582633df
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x0000050c) 2018-Feb-15 08:45:07.090 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-15_08-44-21_00/Run_QA_FF_Profiles_Init18-02-15_08-44-41_00.log'
+(TID#0x00001110) <log ended>

@@ -1,0 +1,7 @@
+﻿(TID#0x00000754) 2018-Feb-14 17:33:07.078 DIAGNOSTIC: [Process: Read and Import ARO Files] Execution plan loop: execution started
+(TID#0x00000754) 2018-Feb-14 17:33:07.078 INFO: [Process: Read and Import ARO Files] #4106 - Initializing loop with '1' concurrent processes.
+(TID#0x00000754) 2018-Feb-14 17:33:07.080 DIAGNOSTIC: [Process: Read and Import ARO Files] Execution plan: terminating all processes
+(TID#0x00000754) 2018-Feb-14 17:33:07.080 DIAGNOSTIC: [Process: Read and Import ARO Files] Execution plan: all processes has been terminated
+(TID#0x00000754) 2018-Feb-14 17:33:07.080 INFO: [Process: Read and Import ARO Files] #4107 - Summary: 0 processes completed successfully. 0 processes completed with errors. 0 processes failed to initialize. 0 processes failed.
+(TID#0x00000754) 2018-Feb-14 17:33:07.080 INFO: [Process: Read and Import ARO Files] #4102 - Execution ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/Read_and_Import_ARO_Files18-02-14_17-33-07_00.log'
+(TID#0x00000fa4) <log ended>

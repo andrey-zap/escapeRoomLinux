@@ -1,0 +1,34 @@
+﻿(TID#0x00000a88) 2018-Feb-06 16:42:06.973 DIAGNOSTIC: Execution plan: execution started
+(TID#0x00000a88) 2018-Feb-06 16:42:06.973 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000a88) 2018-Feb-06 16:42:06.974 DIAGNOSTIC: Execution plan: current event data:
+	from: 3a04d122-0ee5-4e87-b55a-775a296b4aa7
+	to: 39d2b32a-6fb9-4fa4-8a9e-9703113c02ce
+	msg: continue to work
+
+(TID#0x00000a88) 2018-Feb-06 16:42:06.974 DIAGNOSTIC: Execution plan: event receiver:39d2b32a-6fb9-4fa4-8a9e-9703113c02ce
+(TID#0x00000a88) 2018-Feb-06 16:42:06.993 INFO: [ExecutionPlanTask: Read and Import ARO Files] Process #4018 - New process 'Read and Import ARO Files' has been launched. Location: [Execution plan:Suite_Read_AIS_Objects\[Read and Import ARO Files]]
+(TID#0x00000a88) 2018-Feb-06 16:42:06.993 INFO: [ExecutionPlanTask: Read and Import ARO Files] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Read_and_Import_ARO_Files18-02-06_16-42-06_00.log'. Location: [Execution plan:Suite_Read_AIS_Objects\[Read and Import ARO Files]]
+(TID#0x000016e0) 2018-Feb-06 16:42:07.003 INFO: [ExecutionPlanTask: Read and Import ARO Files] Process #4025 - Process Read and Import ARO Files ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Read_and_Import_ARO_Files18-02-06_16-42-06_00.log' Location: [Execution plan:Suite_Read_AIS_Objects\[Read and Import ARO Files]]
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: current event data:
+	from: 39d2b32a-6fb9-4fa4-8a9e-9703113c02ce
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: current event data:
+	from: 39d2b32a-6fb9-4fa4-8a9e-9703113c02ce
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: current event data:
+	from: 39d2b32a-6fb9-4fa4-8a9e-9703113c02ce
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x00000a88) 2018-Feb-06 16:42:07.007 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Suite_Read_AIS_Objects18-02-06_16-42-06_00.log'
+(TID#0x000006a8) <log ended>

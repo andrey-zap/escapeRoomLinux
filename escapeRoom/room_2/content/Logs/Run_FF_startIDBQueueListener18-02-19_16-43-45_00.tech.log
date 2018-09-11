@@ -1,0 +1,15 @@
+﻿(TID#0x000010e4) 2018-Feb-19 16:43:45.198 DIAGNOSTIC: Execution plan: execution started
+(TID#0x000010e4) 2018-Feb-19 16:43:45.198 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{  }'
+(TID#0x000010e4) 2018-Feb-19 16:43:45.199 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000010e4) 2018-Feb-19 16:43:45.199 DIAGNOSTIC: Execution plan: current event data:
+	from: ce6c8de7-6d45-48a0-a0ee-e0385deeea65
+	to: d3e6fb22-f332-4385-a99e-1df4f845c70d
+	msg: continue to work
+
+(TID#0x000010e4) 2018-Feb-19 16:43:45.199 DIAGNOSTIC: Execution plan: event receiver:d3e6fb22-f332-4385-a99e-1df4f845c70d
+(TID#0x000010e4) 2018-Feb-19 16:43:45.234 INFO: [ExecutionPlanTask: Run IDB Consumer] Process #4022 - Source process flow name: 'FF_amqConsumeMessage'. Location: [Execution plan:FF_startIDBQueueListener\[Run IDB Consumer]]
+(TID#0x000010e4) 2018-Feb-19 16:43:45.234 INFO: [ExecutionPlanTask: Run IDB Consumer] Process #4021 - Source process channel name: 'FF_amQueueChannel'. Location: [Execution plan:FF_startIDBQueueListener\[Run IDB Consumer]]
+(TID#0x000010e4) 2018-Feb-19 16:43:45.235 INFO: [ExecutionPlanTask: Run IDB Consumer] Process #4023 - Source process with source name: 'infinite'. Location: [Execution plan:FF_startIDBQueueListener\[Run IDB Consumer]]
+(TID#0x000010e4) 2018-Feb-19 16:43:52.114 INFO: [ExecutionPlanTask: Run IDB Consumer] Process #4018 - New process 'idbConsumer' has been launched. Location: [Execution plan:FF_startIDBQueueListener\[Run IDB Consumer]]
+(TID#0x000010e4) 2018-Feb-19 16:43:52.114 INFO: [ExecutionPlanTask: Run IDB Consumer] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/idbConsumer18-02-19_16-43-45_00.log'. Location: [Execution plan:FF_startIDBQueueListener\[Run IDB Consumer]]
+(TID#0x000010e4) 2018-Feb-19 16:43:52.115 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.

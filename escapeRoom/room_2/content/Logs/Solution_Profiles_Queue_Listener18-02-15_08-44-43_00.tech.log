@@ -1,0 +1,33 @@
+﻿(TID#0x00000934) 2018-Feb-15 08:44:43.731 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_AMQ_CONNECTOR_Broker_URI' from instance with value 'tcp://localhost:2348'. Location: [Connector:PROFILES_AMQ_CONNECTOR\<broker uri>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.731 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_AMQ_CONNECTOR_Broker_User_Name' from instance with value 'admin'. Location: [Connector:PROFILES_AMQ_CONNECTOR\<user name>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.732 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_AMQ_CONNECTOR_Broker_Password' from instance with value '********'. Location: [Connector:PROFILES_AMQ_CONNECTOR\<password>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.844 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_DSN' from instance with value 'database'. Location: [Connector:FF_profilesDbConnector\<dsn>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.897 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_UserName' from instance with value 'QA_AIS_SOL_USER'. Location: [Connector:FF_profilesDbConnector\<user name>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.898 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_Password' from instance with value '********'. Location: [Connector:FF_profilesDbConnector\<password>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.913 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_DefaultDatabase' from instance with value 'QA_AIS_SOL'. Location: [Connector:FF_profilesDbConnector\<default database>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.913 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_ConnectionTimeout' from instance with value '120'. Location: [Connector:FF_profilesDbConnector\<connection time out>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.913 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_CommandTimeout' from instance with value '500'. Location: [Connector:FF_profilesDbConnector\<command time out>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.914 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_DatabaseType' from instance with value 'SQLServer'. Location: [Connector:FF_profilesDbConnector\<dbms type>]
+(TID#0x00000934) 2018-Feb-15 08:44:43.914 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_PROFILES_DbConnector_ServerName' from instance with value 'database'. Location: [Connector:FF_profilesDbConnector\<server name>]
+(TID#0x00000934) 2018-Feb-15 08:45:01.542 INFO: [Process: Solution Profiles Queue Listener] Init #78775 - Profiles Queue Listener process - participating profiles are: 'FF_browserProfile', 'FF_cardDeviceProfile', 'FF_cardProfile', 'FF_cardTerminalProfile', 'FF_connectionProfile', 'FF_deviceHistoryProfile', 'FF_entityPayeeNameProfile', 'FF_entityPayeeProfile', 'FF_entityProfile', 'FF_entityWebDeviceProfile', 'FF_merchantProfile', 'FF_payeeProfile', 'FF_phoneDeviceProfile', 'FF_terminalProfile'.
+(TID#0x00000934) 2018-Feb-15 08:45:01.557 INFO: [Process: Solution Profiles Queue Listener] Init #78750 - Profiles Queue Listener process is starting, running 1 threads.
+(TID#0x000010a4) 2018-Feb-15 08:45:01.558 INFO: [Process: Solution Profiles Queue Listener] Init #78751 - Profiles Queue Listener process started.
+(TID#0x000010a4) 2018-Feb-15 08:45:01.559 INFO: [Flow: Solution Profiles Queue Listener(1)] #78760 - Profiles Queue Listener task is paused.
+(TID#0x000010a4) 2018-Feb-15 08:45:01.559 INFO: [Process: Solution Profiles Queue Listener] #78761 - Profiles Queue Listener process is paused.
+(TID#0x000010a4) 2018-Feb-15 08:45:07.560 INFO: [Flow: Solution Profiles Queue Listener(1)] #78762 - Profiles Queue Listener task is resumed.
+(TID#0x000010a4) 2018-Feb-15 08:45:07.560 INFO: [Process: Solution Profiles Queue Listener] #78763 - Profiles Queue Listener process is resumed.
+jeckie1: _  _ _____ ____
+(TID#0x000010a4) 2018-Feb-15 08:45:51.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78758 - Profiles Queue Listener process has processed 0 messages.
+(TID#0x000010a4) 2018-Feb-15 08:45:51.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78765 - Profiles Queue Listener process task is pausing.
+(TID#0x000010a4) 2018-Feb-15 08:45:52.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78758 - Profiles Queue Listener process has processed 0 messages.
+(TID#0x000010a4) 2018-Feb-15 08:45:52.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78760 - Profiles Queue Listener task is paused.
+(TID#0x000010a4) 2018-Feb-15 08:45:52.950 INFO: [Process: Solution Profiles Queue Listener] #78761 - Profiles Queue Listener process is paused.
+(TID#0x000010a4) 2018-Feb-15 08:45:54.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78762 - Profiles Queue Listener task is resumed.
+(TID#0x000010a4) 2018-Feb-15 08:45:54.950 INFO: [Process: Solution Profiles Queue Listener] #78763 - Profiles Queue Listener process is resumed.
+(TID#0x000010a4) 2018-Feb-15 08:45:59.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78758 - Profiles Queue Listener process has processed 0 messages.
+(TID#0x000010a4) 2018-Feb-15 08:45:59.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78765 - Profiles Queue Listener process task is pausing.
+(TID#0x000010a4) 2018-Feb-15 08:46:00.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78758 - Profiles Queue Listener process has processed 0 messages.
+(TID#0x000010a4) 2018-Feb-15 08:46:00.950 INFO: [Flow: Solution Profiles Queue Listener(1)] #78760 - Profiles Queue Listener task is paused.
+(TID#0x000010a4) 2018-Feb-15 08:46:00.950 INFO: [Process: Solution Profiles Queue Listener] #78761 - Profiles Queue Listener process is paused.
+(TID#0x000010a4) 2018-Feb-15 08:46:02.951 INFO: [Flow: Solution Profiles Queue Listener(1)] #78762 - Profiles Queue Listener task is resumed.
+(TID#0x000010a4) 2018-Feb-15 08:46:02.951 INFO: [Process: Solution Profiles Queue Listener] #78763 - Profiles Queue Listener process is resumed.

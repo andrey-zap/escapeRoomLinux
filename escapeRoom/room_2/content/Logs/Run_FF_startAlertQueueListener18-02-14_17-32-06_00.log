@@ -1,0 +1,6 @@
+﻿2018-Feb-14 17:32:06.899 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ processorId=1 }'
+2018-Feb-14 17:32:06.906 INFO: [ExecutionPlanTask: Run infiniteQueueChannel] Process #4022 - Source process flow name: 'FF_distributeAlertFromQueue'. Location: [Execution plan:FF_startAlertQueueListener\[Run infiniteQueueChannel]]
+2018-Feb-14 17:32:06.906 INFO: [ExecutionPlanTask: Run infiniteQueueChannel] Process #4021 - Source process channel name: 'FF_infiniteQueueChannel'. Location: [Execution plan:FF_startAlertQueueListener\[Run infiniteQueueChannel]]
+2018-Feb-14 17:32:06.906 INFO: [ExecutionPlanTask: Run infiniteQueueChannel] Process #4023 - Source process with source name: 'infinite'. Location: [Execution plan:FF_startAlertQueueListener\[Run infiniteQueueChannel]]
+2018-Feb-14 17:32:35.160 INFO: [ExecutionPlanTask: Run infiniteQueueChannel] Process #4018 - New process 'alertQueueListener' has been launched. Location: [Execution plan:FF_startAlertQueueListener\[Run infiniteQueueChannel]]
+2018-Feb-14 17:32:35.160 INFO: [ExecutionPlanTask: Run infiniteQueueChannel] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/alertQueueListener18-02-14_17-32-06_00.log'. Location: [Execution plan:FF_startAlertQueueListener\[Run infiniteQueueChannel]]

@@ -1,0 +1,3 @@
+﻿2018-Jan-01 12:46:29.066 INFO: [Process: Import APK] #90000 - Shell Process Import APK is initializing. Command line: 'cmd /c "C:\Actimize\4.24.0.51\Bin\ais_admin.exe  -s 1.9.58.20 -t 2345 -u admin -p password --import --ignore-warnings --package "C:\QA_FF_Regression\Reset\AIS Repository\Fraud Framework - Self Development.apk""'
+2018-Jan-01 12:46:29.068 INFO: [Process: Import APK] End #90002 - Shell Process is running.
+2018-Jan-01 12:46:30.603 INFO: [Process: Import APK] End #90007 - Shell Process Import APK finished successfully.

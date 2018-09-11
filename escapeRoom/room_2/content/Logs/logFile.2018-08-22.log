@@ -1,0 +1,28 @@
+11:15:51.399  460  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:15:51.430  491  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+11:15:51.430  491  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:15:51.566  627  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.567  628  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.567  628  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.567  628  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.610  671  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.611  672  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.618  679  [main] DEBUG c.a.automation.infra.Environment - name
+11:15:51.621  682  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:15:51.621  682  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:15:51.622  683  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:15:51.622  683  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:15:51.623  684  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:15:51.623  684  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:15:51.644  705  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\logo.png
+11:15:51.665  726  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.ReportWithFailedLogsTest
+11:15:51.666  727  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.ReportWithFailedLogsTest
+11:15:51.676  737  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+11:15:51.730  791  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+11:15:51.779  840  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: bb 
+11:15:51.782  843  [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+11:15:51.808  869  [pool-2-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c bb
+11:15:52.147  1208 [main] WARN  c.a.a.i.o.model.CommonOsActions - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-22T11.15.51\1.html!{"expected":"Run Command:<br>bb ","observed":"<br>'bb' is not recognized as an internal or external command,\noperable program or batch file.<br><br>Command Exit Value: 1","message":"failed with ignore","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-22T11.15.51\\1.html","attachedLog":"Snapshots\\1\\1534925751862.txt"}
+11:48:15.090  1944151 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Processing command: hostname 
+11:48:15.091  1944152 [main] DEBUG c.a.a.i.o.model.CommonOsActions - Timeout for this action is 120 seconds
+11:48:15.093  1944154 [pool-3-thread-1] DEBUG c.a.a.infra.osActions.SimpleAgent - Running: cmd /c hostname

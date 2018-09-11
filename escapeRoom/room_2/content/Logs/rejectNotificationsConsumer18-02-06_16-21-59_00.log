@@ -1,0 +1,16 @@
+﻿2018-Feb-06 16:21:59.665 INFO: [Process: rejectNotificationsConsumer] Init #52009 - Process initializing.
+2018-Feb-06 16:21:59.668 INFO: [Source: FF_amQueueChannel : infinite] #52321 - Activation arguments - '{ queueName=NULL }'
+2018-Feb-06 16:21:59.690 INFO: [Process: rejectNotificationsConsumer] Init #52512 - Profiler activation mode: [No] | Snapshot interval: N/A seconds | Txn profiling mode: [N/A], N/A microseconds, num top blocks: N/A, output txn data: N/A.
+2018-Feb-06 16:22:00.529 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_DbConnector_DSN' from instance with value 'database'. Location: [Connector:FF_idbApplicationConnector\<dsn>]
+2018-Feb-06 16:22:00.533 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_UserName' from instance with value 'QA_IDB_1_RT'. Location: [Connector:FF_idbApplicationConnector\<user name>]
+2018-Feb-06 16:22:00.533 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_Password' from instance with value '********'. Location: [Connector:FF_idbApplicationConnector\<password>]
+2018-Feb-06 16:22:00.534 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_DbConnector_DefaultDatabase' from instance with value 'QA_IDB_1'. Location: [Connector:FF_idbApplicationConnector\<default database>]
+2018-Feb-06 16:22:00.534 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_Application_ConnectionTimeout' from instance with value '120'. Location: [Connector:FF_idbApplicationConnector\<connection time out>]
+2018-Feb-06 16:22:00.534 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_Application_CommandTimeout' from instance with value '120'. Location: [Connector:FF_idbApplicationConnector\<command time out>]
+2018-Feb-06 16:22:00.534 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_DbConnector_DatabaseType' from instance with value 'SQLServer'. Location: [Connector:FF_idbApplicationConnector\<dbms type>]
+2018-Feb-06 16:22:00.534 INFO: [Repository: Repository] Repository #33008 - Resolved key 'FF_IDB_DbConnector_ServerName' from instance with value 'database'. Location: [Connector:FF_idbApplicationConnector\<server name>]
+2018-Feb-06 16:22:01.693 INFO: [Process: rejectNotificationsConsumer] #52001 - Process is running.
+2018-Feb-06 16:22:01.693 INFO: [Source: FF_amQueueChannel : infinite] Init #53001 - Source initializing.
+2018-Feb-06 16:22:01.694 INFO: [Source: FF_amQueueChannel : infinite] Init #53002 - Source initialized successfully.
+2018-Feb-06 16:22:01.694 INFO: [Flow: FF_RejectQueueConsumeMessage(1)] Init #50040 - Flow initializing.
+2018-Feb-06 16:22:01.694 INFO: [Flow: FF_RejectQueueConsumeMessage(1)] Init #50041 - Flow initialized successfully.

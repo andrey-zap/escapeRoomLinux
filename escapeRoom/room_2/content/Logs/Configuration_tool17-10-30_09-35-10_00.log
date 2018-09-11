@@ -1,0 +1,4 @@
+﻿2017-Oct-30 09:35:10.451 INFO: [Process: Configuration tool] #90000 - Shell Process Configuration tool is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\configurator_v2.py "C:\QA_FF_Regression\TestSuites\ADLTuninglog\Initialization\Configuration Files" C:\Actimize\4.23.0.30\Instances\actimize_server_1 True C:\QA_FF_Regression\E2E\"'
+2017-Oct-30 09:35:10.451 INFO: [Process: Configuration tool] End #90002 - Shell Process is running.
+2017-Oct-30 09:35:10.530 INFO: [Process: Configuration tool] End #90007 - Shell Process Configuration tool finished successfully.
+<log ended>

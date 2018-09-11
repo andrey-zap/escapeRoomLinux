@@ -1,0 +1,7 @@
+﻿2018-Feb-06 16:42:07.336 INFO: [Process] #6024 - Profiles maintainer process started.
+2018-Feb-06 16:42:07.336 INFO: [Flow: Profiles Maintenance Process] #6029 - Pausing all profile transaction queue listener processes.
+2018-Feb-06 16:42:13.337 INFO: [Flow: Profiles Maintenance Process] #6030 - All profile transaction queue listener processes are now paused.
+2018-Feb-06 16:42:13.337 INFO: [Flow: Profiles Maintenance Process] Init #78851 - Profiles Clean process started.
+2018-Feb-06 16:42:13.337 INFO: [Flow: Profiles Maintenance Process] End #78852 - Profiles Clean process finished.
+2018-Feb-06 16:42:13.337 INFO: [Process] #6025 - Profiles maintainer process ended successfully.
+<log ended>

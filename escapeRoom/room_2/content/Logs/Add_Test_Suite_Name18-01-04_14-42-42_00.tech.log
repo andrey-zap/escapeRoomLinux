@@ -1,0 +1,30 @@
+﻿(TID#0x00001014) 2018-Jan-04 14:42:42.034 INFO: [Process: Add Test Suite Name] Init #52009 - Process initializing.
+(TID#0x00001014) 2018-Jan-04 14:42:42.038 INFO: [Process: Add Test Suite Name] Init #52512 - Profiler activation mode: [No] | Snapshot interval: N/A seconds | Txn profiling mode: [N/A], N/A microseconds, num top blocks: N/A, output txn data: N/A.
+(TID#0x00001014) 2018-Jan-04 14:42:42.045 INFO: [Process: Add Test Suite Name] #52001 - Process is running.
+(TID#0x00001014) 2018-Jan-04 14:42:42.045 INFO: composite task running.
+(TID#0x00001014) 2018-Jan-04 14:42:42.046 INFO: composite task running.
+(TID#0x00001014) 2018-Jan-04 14:42:42.046 INFO: composite task running.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.046 INFO: [Flow: Regression_addTestSuiteName(1)] Init #50040 - Flow initializing.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.046 INFO: [Flow: Regression_addTestSuiteName(1)] Init #50041 - Flow initialized successfully.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.046 INFO: [Source: IFM_QA_Compare_DummyChannel : Source] Init #53001 - Source initializing.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.046 INFO: [Source: IFM_QA_Compare_DummyChannel : Source] Init #53002 - Source initialized successfully.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.047 INFO: [Flow: IFM_QA_Compare_DummyChannel : Source] Java #89240 - Active Component disposal started.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.047 INFO: [Flow: IFM_QA_Compare_DummyChannel : Source] Java #89241 - Active Component disposal ended.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.047 INFO: [Source: IFM_QA_Compare_DummyChannel : Source] #53007 - Source step 1 (Passed: 1, Filtered:0, Erroneous: 0, Containers deadlocks: 0, End of Source: 0).
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.047 INFO: [Source: IFM_QA_Compare_DummyChannel : Source] End #53004 - Source cleanup started.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.047 INFO: [Source: IFM_QA_Compare_DummyChannel : Source] End #53005 - Source cleanup ended.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.047 INFO: [Flow: Regression_addTestSuiteName(1)] Java #89240 - Active Component disposal started.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.047 INFO: [Source: IFM_QA_Compare_DummyChannel : Source] End #53009 - Source finished normally.
+(TID#0x00001b2c) 2018-Jan-04 14:42:42.048 INFO: composite task finished.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.048 INFO: [Flow: Regression_addTestSuiteName(1)] Java #89241 - Active Component disposal ended.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.048 INFO: [Flow: Regression_addTestSuiteName(1)] #50044 - Flow step 1, containers deadlocks: 0.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.048 INFO: [Flow: Regression_addTestSuiteName(1)] End #50042 - Flow cleanup started.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Flow: Regression_addTestSuiteName(1)] End #50043 - Flow cleanup ended.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Flow: Regression_addTestSuiteName(1)] End #50045 - Flow finished successfully.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: composite task finished.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Flow: Regression_addTestSuiteName] #52221 - Waiting for distributions finish.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Flow: Regression_addTestSuiteName] #52222 - Distributions finished.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: composite task finished.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Process: Add Test Suite Name] Java #89242 - Process Environment disposal started.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Process: Add Test Suite Name] Java #89243 - Process Environment disposal ended.
+(TID#0x00001a98) 2018-Jan-04 14:42:42.050 INFO: [Process: Add Test Suite Name] End #52005 - Process finished successfully.

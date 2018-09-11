@@ -1,0 +1,51 @@
+﻿(TID#0x000013b4) 2018-Feb-06 16:22:21.009 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_DSN' from instance with value 'database'. Location: [Connector:IDB_StageConnector\<dsn>]
+(TID#0x000013b4) 2018-Feb-06 16:22:21.009 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_MaintenanceUserName' from instance with value 'QA_IDB_1_MAINT'. Location: [Connector:IDB_StageConnector\<user name>]
+(TID#0x000013b4) 2018-Feb-06 16:22:21.010 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_MaintenancePassword' from instance with value '********'. Location: [Connector:IDB_StageConnector\<password>]
+(TID#0x000013b4) 2018-Feb-06 16:22:21.010 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_DefaultDatabase' from instance with value 'QA_IDB_1'. Location: [Connector:IDB_StageConnector\<default database>]
+(TID#0x000013b4) 2018-Feb-06 16:22:21.010 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_ConnectionTimeout' from instance with value '120'. Location: [Connector:IDB_StageConnector\<connection time out>]
+(TID#0x000013b4) 2018-Feb-06 16:22:21.010 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_Staging_CommandTimeout' from instance with value '600'. Location: [Connector:IDB_StageConnector\<command time out>]
+(TID#0x000013b4) 2018-Feb-06 16:22:21.010 INFO: [Repository: Repository] Repository #33008 - Resolved key 'IDB_DbConnector_DatabaseType' from instance with value 'SQLServer'. Location: [Connector:IDB_StageConnector\<dbms type>]
+(TID#0x000006d0) 2018-Feb-06 16:22:21.015 DIAGNOSTIC: Execution plan: execution started
+(TID#0x000006d0) 2018-Feb-06 16:22:21.015 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ date=15/10/2016 00:00:00.000000, tableName=FF_TRANSACTIONS_LATEST_VERSION, lookBack=NULL, buffer=NULL }'
+(TID#0x000006d0) 2018-Feb-06 16:22:21.015 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000006d0) 2018-Feb-06 16:22:21.016 DIAGNOSTIC: Execution plan: current event data:
+	from: b1d86cff-bd0e-4948-9fa8-a2fed9603cca
+	to: d9c75e74-45a0-4706-b43f-02523896749e
+	msg: continue to work
+
+(TID#0x000006d0) 2018-Feb-06 16:22:21.016 DIAGNOSTIC: Execution plan: event receiver:d9c75e74-45a0-4706-b43f-02523896749e
+(TID#0x000006d0) 2018-Feb-06 16:22:21.016 INFO: [ExecutionPlanTask] Process #4118 - Condition block 'MSSQL?' started.
+(TID#0x000006d0) 2018-Feb-06 16:22:21.018 INFO: [ExecutionPlanTask] Process #4119 - Condition block 'MSSQL?' ended. Result was 'true'.
+(TID#0x000006d0) 2018-Feb-06 16:22:21.019 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000006d0) 2018-Feb-06 16:22:21.019 DIAGNOSTIC: Execution plan: current event data:
+	from: d9c75e74-45a0-4706-b43f-02523896749e
+	to: f8115810-7da9-4cbf-9032-9e511e8b730d
+	msg: continue to work
+
+(TID#0x000006d0) 2018-Feb-06 16:22:21.019 DIAGNOSTIC: Execution plan: event receiver:f8115810-7da9-4cbf-9032-9e511e8b730d
+(TID#0x000006d0) 2018-Feb-06 16:22:24.873 INFO: [ExecutionPlanTask: MSSQL] Process #4018 - New process 'MSSQL' has been launched. Location: [Execution plan:IDB_runInitPartition\MSSQL]
+(TID#0x000006d0) 2018-Feb-06 16:22:24.873 INFO: [ExecutionPlanTask: MSSQL] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/MSSQL18-02-06_16-22-21_00.log'. Location: [Execution plan:IDB_runInitPartition\MSSQL]
+(TID#0x000006d0) 2018-Feb-06 16:22:24.874 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000009b8) 2018-Feb-06 16:22:25.409 INFO: [ExecutionPlanTask: MSSQL] Process #4025 - Process MSSQL ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/MSSQL18-02-06_16-22-21_00.log' Location: [Execution plan:IDB_runInitPartition\MSSQL]
+(TID#0x000006d0) 2018-Feb-06 16:22:25.410 DIAGNOSTIC: Execution plan: current event data:
+	from: f8115810-7da9-4cbf-9032-9e511e8b730d
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000006d0) 2018-Feb-06 16:22:25.410 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000006d0) 2018-Feb-06 16:22:25.410 DIAGNOSTIC: Execution plan: current event data:
+	from: f8115810-7da9-4cbf-9032-9e511e8b730d
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000006d0) 2018-Feb-06 16:22:25.410 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000006d0) 2018-Feb-06 16:22:25.410 DIAGNOSTIC: Execution plan: current event data:
+	from: f8115810-7da9-4cbf-9032-9e511e8b730d
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000006d0) 2018-Feb-06 16:22:25.411 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x000006d0) 2018-Feb-06 16:22:25.411 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x000006d0) 2018-Feb-06 16:22:25.411 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x000006d0) 2018-Feb-06 16:22:25.411 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_IDB_run_Init_Partition18-02-06_16-22-20_00.log'
+(TID#0x00000abc) <log ended>

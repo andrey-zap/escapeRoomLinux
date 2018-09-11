@@ -1,0 +1,266 @@
+12:01:28.679  779  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:01:28.721  821  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+12:01:28.721  821  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:01:28.889  989  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.890  990  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.890  990  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.890  990  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.894  994  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.894  994  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.896  996  [main] DEBUG c.a.automation.infra.Environment - name
+12:01:28.898  998  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:01:28.899  999  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:01:28.899  999  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:01:28.899  999  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:01:28.901  1001 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:01:28.901  1001 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:01:28.913  1013 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\logo.png
+12:01:28.939  1039 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.939  1039 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.939  1039 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.940  1040 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.940  1040 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.940  1040 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.940  1040 [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.CommonOsActionsTest
+12:01:28.952  1052 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+12:01:29.009  1109 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+12:01:29.032  1132 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 1. testserverStatusCheck
+12:01:29.055  1155 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 1. testserverStatusCheck
+12:01:29.056  1156 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testserverStatusCheck
+12:01:29.058  1158 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+12:01:29.059  1159 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+12:01:29.059  1159 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+12:01:29.118  1218 [main] WARN  c.a.a.i.osActions.model.CoreAisUtil - Failed to delete log files in server
+12:17:10.472  322  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:17:10.474  324  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+12:17:10.474  324  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:17:10.545  395  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.548  398  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.549  399  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.550  400  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.557  407  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.558  408  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.559  409  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:10.570  420  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:17:10.571  421  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:17:10.575  425  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:17:10.575  425  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:17:26.487  161  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:17:26.490  164  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+12:17:26.490  164  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:17:26.536  210  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.537  211  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.537  211  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.537  211  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.541  215  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.542  216  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.542  216  [main] DEBUG c.a.automation.infra.Environment - name
+12:17:26.545  219  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:17:26.545  219  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:17:26.548  222  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:17:26.548  222  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.083  302  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+14:21:37.088  307  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+14:21:37.088  307  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+14:21:37.147  366  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.148  367  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.148  367  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.149  368  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.155  374  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.156  375  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.159  378  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.159  378  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.161  380  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.162  381  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.181  400  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.181  400  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.181  400  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.181  400  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.182  401  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.182  401  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.242  461  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+14:21:37.242  461  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+14:21:37.243  462  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+14:21:37.251  470  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.252  471  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.252  471  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.252  471  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.252  471  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.252  471  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.252  471  [main] DEBUG c.a.automation.infra.Environment - name
+14:21:37.254  473  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.254  473  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.254  473  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.254  473  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.255  474  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:21:37.256  475  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:21:37.266  485  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\logo.png
+14:21:37.301  520  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.database.DbReporterFolderTest
+14:21:37.301  520  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.database.DbReporterFolderTest
+14:21:37.302  521  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.database.DbReporterFolderTest
+14:21:37.316  535  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:21:37.324  543  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:21:38.585  1804 [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.21.37\1.html!{"expected":"testReportFolder","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.21.37\\1.html","attachedLog":"Snapshots/1/Compare Reports/Equals CompareHtmlReport2018-08-30T14.21.37.html"}
+14:59:04.441  2247660 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 1. testCreateCompareReport
+14:59:07.812  296  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+14:59:07.816  300  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+14:59:07.820  304  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+14:59:07.888  372  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.888  372  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.888  372  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.889  373  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.894  378  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.896  380  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.898  382  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.899  383  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.901  385  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.901  385  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.920  404  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.920  404  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.921  405  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.921  405  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.921  405  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.921  405  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.981  465  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+14:59:07.981  465  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+14:59:07.981  465  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+14:59:07.991  475  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.991  475  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.992  476  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.992  476  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.992  476  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.992  476  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.992  476  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:07.994  478  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.994  478  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.994  478  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.994  478  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:07.995  479  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:07.996  480  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:08.007  491  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\logo.png
+14:59:08.046  530  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.database.DbReporterFolderTest
+14:59:08.047  531  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.database.DbReporterFolderTest
+14:59:08.047  531  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.database.DbReporterFolderTest
+14:59:08.064  548  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:59:08.073  557  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:59:08.818  1302 [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.07\1.html!{"expected":"testReportFolder","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.59.07\\1.html","attachedLog":"Snapshots/1/Compare Reports/Equals CompareHtmlReport2018-08-30T14.59.08.html"}
+14:59:13.690  6174 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 1. testCreateCompareReport
+14:59:13.732  6216 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 1. testCreateCompareReport
+14:59:13.734  6218 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testCreateCompareReport
+14:59:13.739  6223 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+14:59:13.741  6225 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:59:13.741  6225 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:59:13.822  6306 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.07\2.html!{"expected":"testReportFolder","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.59.07\\2.html","attachedLog":"Snapshots/2/Compare Reports/Equals CompareHtmlReport2018-08-30T14.59.13.html"}
+14:59:13.828  6312 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 2. testReportFolder
+14:59:13.853  6337 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 2. testReportFolder
+14:59:13.854  6338 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testReportFolder
+14:59:13.854  6338 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+14:59:13.856  6340 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:59:13.856  6340 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:59:13.888  6372 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+14:59:14.108  6592 [main] ERROR c.a.a.i.d.compare.AbstractCompare - Failed to create compare report
+14:59:14.110  6594 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 3. testResultSetExport
+14:59:14.151  6635 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 3. testResultSetExport
+14:59:14.152  6636 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testResultSetExport
+14:59:14.153  6637 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+14:59:14.157  6641 [main] DEBUG c.a.a.infra.reporter.BasicReporter - Total time passed: 0d 0h 0m 6s
+14:59:14.350  6834 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+14:59:14.352  6836 [main] WARN  c.a.a.i.r.s.model.ExecutionDetails - No pipeline id supplied in Environment!
+14:59:14.378  6862 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output
+14:59:14.381  6865 [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\splunk__2018-08-30-02.59.14.378.json
+14:59:24.440  335  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+14:59:24.443  338  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+14:59:24.444  339  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+14:59:24.506  401  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.507  402  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.507  402  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.507  402  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.512  407  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.512  407  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.514  409  [main] DEBUG c.a.automation.infra.Environment - name
+14:59:24.517  412  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:24.517  412  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:24.518  413  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:24.519  414  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:24.520  415  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:59:24.520  415  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:59:24.533  428  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\logo.png
+14:59:24.568  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+14:59:24.568  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+14:59:24.568  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+14:59:24.568  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+14:59:24.585  480  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:59:24.658  553  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:59:24.943  838  [main] ERROR c.a.automation.infra.model.TestInfo - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\1.html!{"expected":"Success","observed":"test 1 failed","message":"Should be red message","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.59.24\\1.html","attachedLog":null}
+14:59:24.988  883  [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\1.html
+14:59:25.082  977  [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\1.html
+14:59:25.085  980  [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 1. testLoggerThroughTestInfo
+14:59:25.107  1002 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 1. testLoggerThroughTestInfo
+14:59:25.108  1003 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testLoggerThroughTestInfo
+14:59:25.109  1004 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+14:59:25.110  1005 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:59:25.110  1005 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:59:25.122  1017 [main] DEBUG c.a.automation.infra.ActimizeDriver - webdriver not exist
+14:59:25.114  1009 [main] ERROR c.a.automation.infra.model.TestInfo - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\2.html!{"expected":"Test should be with screenshot","observed":"Do you see it?","message":"test","takeScreenShot":true,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.59.24\\2.html","attachedLog":null}
+14:59:25.123  1018 [main] DEBUG c.a.automation.infra.Reporting - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\2.html!{"expected":"command1","observed":"result2:","message":"Checking","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.59.24\\2.html","attachedLog":null}
+14:59:25.124  1019 [main] DEBUG c.a.automation.infra.Reporting - #######
+14:59:25.124  1019 [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: testLoggerWithScreenshot
+14:59:25.124  1019 [main] DEBUG c.a.automation.infra.Reporting -  -- Description: Checking -- Expected Value: command1 -- Actual Value: result2:
+14:59:25.124  1019 [main] DEBUG c.a.automation.infra.Reporting - #######
+14:59:25.125  1020 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\2.html
+14:59:25.143  1038 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\2.html
+14:59:25.145  1040 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 2. testLoggerWithScreenshot
+14:59:25.159  1054 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 2. testLoggerWithScreenshot
+14:59:25.160  1055 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testLoggerWithScreenshot
+14:59:25.160  1055 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+14:59:25.160  1055 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+14:59:25.161  1056 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+14:59:27.406  3301 [main] ERROR c.a.automation.infra.Reporting - Test failed due to: Checking log files for failed test Expected: "command" Obtained: "result:" Result: "FAIL"
+14:59:27.419  3314 [main] ERROR c.a.automation.infra.Reporting - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\3.html!{"expected":"command","observed":"result:","message":"Checking log files for failed test","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T14.59.24\\3.html","attachedLog":""}
+14:59:27.434  3329 [main] DEBUG c.a.automation.infra.Reporting - %%%%%%%%%%%%%%%%%%%%%% GOT FAILURE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+14:59:27.436  3331 [main] DEBUG c.a.automation.infra.Reporting - #######
+14:59:27.437  3332 [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: testLoggerFailedStatusWithoutAttachedFile
+14:59:27.439  3334 [main] DEBUG c.a.automation.infra.Reporting -  -- Description: Checking log files for failed test -- Expected Value: command -- Actual Value: result:
+14:59:27.441  3336 [main] DEBUG c.a.automation.infra.Reporting - #######
+15:00:09.571  45466 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\3.html
+15:00:09.578  45473 [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T14.59.24\3.html
+15:00:09.581  45476 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 3. testLoggerFailedStatusWithoutAttachedFile
+15:00:12.063  335  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+15:00:12.066  338  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver
+15:00:12.066  338  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+15:00:12.127  399  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.128  400  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.128  400  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.128  400  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.133  405  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.133  405  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.134  406  [main] DEBUG c.a.automation.infra.Environment - name
+15:00:12.137  409  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:00:12.138  410  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:00:12.138  410  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:00:12.139  411  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:00:12.140  412  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:00:12.140  412  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:00:12.157  429  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: img/logo.png --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\logo.png
+15:00:12.191  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+15:00:12.191  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+15:00:12.191  463  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+15:00:12.192  464  [main] DEBUG c.a.a.i.impl.MyMethodInterceptor - com.actimize.automation.infra.tests.dataSourceMockTests.DataSourceHtmlLoggerTest
+15:00:12.204  476  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+15:00:12.281  553  [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed
+15:00:12.565  837  [main] DEBUG c.a.automation.infra.Reporting - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T15.00.12\1.html!{"expected":"command1","observed":"result2:","message":"Checking log files for Passed test","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T15.00.12\\1.html","attachedLog":"1535630412294.txt"}
+15:00:12.616  888  [main] DEBUG c.a.automation.infra.Reporting - #######
+15:00:12.616  888  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: testLoggerPassedStatusWithAttachedFile
+15:00:12.616  888  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: Checking log files for Passed test -- Expected Value: command1 -- Actual Value: result2:
+15:00:12.616  888  [main] DEBUG c.a.automation.infra.Reporting - #######
+15:00:12.618  890  [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T15.00.12\1.html
+15:00:12.715  987  [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T15.00.12\1.html
+15:00:12.718  990  [main] DEBUG c.a.a.infra.utils.ReporterUtils - reporter_path=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T15.00.12\1.html
+15:00:12.723  995  [main] DEBUG c.a.automation.infra.model.TestInfo - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra-DSdriver\output\execution\\develeap\HTML_Reports2018-08-30T15.00.12\1.html!{"expected":"Success","observed":"test 4 failed?","message":"Should be green message","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra-DSdriver\\output\\execution\\\\develeap\\HTML_Reports2018-08-30T15.00.12\\1.html","attachedLog":null}
+15:00:12.724  996  [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess start: 1. testLoggerPassedStatusWithAttachedFile
+15:00:12.744  1016 [main] DEBUG c.a.a.i.l.DataSourceReporterListener - onTestSuccess end: 1. testLoggerPassedStatusWithAttachedFile
+15:00:12.745  1017 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod begin - testLoggerPassedStatusWithAttachedFile
+15:00:12.747  1019 [main] DEBUG c.a.a.i.actimizeTests.ActimizeTest - AfterMethod end - null
+15:00:12.748  1020 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary
+15:00:12.748  1020 [main] DEBUG c.a.a.infra.KeepRefererService - Loading keep refer information into dictionary completed

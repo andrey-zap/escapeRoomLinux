@@ -1,0 +1,37 @@
+﻿(TID#0x000012f0) 2018-Jan-01 12:28:50.403 DIAGNOSTIC: Execution plan: execution started
+(TID#0x000012f0) 2018-Jan-01 12:28:50.403 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ TestSuiteName=ADLTuninglogWeb, CopyExtraLogs=NULL }'
+(TID#0x000012f0) 2018-Jan-01 12:28:50.404 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000012f0) 2018-Jan-01 12:28:50.404 DIAGNOSTIC: Execution plan: current event data:
+	from: 2febd300-6f46-4404-b10d-d0d6fac5eda6
+	to: 7991da9c-2355-406d-af14-1d0c55040514
+	msg: continue to work
+
+(TID#0x000012f0) 2018-Jan-01 12:28:50.404 DIAGNOSTIC: Execution plan: event receiver:7991da9c-2355-406d-af14-1d0c55040514
+(TID#0x000012f0) 2018-Jan-01 12:28:50.405 INFO: [ExecutionPlanTask: Run QA_Restore] Process #4027 - Execution plan process execution plan name: 'QA_Restore'. Location: [Execution plan:Finalize_suite\[Run QA_Restore]]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.416 INFO: [ExecutionPlanTask: Run QA_Restore] Process #4018 - New process 'Run QA_Restore' has been launched. Location: [Execution plan:Finalize_suite\[Run QA_Restore]]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.416 INFO: [ExecutionPlanTask: Run QA_Restore] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-01-01_12-25-24_00/Run_QA_Restore18-01-01_12-28-50_00.log'. Location: [Execution plan:Finalize_suite\[Run QA_Restore]]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.417 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x0000146c) 2018-Jan-01 12:28:50.557 INFO: [ExecutionPlanTask: Run QA_Restore] Process #4025 - Process Run QA_Restore ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-01-01_12-25-24_00/Run_QA_Restore18-01-01_12-28-50_00.log' Location: [Execution plan:Finalize_suite\[Run QA_Restore]]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.557 DIAGNOSTIC: Execution plan: current event data:
+	from: 7991da9c-2355-406d-af14-1d0c55040514
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000146c) 2018-Jan-01 12:28:50.557 INFO: [ExecutionPlanTask: Run QA_Restore] Process #4020 - Transition event 'on completion' from process 'Run QA_Restore' has been received.
+(TID#0x000012f0) 2018-Jan-01 12:28:50.557 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000012f0) 2018-Jan-01 12:28:50.558 DIAGNOSTIC: Execution plan: current event data:
+	from: 7991da9c-2355-406d-af14-1d0c55040514
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000012f0) 2018-Jan-01 12:28:50.558 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000012f0) 2018-Jan-01 12:28:50.558 DIAGNOSTIC: Execution plan: current event data:
+	from: 7991da9c-2355-406d-af14-1d0c55040514
+	to: 98d7c03b-b205-4f61-8603-aef4da837606
+	msg: continue to work
+
+(TID#0x000012f0) 2018-Jan-01 12:28:50.558 DIAGNOSTIC: Execution plan: event receiver:98d7c03b-b205-4f61-8603-aef4da837606
+(TID#0x000012f0) 2018-Jan-01 12:28:50.560 INFO: [ExecutionPlanTask: Run_Extract_and_Compare] Process #4027 - Execution plan process execution plan name: 'Run_Extract_Compare'. Location: [Execution plan:Finalize_suite\Run_Extract_and_Compare]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.583 INFO: [ExecutionPlanTask: Run_Extract_and_Compare] Process #4018 - New process 'Run_Extract_and_Compare' has been launched. Location: [Execution plan:Finalize_suite\Run_Extract_and_Compare]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.583 INFO: [ExecutionPlanTask: Run_Extract_and_Compare] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-01-01_12-25-24_00/Run_Extract_and_Compare18-01-01_12-28-50_00.log'. Location: [Execution plan:Finalize_suite\Run_Extract_and_Compare]
+(TID#0x000012f0) 2018-Jan-01 12:28:50.584 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.

@@ -1,0 +1,24 @@
+﻿2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+jeckie2:| || |___  |___ \
+2018-Jan-01 12:26:53.792 INFO: [Process: ReadSuiteParams] #90000 - Shell Process ReadSuiteParams is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\SuiteRunner_v1.py -c "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\SuiteData.cfg" -o "C:\QA_FF_Regression\TestSuites\ADLTuninglogWeb\Initialization\Configuration Files\command.cmd""'
+2018-Jan-01 12:26:53.794 INFO: [Process: ReadSuiteParams] End #90002 - Shell Process is running.
+2018-Jan-01 12:26:53.837 INFO: [Process: ReadSuiteParams] End #90007 - Shell Process ReadSuiteParams finished successfully.
+
+<log ended>

@@ -1,0 +1,178 @@
+11:28:30.371  1104 [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:28:30.393  1126 [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:28:30.393  1126 [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:28:30.606  1339 [main] DEBUG c.a.automation.infra.Environment - name
+11:28:30.607  1340 [main] DEBUG c.a.automation.infra.Environment - name
+11:28:30.609  1342 [main] DEBUG c.a.automation.infra.Environment - name
+11:28:30.610  1343 [main] DEBUG c.a.automation.infra.Environment - name
+11:28:30.622  1355 [main] DEBUG c.a.automation.infra.Environment - name
+11:28:30.624  1357 [main] DEBUG c.a.automation.infra.Environment - name
+11:28:30.634  1367 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:28:30.634  1367 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:28:30.638  1371 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:28:30.639  1372 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:28:30.745  1478 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:28:30.758  1491 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:28:31.075  1808 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='validate_proper_db_connect']/export
+11:28:31.078  1811 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_proper_db_connect']/scriptName
+12:11:02.570  633  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:11:02.572  635  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:11:02.572  635  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:11:02.709  772  [main] DEBUG c.a.automation.infra.Environment - name
+12:11:02.712  775  [main] DEBUG c.a.automation.infra.Environment - name
+12:11:02.712  775  [main] DEBUG c.a.automation.infra.Environment - name
+12:11:02.712  775  [main] DEBUG c.a.automation.infra.Environment - name
+12:11:02.759  822  [main] DEBUG c.a.automation.infra.Environment - name
+12:11:02.763  826  [main] DEBUG c.a.automation.infra.Environment - name
+12:11:02.774  837  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:11:02.774  837  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:11:02.864  927  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+12:11:02.864  927  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+12:18:57.626  1235 [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:18:57.629  1238 [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:18:57.629  1238 [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:18:57.780  1389 [main] DEBUG c.a.automation.infra.Environment - name
+12:18:57.781  1390 [main] DEBUG c.a.automation.infra.Environment - name
+12:18:57.781  1390 [main] DEBUG c.a.automation.infra.Environment - name
+12:18:57.781  1390 [main] DEBUG c.a.automation.infra.Environment - name
+12:18:57.789  1398 [main] DEBUG c.a.automation.infra.Environment - name
+12:18:57.791  1400 [main] DEBUG c.a.automation.infra.Environment - name
+12:18:57.797  1406 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:18:57.798  1407 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:19:01.361  1218 [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:19:01.370  1227 [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:19:01.371  1228 [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:19:01.663  1520 [main] DEBUG c.a.automation.infra.Environment - name
+12:19:01.665  1522 [main] DEBUG c.a.automation.infra.Environment - name
+12:19:01.665  1522 [main] DEBUG c.a.automation.infra.Environment - name
+12:19:01.665  1522 [main] DEBUG c.a.automation.infra.Environment - name
+12:19:01.702  1559 [main] DEBUG c.a.automation.infra.Environment - name
+12:19:01.703  1560 [main] DEBUG c.a.automation.infra.Environment - name
+12:19:01.707  1564 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:19:01.707  1564 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:19:01.873  1730 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+12:19:01.874  1731 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+12:19:02.052  1909 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+12:19:02.053  1910 [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-16-12.19.02.053.json
+12:19:05.067  8676 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+12:19:05.068  8677 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+13:31:27.905  581  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:31:27.905  581  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+13:31:27.905  581  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - name
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - name
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - name
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - name
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - name
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - name
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:31:28.005  681  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:31:35.387  8063 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+13:31:35.387  8063 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+13:35:39.109  563  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:35:39.109  563  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+13:35:39.109  563  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - name
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - name
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - name
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - name
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - name
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - name
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:35:39.218  672  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:38:46.579  188033 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+13:38:48.286  189740 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+13:49:11.360  556  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+13:49:11.363  559  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+13:49:11.364  560  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+13:49:11.470  666  [main] DEBUG c.a.automation.infra.Environment - name
+13:49:11.470  666  [main] DEBUG c.a.automation.infra.Environment - name
+13:49:11.470  666  [main] DEBUG c.a.automation.infra.Environment - name
+13:49:11.471  667  [main] DEBUG c.a.automation.infra.Environment - name
+13:49:11.478  674  [main] DEBUG c.a.automation.infra.Environment - name
+13:49:11.479  675  [main] DEBUG c.a.automation.infra.Environment - name
+13:49:11.481  677  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+13:49:11.481  677  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+13:49:12.965  2161 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+13:49:12.966  2162 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+14:22:45.074  483  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+14:22:45.078  487  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+14:22:45.078  487  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+14:22:45.177  586  [main] DEBUG c.a.automation.infra.Environment - name
+14:22:45.178  587  [main] DEBUG c.a.automation.infra.Environment - name
+14:22:45.178  587  [main] DEBUG c.a.automation.infra.Environment - name
+14:22:45.178  587  [main] DEBUG c.a.automation.infra.Environment - name
+14:22:45.196  605  [main] DEBUG c.a.automation.infra.Environment - name
+14:22:45.197  606  [main] DEBUG c.a.automation.infra.Environment - name
+14:22:45.201  610  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+14:22:45.201  610  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+14:22:45.302  711  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+14:22:45.302  711  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+14:22:45.364  773  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+14:22:45.364  773  [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-16-02.22.45.364.json
+15:16:07.626  512  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+15:16:07.630  516  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+15:16:07.630  516  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+15:16:07.743  629  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:07.744  630  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:07.744  630  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:07.745  631  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:07.763  649  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:07.764  650  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:07.768  654  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:16:07.768  654  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:16:07.862  748  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+15:16:07.862  748  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+15:16:07.928  814  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+15:16:07.929  815  [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-16-03.16.07.929.json
+15:16:48.617  422  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+15:16:48.620  425  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+15:16:48.620  425  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+15:16:48.713  518  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:48.714  519  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:48.714  519  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:48.714  519  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:48.729  534  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:48.730  535  [main] DEBUG c.a.automation.infra.Environment - name
+15:16:48.733  538  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:16:48.733  538  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:16:48.845  650  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+15:16:48.845  650  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+15:16:48.911  716  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+15:16:48.913  718  [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-16-03.16.48.912.json
+15:28:35.843  479  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+15:28:35.846  482  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+15:28:35.846  482  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+15:28:35.939  575  [main] DEBUG c.a.automation.infra.Environment - name
+15:28:35.940  576  [main] DEBUG c.a.automation.infra.Environment - name
+15:28:35.940  576  [main] DEBUG c.a.automation.infra.Environment - name
+15:28:35.941  577  [main] DEBUG c.a.automation.infra.Environment - name
+15:28:35.956  592  [main] DEBUG c.a.automation.infra.Environment - name
+15:28:35.957  593  [main] DEBUG c.a.automation.infra.Environment - name
+15:28:35.961  597  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:28:35.961  597  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:28:36.062  698  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+15:28:36.063  699  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+15:28:36.127  763  [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+15:28:36.128  764  [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-16-03.28.36.127.json
+15:29:37.468  620  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+15:29:37.471  623  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+15:29:37.471  623  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+15:29:37.564  716  [main] DEBUG c.a.automation.infra.Environment - name
+15:29:37.565  717  [main] DEBUG c.a.automation.infra.Environment - name
+15:29:37.565  717  [main] DEBUG c.a.automation.infra.Environment - name
+15:29:37.565  717  [main] DEBUG c.a.automation.infra.Environment - name
+15:29:37.570  722  [main] DEBUG c.a.automation.infra.Environment - name
+15:29:37.572  724  [main] DEBUG c.a.automation.infra.Environment - name
+15:29:37.575  727  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+15:29:37.575  727  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+15:29:41.909  5061 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No pipeline id supplied
+15:29:41.909  5061 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No branch id supplied
+15:41:38.258  721410 [main] WARN  c.a.a.i.r.splunk.SplunkReporter - No "SPLUNK_FILE_LOCATION" was configured in environments.
+Splunk file will be save in default folder at C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output
+15:41:38.260  721412 [main] DEBUG c.a.a.i.r.splunk.SplunkReporter - Saved splunk file into C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\splunk__2018-08-16-03.41.38.259.json

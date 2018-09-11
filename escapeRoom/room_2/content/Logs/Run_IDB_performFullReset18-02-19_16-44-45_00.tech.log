@@ -1,0 +1,36 @@
+﻿(TID#0x00001710) 2018-Feb-19 16:44:45.427 DIAGNOSTIC: Execution plan: execution started
+(TID#0x00001710) 2018-Feb-19 16:44:45.427 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ areYouSure=TRUE, batchName=ALL }'
+(TID#0x00001710) 2018-Feb-19 16:44:45.427 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00001710) 2018-Feb-19 16:44:45.427 DIAGNOSTIC: Execution plan: current event data:
+	from: e76e0fa8-b134-4382-9203-9b6bba2e9315
+	to: 2e5de928-159b-46a4-9bc3-7e7c74a7dda3
+	msg: continue to work
+
+(TID#0x00001710) 2018-Feb-19 16:44:45.428 DIAGNOSTIC: Execution plan: event receiver:2e5de928-159b-46a4-9bc3-7e7c74a7dda3
+(TID#0x00001710) 2018-Feb-19 16:44:45.429 INFO: [ExecutionPlanTask: Perform Full Reset] Process #4027 - Execution plan process execution plan name: 'IDB_performFullReset_internal'. Location: [Execution plan:IDB_performFullReset\[Perform Full Reset]]
+(TID#0x00001710) 2018-Feb-19 16:44:45.445 INFO: [ExecutionPlanTask: Perform Full Reset] Process #4018 - New process 'Perform Full Reset' has been launched. Location: [Execution plan:IDB_performFullReset\[Perform Full Reset]]
+(TID#0x00001710) 2018-Feb-19 16:44:45.445 INFO: [ExecutionPlanTask: Perform Full Reset] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Perform_Full_Reset18-02-19_16-44-45_00.log'. Location: [Execution plan:IDB_performFullReset\[Perform Full Reset]]
+(TID#0x00001710) 2018-Feb-19 16:44:45.446 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000016fc) 2018-Feb-19 16:44:59.328 INFO: [ExecutionPlanTask: Perform Full Reset] Process #4025 - Process Perform Full Reset ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Perform_Full_Reset18-02-19_16-44-45_00.log' Location: [Execution plan:IDB_performFullReset\[Perform Full Reset]]
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: current event data:
+	from: 2e5de928-159b-46a4-9bc3-7e7c74a7dda3
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: current event data:
+	from: 2e5de928-159b-46a4-9bc3-7e7c74a7dda3
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: current event data:
+	from: 2e5de928-159b-46a4-9bc3-7e7c74a7dda3
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x00001710) 2018-Feb-19 16:44:59.329 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Run_IDB_performFullReset18-02-19_16-44-45_00.log'
+(TID#0x00001244) <log ended>

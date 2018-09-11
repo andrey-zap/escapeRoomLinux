@@ -1,0 +1,173 @@
+﻿(TID#0x00000f14) 2018-Feb-06 16:22:59.820 DIAGNOSTIC: Execution plan: execution started
+(TID#0x00000f14) 2018-Feb-06 16:22:59.820 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ TestSuiteName=MI_Slices }'
+(TID#0x00000f14) 2018-Feb-06 16:22:59.820 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:22:59.820 DIAGNOSTIC: Execution plan: current event data:
+	from: da46cd49-5c0f-48dc-9317-794499e12278
+	to: 57867c01-fffb-4ef0-871c-fdd62fae18c1
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:22:59.820 DIAGNOSTIC: Execution plan: event receiver:57867c01-fffb-4ef0-871c-fdd62fae18c1
+(TID#0x00000f14) 2018-Feb-06 16:22:59.822 INFO: [ExecutionPlanTask: Run Init_Suite] Process #4027 - Execution plan process execution plan name: 'Init_Suite'. Location: [Execution plan:Run_Single_Suite\[Run Init_Suite]]
+(TID#0x00000f14) 2018-Feb-06 16:22:59.879 INFO: [ExecutionPlanTask: Run Init_Suite] Process #4018 - New process 'Run Init_Suite' has been launched. Location: [Execution plan:Run_Single_Suite\[Run Init_Suite]]
+(TID#0x00000f14) 2018-Feb-06 16:22:59.879 INFO: [ExecutionPlanTask: Run Init_Suite] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Init_Suite18-02-06_16-22-59_00.log'. Location: [Execution plan:Run_Single_Suite\[Run Init_Suite]]
+(TID#0x00000f14) 2018-Feb-06 16:22:59.880 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00000374) 2018-Feb-06 16:23:26.563 INFO: [ExecutionPlanTask: Run Init_Suite] Process #4025 - Process Run Init_Suite ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Init_Suite18-02-06_16-22-59_00.log' Location: [Execution plan:Run_Single_Suite\[Run Init_Suite]]
+(TID#0x00000374) 2018-Feb-06 16:23:26.563 INFO: [ExecutionPlanTask: Run Init_Suite] Process #4020 - Transition event 'on success any' from process 'Run Init_Suite' has been received.
+(TID#0x00000f14) 2018-Feb-06 16:23:26.563 DIAGNOSTIC: Execution plan: current event data:
+	from: 57867c01-fffb-4ef0-871c-fdd62fae18c1
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:26.564 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:23:26.564 DIAGNOSTIC: Execution plan: current event data:
+	from: 57867c01-fffb-4ef0-871c-fdd62fae18c1
+	to: 92fd65f7-f10e-42c5-81cc-ff2a4dbd4131
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:26.564 DIAGNOSTIC: Execution plan: event receiver:92fd65f7-f10e-42c5-81cc-ff2a4dbd4131
+(TID#0x00000f14) 2018-Feb-06 16:23:26.578 INFO: [ExecutionPlanTask: Run Delete_AIS_Logs] Process #4027 - Execution plan process execution plan name: 'Delete_AIS_Logs'. Location: [Execution plan:Run_Single_Suite\[Run Delete_AIS_Logs]]
+(TID#0x00000f14) 2018-Feb-06 16:23:26.593 INFO: [ExecutionPlanTask: Run Delete_AIS_Logs] Process #4018 - New process 'Run Delete_AIS_Logs' has been launched. Location: [Execution plan:Run_Single_Suite\[Run Delete_AIS_Logs]]
+(TID#0x00000f14) 2018-Feb-06 16:23:26.593 INFO: [ExecutionPlanTask: Run Delete_AIS_Logs] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Delete_AIS_Logs18-02-06_16-23-26_00.log'. Location: [Execution plan:Run_Single_Suite\[Run Delete_AIS_Logs]]
+(TID#0x00000f14) 2018-Feb-06 16:23:26.595 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00000f14) 2018-Feb-06 16:23:26.595 DIAGNOSTIC: Execution plan: current event data:
+	from: 57867c01-fffb-4ef0-871c-fdd62fae18c1
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:26.595 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000017dc) 2018-Feb-06 16:23:29.294 INFO: [ExecutionPlanTask: Run Delete_AIS_Logs] Process #4025 - Process Run Delete_AIS_Logs ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Delete_AIS_Logs18-02-06_16-23-26_00.log' Location: [Execution plan:Run_Single_Suite\[Run Delete_AIS_Logs]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.294 DIAGNOSTIC: Execution plan: current event data:
+	from: 92fd65f7-f10e-42c5-81cc-ff2a4dbd4131
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000017dc) 2018-Feb-06 16:23:29.294 INFO: [ExecutionPlanTask: Run Delete_AIS_Logs] Process #4020 - Transition event 'on success any' from process 'Run Delete_AIS_Logs' has been received.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.295 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.295 DIAGNOSTIC: Execution plan: current event data:
+	from: 92fd65f7-f10e-42c5-81cc-ff2a4dbd4131
+	to: d83f72a6-9076-4f61-b64f-dfbd4f9dd4bb
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.295 DIAGNOSTIC: Execution plan: event receiver:d83f72a6-9076-4f61-b64f-dfbd4f9dd4bb
+(TID#0x00000f14) 2018-Feb-06 16:23:29.323 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4022 - Source process flow name: 'Update_AT_Flow'. Location: [Execution plan:Run_Single_Suite\[Run Update_AT_Channel]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.323 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4021 - Source process channel name: 'Update_AT_Channel'. Location: [Execution plan:Run_Single_Suite\[Run Update_AT_Channel]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.323 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4023 - Source process with source name: 'Source'. Location: [Execution plan:Run_Single_Suite\[Run Update_AT_Channel]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.383 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4018 - New process 'Run Update_AT_Channel' has been launched. Location: [Execution plan:Run_Single_Suite\[Run Update_AT_Channel]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.383 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Update_AT_Channel18-02-06_16-23-29_00.log'. Location: [Execution plan:Run_Single_Suite\[Run Update_AT_Channel]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.385 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.385 DIAGNOSTIC: Execution plan: current event data:
+	from: 92fd65f7-f10e-42c5-81cc-ff2a4dbd4131
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.385 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000016b0) 2018-Feb-06 16:23:29.389 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4025 - Process Run Update_AT_Channel ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Update_AT_Channel18-02-06_16-23-29_00.log' Location: [Execution plan:Run_Single_Suite\[Run Update_AT_Channel]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.389 DIAGNOSTIC: Execution plan: current event data:
+	from: d83f72a6-9076-4f61-b64f-dfbd4f9dd4bb
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000016b0) 2018-Feb-06 16:23:29.389 INFO: [ExecutionPlanTask: Run Update_AT_Channel] Process #4020 - Transition event 'on success any' from process 'Run Update_AT_Channel' has been received.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.390 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.391 DIAGNOSTIC: Execution plan: current event data:
+	from: d83f72a6-9076-4f61-b64f-dfbd4f9dd4bb
+	to: a280aabf-c08a-4d4e-8068-2b3a4fa030c9
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.391 DIAGNOSTIC: Execution plan: event receiver:a280aabf-c08a-4d4e-8068-2b3a4fa030c9
+(TID#0x00000f14) 2018-Feb-06 16:23:29.391 INFO: [ExecutionPlanTask] Process #4118 - Condition block 'IsWindows' started.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.392 INFO: [ExecutionPlanTask] Process #4119 - Condition block 'IsWindows' ended. Result was 'true'.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.393 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.393 DIAGNOSTIC: Execution plan: current event data:
+	from: d83f72a6-9076-4f61-b64f-dfbd4f9dd4bb
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.393 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.393 DIAGNOSTIC: Execution plan: current event data:
+	from: a280aabf-c08a-4d4e-8068-2b3a4fa030c9
+	to: ea09da10-017a-454e-8909-dce2e62e7ca0
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.393 DIAGNOSTIC: Execution plan: event receiver:ea09da10-017a-454e-8909-dce2e62e7ca0
+(TID#0x00000f14) 2018-Feb-06 16:23:29.412 INFO: [ExecutionPlanTask: ReadSuiteParams Win] Process #4018 - New process 'ReadSuiteParams Win' has been launched. Location: [Execution plan:Run_Single_Suite\[ReadSuiteParams Win]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.412 INFO: [ExecutionPlanTask: ReadSuiteParams Win] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/ReadSuiteParams_Win18-02-06_16-23-29_00.log'. Location: [Execution plan:Run_Single_Suite\[ReadSuiteParams Win]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.414 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000011e8) 2018-Feb-06 16:23:29.509 INFO: [ExecutionPlanTask: ReadSuiteParams Win] Process #4025 - Process ReadSuiteParams Win ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/ReadSuiteParams_Win18-02-06_16-23-29_00.log' Location: [Execution plan:Run_Single_Suite\[ReadSuiteParams Win]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.510 DIAGNOSTIC: Execution plan: current event data:
+	from: ea09da10-017a-454e-8909-dce2e62e7ca0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000011e8) 2018-Feb-06 16:23:29.509 INFO: [ExecutionPlanTask: ReadSuiteParams Win] Process #4020 - Transition event 'on success any' from process 'ReadSuiteParams Win' has been received.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.511 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.511 DIAGNOSTIC: Execution plan: current event data:
+	from: ea09da10-017a-454e-8909-dce2e62e7ca0
+	to: f74d0def-a6e3-4712-9a6e-76ad87f60ca6
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.511 DIAGNOSTIC: Execution plan: event receiver:f74d0def-a6e3-4712-9a6e-76ad87f60ca6
+(TID#0x00000f14) 2018-Feb-06 16:23:29.610 INFO: [ExecutionPlanTask: Run_Suite_EP Win] Process #4018 - New process 'Run_Suite_EP Win' has been launched. Location: [Execution plan:Run_Single_Suite\[Run_Suite_EP Win]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.611 INFO: [ExecutionPlanTask: Run_Suite_EP Win] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Suite_EP_Win18-02-06_16-23-29_00.log'. Location: [Execution plan:Run_Single_Suite\[Run_Suite_EP Win]]
+(TID#0x00000f14) 2018-Feb-06 16:23:29.612 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00000f14) 2018-Feb-06 16:23:29.612 DIAGNOSTIC: Execution plan: current event data:
+	from: ea09da10-017a-454e-8909-dce2e62e7ca0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:23:29.612 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x0000151c) 2018-Feb-06 16:41:13.402 INFO: [ExecutionPlanTask: Run_Suite_EP Win] Process #4025 - Process Run_Suite_EP Win ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Suite_EP_Win18-02-06_16-23-29_00.log' Location: [Execution plan:Run_Single_Suite\[Run_Suite_EP Win]]
+(TID#0x0000151c) 2018-Feb-06 16:41:13.449 INFO: [ExecutionPlanTask: Run_Suite_EP Win] Process #4020 - Transition event 'on completion' from process 'Run_Suite_EP Win' has been received.
+(TID#0x00000f14) 2018-Feb-06 16:41:13.463 DIAGNOSTIC: Execution plan: current event data:
+	from: f74d0def-a6e3-4712-9a6e-76ad87f60ca6
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:41:13.474 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:41:13.474 DIAGNOSTIC: Execution plan: current event data:
+	from: f74d0def-a6e3-4712-9a6e-76ad87f60ca6
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:41:13.474 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:41:13.474 DIAGNOSTIC: Execution plan: current event data:
+	from: f74d0def-a6e3-4712-9a6e-76ad87f60ca6
+	to: 8b5129a1-506d-4284-8db9-75c06e8b63e8
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:41:13.474 DIAGNOSTIC: Execution plan: event receiver:8b5129a1-506d-4284-8db9-75c06e8b63e8
+(TID#0x00000f14) 2018-Feb-06 16:41:13.478 INFO: [ExecutionPlanTask: Or] Process #4026 - Or task 'Or' received event from task 'Run_Suite_EP Win'. Location: [Execution plan:Run_Single_Suite\Or]
+(TID#0x00000f14) 2018-Feb-06 16:41:13.487 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:41:13.487 DIAGNOSTIC: Execution plan: current event data:
+	from: 8b5129a1-506d-4284-8db9-75c06e8b63e8
+	to: 8540e0b6-fcda-41ba-8e83-86adea64a58b
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:41:13.487 DIAGNOSTIC: Execution plan: event receiver:8540e0b6-fcda-41ba-8e83-86adea64a58b
+(TID#0x00000f14) 2018-Feb-06 16:41:13.890 INFO: [ExecutionPlanTask: Run Finalize_suite] Process #4027 - Execution plan process execution plan name: 'Finalize_suite'. Location: [Execution plan:Run_Single_Suite\[Run Finalize_suite]]
+(TID#0x00000f14) 2018-Feb-06 16:41:14.193 INFO: [ExecutionPlanTask: Run Finalize_suite] Process #4018 - New process 'Run Finalize_suite' has been launched. Location: [Execution plan:Run_Single_Suite\[Run Finalize_suite]]
+(TID#0x00000f14) 2018-Feb-06 16:41:14.193 INFO: [ExecutionPlanTask: Run Finalize_suite] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Finalize_suite18-02-06_16-41-13_00.log'. Location: [Execution plan:Run_Single_Suite\[Run Finalize_suite]]
+(TID#0x00000f14) 2018-Feb-06 16:41:14.194 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00001298) 2018-Feb-06 16:42:06.071 INFO: [ExecutionPlanTask: Run Finalize_suite] Process #4025 - Process Run Finalize_suite ended with status 'Finished with error'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_Finalize_suite18-02-06_16-41-13_00.log' Location: [Execution plan:Run_Single_Suite\[Run Finalize_suite]]
+(TID#0x00000f14) 2018-Feb-06 16:42:06.071 DIAGNOSTIC: Execution plan: current event data:
+	from: 8540e0b6-fcda-41ba-8e83-86adea64a58b
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:42:06.072 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:42:06.072 DIAGNOSTIC: Execution plan: current event data:
+	from: 8540e0b6-fcda-41ba-8e83-86adea64a58b
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:42:06.072 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:42:06.072 DIAGNOSTIC: Execution plan: current event data:
+	from: 8540e0b6-fcda-41ba-8e83-86adea64a58b
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000f14) 2018-Feb-06 16:42:06.073 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x00000f14) 2018-Feb-06 16:42:06.073 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x00000f14) 2018-Feb-06 16:42:06.073 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x00000f14) 2018-Feb-06 16:42:06.073 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished with error'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_MI_Slices18-02-06_16-22-59_00.log'
+(TID#0x00000abc) <log ended>

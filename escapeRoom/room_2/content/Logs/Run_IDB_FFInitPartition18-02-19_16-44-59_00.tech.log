@@ -1,0 +1,204 @@
+﻿(TID#0x000013f4) 2018-Feb-19 16:44:59.369 DIAGNOSTIC: Execution plan: execution started
+(TID#0x000013f4) 2018-Feb-19 16:44:59.369 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ toDate=15/10/2016 00:00:00.000000, lookBack=60, buffer=60 }'
+(TID#0x000013f4) 2018-Feb-19 16:44:59.370 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:44:59.370 DIAGNOSTIC: Execution plan: current event data:
+	from: a55699ed-5cd5-46e5-80c0-bbe96bc2e706
+	to: 9a4e46ef-5150-4b35-8c86-194325045f95
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:44:59.370 DIAGNOSTIC: Execution plan: event receiver:9a4e46ef-5150-4b35-8c86-194325045f95
+(TID#0x000013f4) 2018-Feb-19 16:44:59.374 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS]]
+(TID#0x000013f4) 2018-Feb-19 16:44:59.386 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS] Process #4018 - New process 'Init Partition FF_ALL_TRANSACTIONS' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS]]
+(TID#0x000013f4) 2018-Feb-19 16:44:59.387 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_ALL_TRANSACTIONS18-02-19_16-44-59_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS]]
+(TID#0x000013f4) 2018-Feb-19 16:44:59.388 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x0000119c) 2018-Feb-19 16:45:05.027 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS] Process #4025 - Process Init Partition FF_ALL_TRANSACTIONS ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_ALL_TRANSACTIONS18-02-19_16-44-59_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:05.028 DIAGNOSTIC: Execution plan: current event data:
+	from: 9a4e46ef-5150-4b35-8c86-194325045f95
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000119c) 2018-Feb-19 16:45:05.028 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_ALL_TRANSACTIONS' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:05.028 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:05.028 DIAGNOSTIC: Execution plan: current event data:
+	from: 9a4e46ef-5150-4b35-8c86-194325045f95
+	to: 19a73e34-59ce-4630-92ac-7a6c78beca62
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:05.028 DIAGNOSTIC: Execution plan: event receiver:19a73e34-59ce-4630-92ac-7a6c78beca62
+(TID#0x000013f4) 2018-Feb-19 16:45:05.033 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS_2] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS_2]]
+(TID#0x000013f4) 2018-Feb-19 16:45:05.046 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS_2] Process #4018 - New process 'Init Partition FF_ALL_TRANSACTIONS_2' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS_2]]
+(TID#0x000013f4) 2018-Feb-19 16:45:05.046 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS_2] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_ALL_TRANSACTIONS_218-02-19_16-45-05_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS_2]]
+(TID#0x000013f4) 2018-Feb-19 16:45:05.047 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:05.047 DIAGNOSTIC: Execution plan: current event data:
+	from: 9a4e46ef-5150-4b35-8c86-194325045f95
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:05.047 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013a4) 2018-Feb-19 16:45:06.435 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS_2] Process #4025 - Process Init Partition FF_ALL_TRANSACTIONS_2 ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_ALL_TRANSACTIONS_218-02-19_16-45-05_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_ALL_TRANSACTIONS_2]]
+(TID#0x000013f4) 2018-Feb-19 16:45:06.435 DIAGNOSTIC: Execution plan: current event data:
+	from: 19a73e34-59ce-4630-92ac-7a6c78beca62
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013a4) 2018-Feb-19 16:45:06.435 INFO: [ExecutionPlanTask: Init Partition FF_ALL_TRANSACTIONS_2] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_ALL_TRANSACTIONS_2' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:06.436 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:06.436 DIAGNOSTIC: Execution plan: current event data:
+	from: 19a73e34-59ce-4630-92ac-7a6c78beca62
+	to: f652d8d3-5d32-41c8-9124-dc3c7b17c1c2
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:06.436 DIAGNOSTIC: Execution plan: event receiver:f652d8d3-5d32-41c8-9124-dc3c7b17c1c2
+(TID#0x000013f4) 2018-Feb-19 16:45:06.441 INFO: [ExecutionPlanTask: Init Partition FF_TRANSACTIONS_LATEST_VERSION] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRANSACTIONS_LATEST_VERSION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:06.453 INFO: [ExecutionPlanTask: Init Partition FF_TRANSACTIONS_LATEST_VERSION] Process #4018 - New process 'Init Partition FF_TRANSACTIONS_LATEST_VERSION' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRANSACTIONS_LATEST_VERSION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:06.453 INFO: [ExecutionPlanTask: Init Partition FF_TRANSACTIONS_LATEST_VERSION] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_TRANSACTIONS_LATEST_VERSION18-02-19_16-45-06_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRANSACTIONS_LATEST_VERSION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:06.454 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:06.454 DIAGNOSTIC: Execution plan: current event data:
+	from: 19a73e34-59ce-4630-92ac-7a6c78beca62
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:06.454 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x0000036c) 2018-Feb-19 16:45:08.375 INFO: [ExecutionPlanTask: Init Partition FF_TRANSACTIONS_LATEST_VERSION] Process #4025 - Process Init Partition FF_TRANSACTIONS_LATEST_VERSION ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_TRANSACTIONS_LATEST_VERSION18-02-19_16-45-06_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRANSACTIONS_LATEST_VERSION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:08.376 DIAGNOSTIC: Execution plan: current event data:
+	from: f652d8d3-5d32-41c8-9124-dc3c7b17c1c2
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000036c) 2018-Feb-19 16:45:08.376 INFO: [ExecutionPlanTask: Init Partition FF_TRANSACTIONS_LATEST_VERSION] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_TRANSACTIONS_LATEST_VERSION' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:08.376 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:08.376 DIAGNOSTIC: Execution plan: current event data:
+	from: f652d8d3-5d32-41c8-9124-dc3c7b17c1c2
+	to: 99f4ed92-9646-4f52-8586-fb5d14728428
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:08.376 DIAGNOSTIC: Execution plan: event receiver:99f4ed92-9646-4f52-8586-fb5d14728428
+(TID#0x000013f4) 2018-Feb-19 16:45:08.381 INFO: [ExecutionPlanTask: Init Partition FF_TRX_REJECTS] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRX_REJECTS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:08.393 INFO: [ExecutionPlanTask: Init Partition FF_TRX_REJECTS] Process #4018 - New process 'Init Partition FF_TRX_REJECTS' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRX_REJECTS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:08.393 INFO: [ExecutionPlanTask: Init Partition FF_TRX_REJECTS] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_TRX_REJECTS18-02-19_16-45-08_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRX_REJECTS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:08.394 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:08.394 DIAGNOSTIC: Execution plan: current event data:
+	from: f652d8d3-5d32-41c8-9124-dc3c7b17c1c2
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:08.394 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00001364) 2018-Feb-19 16:45:09.268 INFO: [ExecutionPlanTask: Init Partition FF_TRX_REJECTS] Process #4025 - Process Init Partition FF_TRX_REJECTS ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_TRX_REJECTS18-02-19_16-45-08_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TRX_REJECTS]]
+(TID#0x00001364) 2018-Feb-19 16:45:09.268 INFO: [ExecutionPlanTask: Init Partition FF_TRX_REJECTS] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_TRX_REJECTS' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:09.269 DIAGNOSTIC: Execution plan: current event data:
+	from: 99f4ed92-9646-4f52-8586-fb5d14728428
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:09.269 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:09.269 DIAGNOSTIC: Execution plan: current event data:
+	from: 99f4ed92-9646-4f52-8586-fb5d14728428
+	to: fccc7bf6-236d-4a4d-8d30-fc8994bdf7b0
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:09.269 DIAGNOSTIC: Execution plan: event receiver:fccc7bf6-236d-4a4d-8d30-fc8994bdf7b0
+(TID#0x000013f4) 2018-Feb-19 16:45:09.273 INFO: [ExecutionPlanTask: Init Partition FF_RES_MERCHANT_STATISTICS] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_MERCHANT_STATISTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:09.291 INFO: [ExecutionPlanTask: Init Partition FF_RES_MERCHANT_STATISTICS] Process #4018 - New process 'Init Partition FF_RES_MERCHANT_STATISTICS' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_MERCHANT_STATISTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:09.291 INFO: [ExecutionPlanTask: Init Partition FF_RES_MERCHANT_STATISTICS] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_RES_MERCHANT_STATISTICS18-02-19_16-45-09_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_MERCHANT_STATISTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:09.293 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:09.293 DIAGNOSTIC: Execution plan: current event data:
+	from: 99f4ed92-9646-4f52-8586-fb5d14728428
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:09.293 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00001278) 2018-Feb-19 16:45:10.157 INFO: [ExecutionPlanTask: Init Partition FF_RES_MERCHANT_STATISTICS] Process #4025 - Process Init Partition FF_RES_MERCHANT_STATISTICS ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_RES_MERCHANT_STATISTICS18-02-19_16-45-09_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_MERCHANT_STATISTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.157 DIAGNOSTIC: Execution plan: current event data:
+	from: fccc7bf6-236d-4a4d-8d30-fc8994bdf7b0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00001278) 2018-Feb-19 16:45:10.157 INFO: [ExecutionPlanTask: Init Partition FF_RES_MERCHANT_STATISTICS] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_RES_MERCHANT_STATISTICS' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:10.158 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:10.158 DIAGNOSTIC: Execution plan: current event data:
+	from: fccc7bf6-236d-4a4d-8d30-fc8994bdf7b0
+	to: f7375df3-038b-49a4-a4b8-0835ba41d711
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:10.158 DIAGNOSTIC: Execution plan: event receiver:f7375df3-038b-49a4-a4b8-0835ba41d711
+(TID#0x000013f4) 2018-Feb-19 16:45:10.162 INFO: [ExecutionPlanTask: Init Partition FF_RES_ACTIMIZE_ANALYTICS] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_ACTIMIZE_ANALYTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.174 INFO: [ExecutionPlanTask: Init Partition FF_RES_ACTIMIZE_ANALYTICS] Process #4018 - New process 'Init Partition FF_RES_ACTIMIZE_ANALYTICS' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_ACTIMIZE_ANALYTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.174 INFO: [ExecutionPlanTask: Init Partition FF_RES_ACTIMIZE_ANALYTICS] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_RES_ACTIMIZE_ANALYTICS18-02-19_16-45-10_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_ACTIMIZE_ANALYTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.176 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:10.176 DIAGNOSTIC: Execution plan: current event data:
+	from: fccc7bf6-236d-4a4d-8d30-fc8994bdf7b0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:10.176 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x0000066c) 2018-Feb-19 16:45:10.777 INFO: [ExecutionPlanTask: Init Partition FF_RES_ACTIMIZE_ANALYTICS] Process #4025 - Process Init Partition FF_RES_ACTIMIZE_ANALYTICS ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_RES_ACTIMIZE_ANALYTICS18-02-19_16-45-10_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_RES_ACTIMIZE_ANALYTICS]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.777 DIAGNOSTIC: Execution plan: current event data:
+	from: f7375df3-038b-49a4-a4b8-0835ba41d711
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x0000066c) 2018-Feb-19 16:45:10.777 INFO: [ExecutionPlanTask: Init Partition FF_RES_ACTIMIZE_ANALYTICS] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_RES_ACTIMIZE_ANALYTICS' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:10.778 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:10.778 DIAGNOSTIC: Execution plan: current event data:
+	from: f7375df3-038b-49a4-a4b8-0835ba41d711
+	to: cf284486-6682-4351-8f1a-fa334cad6b11
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:10.778 DIAGNOSTIC: Execution plan: event receiver:cf284486-6682-4351-8f1a-fa334cad6b11
+(TID#0x000013f4) 2018-Feb-19 16:45:10.782 INFO: [ExecutionPlanTask: Init Partition FF_TOD_TRANSACTION] Process #4027 - Execution plan process execution plan name: 'IDB_InitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TOD_TRANSACTION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.794 INFO: [ExecutionPlanTask: Init Partition FF_TOD_TRANSACTION] Process #4018 - New process 'Init Partition FF_TOD_TRANSACTION' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TOD_TRANSACTION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.794 INFO: [ExecutionPlanTask: Init Partition FF_TOD_TRANSACTION] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_TOD_TRANSACTION18-02-19_16-45-10_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TOD_TRANSACTION]]
+(TID#0x000013f4) 2018-Feb-19 16:45:10.795 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:10.795 DIAGNOSTIC: Execution plan: current event data:
+	from: f7375df3-038b-49a4-a4b8-0835ba41d711
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:10.796 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000016a4) 2018-Feb-19 16:45:11.416 INFO: [ExecutionPlanTask: Init Partition FF_TOD_TRANSACTION] Process #4025 - Process Init Partition FF_TOD_TRANSACTION ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Init_Partition_FF_TOD_TRANSACTION18-02-19_16-45-10_00.log' Location: [Execution plan:IDB_FFInitPartition\[Init Partition FF_TOD_TRANSACTION]]
+(TID#0x000016a4) 2018-Feb-19 16:45:11.416 INFO: [ExecutionPlanTask: Init Partition FF_TOD_TRANSACTION] Process #4020 - Transition event 'on success any' from process 'Init Partition FF_TOD_TRANSACTION' has been received.
+(TID#0x000013f4) 2018-Feb-19 16:45:11.416 DIAGNOSTIC: Execution plan: current event data:
+	from: cf284486-6682-4351-8f1a-fa334cad6b11
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:11.417 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:11.417 DIAGNOSTIC: Execution plan: current event data:
+	from: cf284486-6682-4351-8f1a-fa334cad6b11
+	to: e7d4a39b-4514-4b58-ad63-5443c7227bd0
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:11.417 DIAGNOSTIC: Execution plan: event receiver:e7d4a39b-4514-4b58-ad63-5443c7227bd0
+(TID#0x000013f4) 2018-Feb-19 16:45:11.419 INFO: [ExecutionPlanTask: Run IDB_ARDInitPartition] Process #4027 - Execution plan process execution plan name: 'IDB_ARDInitPartition'. Location: [Execution plan:IDB_FFInitPartition\[Run IDB_ARDInitPartition]]
+(TID#0x000013f4) 2018-Feb-19 16:45:11.443 INFO: [ExecutionPlanTask: Run IDB_ARDInitPartition] Process #4018 - New process 'Run IDB_ARDInitPartition' has been launched. Location: [Execution plan:IDB_FFInitPartition\[Run IDB_ARDInitPartition]]
+(TID#0x000013f4) 2018-Feb-19 16:45:11.443 INFO: [ExecutionPlanTask: Run IDB_ARDInitPartition] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Run_IDB_ARDInitPartition18-02-19_16-45-11_00.log'. Location: [Execution plan:IDB_FFInitPartition\[Run IDB_ARDInitPartition]]
+(TID#0x000013f4) 2018-Feb-19 16:45:11.444 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013f4) 2018-Feb-19 16:45:11.444 DIAGNOSTIC: Execution plan: current event data:
+	from: cf284486-6682-4351-8f1a-fa334cad6b11
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:11.444 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00001318) 2018-Feb-19 16:45:17.699 INFO: [ExecutionPlanTask: Run IDB_ARDInitPartition] Process #4025 - Process Run IDB_ARDInitPartition ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Run_IDB_ARDInitPartition18-02-19_16-45-11_00.log' Location: [Execution plan:IDB_FFInitPartition\[Run IDB_ARDInitPartition]]
+(TID#0x000013f4) 2018-Feb-19 16:45:17.699 DIAGNOSTIC: Execution plan: current event data:
+	from: e7d4a39b-4514-4b58-ad63-5443c7227bd0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:17.700 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:17.700 DIAGNOSTIC: Execution plan: current event data:
+	from: e7d4a39b-4514-4b58-ad63-5443c7227bd0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:17.700 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:17.700 DIAGNOSTIC: Execution plan: current event data:
+	from: e7d4a39b-4514-4b58-ad63-5443c7227bd0
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x000013f4) 2018-Feb-19 16:45:17.701 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x000013f4) 2018-Feb-19 16:45:17.701 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x000013f4) 2018-Feb-19 16:45:17.701 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x000013f4) 2018-Feb-19 16:45:17.701 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-19_16-43-39_00/Run_IDB_FFInitPartition18-02-19_16-44-59_00.log'
+(TID#0x00001244) <log ended>

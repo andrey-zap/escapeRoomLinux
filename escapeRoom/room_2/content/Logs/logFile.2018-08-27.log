@@ -1,0 +1,912 @@
+11:21:21.465  296  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:21.472  303  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:21.472  303  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:21.538  369  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:21.539  370  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:21.539  370  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:21.539  370  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:21.544  375  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:21.545  376  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:21.553  384  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.553  384  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.555  386  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.556  387  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.561  392  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.561  392  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.608  439  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:21.613  444  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:21.845  676  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.846  677  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.847  678  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:21.849  680  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:21.869  700  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.869  700  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.871  702  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:21.874  705  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:21.899  730  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_alert_Test']/scriptName
+11:21:21.900  731  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.900  731  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.902  733  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:21.904  735  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:21.925  756  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_alert_Test1']/scriptName
+11:21:21.926  757  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.926  757  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.927  758  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:21.930  761  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:21.956  787  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_alert_Test2']/scriptName
+11:21:21.957  788  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.957  788  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.959  790  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:21.961  792  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:21.977  808  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //pk[@name='create_personsTable_Test']/statement
+11:21:21.979  810  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type dataset found on Xpath: //pk[@name='create_personsTable_Test']/dataset
+11:21:21.981  812  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.982  813  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.983  814  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.983  814  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.984  815  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.984  815  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.985  816  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.986  817  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.986  817  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.987  818  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.987  818  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.987  818  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.988  819  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.988  819  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.989  820  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.989  820  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.990  821  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.991  822  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.992  823  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.992  823  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.992  823  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.993  824  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.993  824  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.993  824  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.994  825  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.994  825  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.995  826  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.995  826  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.995  826  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.995  826  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.997  828  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.997  828  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.998  829  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.998  829  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:21.999  830  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:21.999  830  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.000  831  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.000  831  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.001  832  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.003  834  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:22.014  845  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.014  845  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.015  846  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.017  848  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:22.028  859  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='validate_proper_db_connect']/export
+11:21:22.030  861  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_proper_db_connect']/scriptName
+11:21:22.036  867  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.036  867  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.038  869  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.040  871  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData1.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData1.xml
+11:21:22.056  887  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.056  887  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.057  888  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.060  891  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData2.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData2.xml
+11:21:22.068  899  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.068  899  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.069  900  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.071  902  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData3.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData3.xml
+11:21:22.083  914  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.083  914  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.085  916  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.087  918  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData4.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData4.xml
+11:21:22.093  924  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.093  924  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.094  925  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.096  927  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData5.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData5.xml
+11:21:22.104  935  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.104  935  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.106  937  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.109  940  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData7.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData7.xml
+11:21:22.117  948  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.117  948  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.118  949  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.121  952  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData8.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData8.xml
+11:21:22.127  958  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.127  958  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.128  959  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.131  962  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData9.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData9.xml
+11:21:22.141  972  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.141  972  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.142  973  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.144  975  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData10.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData10.xml
+11:21:22.150  981  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.151  982  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.152  983  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.154  985  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData11.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData11.xml
+11:21:22.163  994  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.164  995  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.165  996  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.167  998  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData12.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData12.xml
+11:21:22.173  1004 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.173  1004 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.174  1005 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.176  1007 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData13.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData13.xml
+11:21:22.183  1014 [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:22.183  1014 [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:22.185  1016 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.189  1020 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:22.201  1032 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:22.204  1035 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+11:21:24.948  505  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:24.950  507  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:24.951  508  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:25.011  568  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:25.012  569  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:25.012  569  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:25.012  569  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:25.016  573  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:25.017  574  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:25.019  576  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:25.019  576  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:25.076  633  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:25.079  636  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:25.299  856  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='count_pl_items']/export
+11:21:25.309  866  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='count_pl_items']/scriptName
+11:21:25.708  1265 [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.25\AdvancedDbUtilTest.html!{"expected":"select count(item_identifier) as COUNT_ITEMS from v_acm_internal_list_items where item_identifier in ({ITEM_IDENTIFIERS})            and list_join_id = (select list_join_id from v_acm_md_internal_lists where list_identifier = '{LIST_IDENTIFIER}')","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T11.21.25\\AdvancedDbUtilTest.html","attachedLog":"Snapshots/AdvancedDbUtilTest/Compare Reports/Equals CompareHtmlReport2018-08-27T11.21.25.html"}
+11:21:25.716  1273 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='count_pl_items']/export
+11:21:25.719  1276 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='count_pl_items']/scriptName
+11:21:28.750  307  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:28.752  309  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:28.752  309  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:28.811  368  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:28.812  369  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:28.812  369  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:28.812  369  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:28.816  373  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:28.817  374  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:28.819  376  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:28.819  376  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:28.821  378  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:28.821  378  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:29.364  921  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Contained CompareHtmlReport2018-08-27T11.21.29.html"}
+11:21:29.422  979  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Contains compareHtmlReport2018-08-27T11.21.29.html"}
+11:21:29.468  1025 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T11.21.29.html"}
+11:21:29.492  1049 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Not Contains CompareHtmlReport2018-08-27T11.21.29.html"}
+11:21:29.518  1075 [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"test Report OnSuccess True","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T11.21.29-2.html"}
+11:21:29.539  1096 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T11.21.29-3.html"}
+11:21:29.563  1120 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T11.21.28\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T11.21.28\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T11.21.29-4.html"}
+11:21:32.332  280  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:32.334  282  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:32.334  282  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:32.394  342  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:32.395  343  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:32.395  343  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:32.395  343  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:32.399  347  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:32.400  348  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:32.402  350  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:32.402  350  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:32.975  923  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\CreateDataForCompareUtil.html!{"expected":"select something","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\CreateDataForCompareUtil.html","attachedLog":"Compare Reports/Not Contains CompareHtmlReport2018-08-27T11.21.32.html"}
+11:21:33.005  953  [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\CreateDataForCompareUtil.html!{"expected":"select something","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\CreateDataForCompareUtil.html","attachedLog":"Compare Reports/Not Contains CompareHtmlReport2018-08-27T11.21.32-2.html"}
+11:21:34.235  240  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:34.237  242  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:34.237  242  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:34.299  304  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:34.300  305  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:34.300  305  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:34.300  305  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:34.303  308  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:34.304  309  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:34.306  311  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:34.307  312  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:34.529  534  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:34.532  537  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:34.810  815  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: first Value 1 in keep referer hash
+11:21:34.811  816  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:34.814  819  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:34.861  866  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_scripts']/statement
+11:21:34.867  872  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_scripts']/export
+11:21:34.879  884  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:34.881  886  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:34.914  919  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:34.917  922  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:34.947  952  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:34.949  954  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:34.984  989  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='schemaNameDynamicValCheck']/scriptName
+11:21:34.992  997  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:34.995  1000 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+11:21:35.014  1019 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.016  1021 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:35.042  1047 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.044  1049 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+11:21:35.059  1064 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.061  1066 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+11:21:35.072  1077 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.075  1080 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+11:21:35.092  1097 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.096  1101 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:35.127  1132 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='check_export_tag']/scriptName
+11:21:35.133  1138 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.135  1140 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+11:21:35.163  1168 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //group[@name='check_scripts_loading']//pk[@name='absolutePath']/statement
+11:21:35.167  1172 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //group[@name='check_scripts_loading']//pk[@name='absolutePath']/export
+11:21:35.178  1183 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_infra']/statement
+11:21:35.182  1187 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_infra']/export
+11:21:35.192  1197 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+11:21:35.194  1199 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData2.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData2.xml
+11:21:36.568  254  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:36.570  256  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:36.571  257  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:36.627  313  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:36.627  313  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:36.627  313  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:36.628  314  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:36.632  318  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:36.633  319  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:36.635  321  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:36.635  321  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:39.945  234  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:39.947  236  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:39.947  236  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:40.018  307  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:40.019  308  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:40.019  308  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:40.019  308  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:40.023  312  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:40.024  313  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:40.027  316  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:40.027  316  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:40.030  319  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:40.030  319  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:40.164  453  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.10000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.50000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.30000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:40.391  680  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:40.391  680  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:40.391  680  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:40.391  680  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv
+11:21:40.391  680  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:40.391  680  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:40.407  696  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.1000"	"-1.2300"	"-9.9999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.2345"	"0.1230"	"1.5000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.3000"	"0.3000"	"1.9999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.1111"	"100.0005"	"-6.7000"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:40.408  697  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:40.408  697  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:40.408  697  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:40.408  697  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv
+11:21:40.409  698  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:40.409  698  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:40.417  706  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.10000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.50000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.30000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:40.418  707  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:40.418  707  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:40.418  707  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:40.419  708  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv
+11:21:40.419  708  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:40.419  708  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:41.705  250  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:41.707  252  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:41.707  252  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:41.763  308  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:41.764  309  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:41.764  309  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:41.764  309  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:41.767  312  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:41.768  313  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:41.770  315  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:41.770  315  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:41.772  317  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:41.772  317  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:41.874  419  [main] DEBUG c.a.a.infra.utils.FileUtils - "First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.00000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.00000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.00000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:42.086  631  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16LE_Truncated_Mode_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16LE_Truncated_Mode_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:42.086  631  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.086  631  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:42.086  631  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16LE_Truncated_Mode_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16LE_Truncated_Mode_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv
+11:21:42.086  631  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.086  631  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:42.093  638  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.00000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.00000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.00000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:42.094  639  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:42.094  639  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.095  640  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:42.095  640  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_Truncated_Mode_Expected_After_Conversion.csv
+11:21:42.095  640  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.095  640  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:42.106  651  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.00000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.00000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.00000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:42.110  655  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16BE_Truncated_Mode_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16BE_Truncated_Mode_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:42.110  655  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.110  655  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:42.110  655  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16BE_Truncated_Mode_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16BE_Truncated_Mode_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv
+11:21:42.110  655  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.110  655  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:42.118  663  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1","float_col2","float_col3","str_col","bool_col","date_col","int_col""First_Float_Column","Second_Float_Column","Third_Float_Column","String_Column","Boolean_Column","Date_Column","Integer_Column""-4.00000","-1.23000","-9.99999","it's just a STRING","","12/12/2060 00:00","4""1.23456","0.12300","1.00000","just a string","TRUE","08/08/1991 00:00","1""2.30000","0.00000","1.99999","just another string","FALSE","02/19/2018 12:00 AM","2""3.11110","100.00050","-6.70000","abcdefghijklmnop","","","3"
+11:21:42.119  664  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:42.119  664  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.119  664  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:42.119  664  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv
+11:21:42.120  665  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.120  665  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:42.129  674  [main] DEBUG c.a.a.infra.utils.FileUtils - "Truncated","Ceiling","Floor","Round_half_up","Round_half_down","Round_up","String_field","Integer_field","Boolean_field","Date_field""truncated","Ceiling","floor","round_half_up","round_half_down","round_up","String_Field","Integer_Field","Boolean_Field","Date_Field""0.1234","9.2440","-9.2440","0.7172","0.7172","0.7172","=""one two three""","123","false","""1.2354","1.5340","123.0000","10.1010","2.2221","5.4562","","","","""21354.3436","0.1235","-1.0000","1.0000","0.9989","2.8889","=""write something in here""","1","true","02/25/2065 11:11 AM"
+11:21:42.130  675  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\NC_Test_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\Multiple_Modes_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\NC_Test_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\Multiple_Modes_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:42.130  675  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.130  675  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:42.131  676  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\NC_Test_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\Multiple_Modes_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\NC_Test_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\Multiple_Modes_Expected_After_Conversion.csv
+11:21:42.131  676  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.131  676  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:42.154  699  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.1"	"-1.23"	"-9.999999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.234567"	"0.123"	"1.5"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.3"	"0.3"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.1111"	"100.0005"	"-6.7"	"=""abcdefghijklmnop"""	""	""	"3"
+11:21:42.155  700  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\IdentityConvertFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\IdentityCheck.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\IdentityConvertFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\IdentityCheck.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+11:21:42.156  701  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.156  701  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+11:21:42.156  701  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\IdentityConvertFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\IdentityCheck.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\IdentityConvertFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\IdentityCheck.csv
+11:21:42.156  701  [main] DEBUG c.a.automation.infra.Reporting - #######
+11:21:42.156  701  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+11:21:44.483  258  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:44.485  260  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:44.485  260  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:44.546  321  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:44.547  322  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:44.547  322  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:44.547  322  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:44.550  325  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:44.551  326  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:44.553  328  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:44.554  329  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:44.555  330  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:44.556  331  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:46.000  300  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:46.002  302  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:46.002  302  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:46.059  359  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:46.060  360  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:46.060  360  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:46.060  360  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:46.064  364  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:46.065  365  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:46.067  367  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:46.067  367  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:46.069  369  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:46.069  369  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:46.084  384  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\
+11:21:46.149  449  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\\fileForExtractor_2018-08-27T11.21.46.txt
+11:21:46.150  450  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\\fileForExtractor_2018-08-27T11.21.46.txt
+11:21:46.205  505  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\Compare Reports\
+11:21:46.612  912  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\FileExtractorTest.html!{"expected":"count Appearance comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T11.21.46\\FileExtractorTest.html","attachedLog":"Snapshots/FileExtractorTest/Compare Reports/count Appearance comparatorHtmlReport2018-08-27T11.21.46.html"}
+11:21:46.618  918  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\
+11:21:46.682  982  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\\DemoFile_2018-08-27T11.21.46.log
+11:21:46.683  983  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\\DemoFile_2018-08-27T11.21.46.log
+11:21:46.686  986  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\Compare Reports\
+11:21:46.711  1011 [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\FileExtractorTest.html!{"expected":"File Contain Text Comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T11.21.46\\FileExtractorTest.html","attachedLog":"Snapshots/FileExtractorTest/Compare Reports/File Contain Text ComparatorHtmlReport2018-08-27T11.21.46.html"}
+11:21:46.722  1022 [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\
+11:21:46.726  1026 [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\\dummyForTest_2018-08-27T11.21.46.txt
+11:21:46.728  1028 [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\TextCompareFiles\\dummyForTest_2018-08-27T11.21.46.txt
+11:21:46.732  1032 [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\Snapshots\FileExtractorTest\Compare Reports\
+11:21:46.752  1052 [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.46\FileExtractorTest.html!{"expected":"Text Equals compare passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T11.21.46\\FileExtractorTest.html","attachedLog":"Snapshots/FileExtractorTest/Compare Reports/Text Equals compareHtmlReport2018-08-27T11.21.46.html"}
+11:21:49.087  267  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:49.089  269  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:49.089  269  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:49.146  326  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:49.146  326  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:49.146  326  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:49.147  327  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:49.150  330  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:49.151  331  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:49.153  333  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:49.153  333  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:49.155  335  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:49.155  335  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:49.166  346  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\
+11:21:49.227  407  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\import CSV with delimiter Comma_2018-08-27T11.21.49.csv
+11:21:49.229  409  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\import CSV with delimiter Comma_2018-08-27T11.21.49.csv
+11:21:49.232  412  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\Compare Reports\
+11:21:49.571  751  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\MultiEncodingExtractAndCompareTest.html!{"expected":"File Contain Text Comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T11.21.49\\MultiEncodingExtractAndCompareTest.html","attachedLog":"Snapshots/MultiEncodingExtractAndCompareTest/Compare Reports/File Contain Text ComparatorHtmlReport2018-08-27T11.21.49.html"}
+11:21:49.573  753  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:49.573  753  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:49.574  754  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\
+11:21:49.585  765  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\Import CSV with delimiter TAB_2018-08-27T11.21.49.csv
+11:21:49.589  769  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\Import CSV with delimiter TAB_2018-08-27T11.21.49.csv
+11:21:49.591  771  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\Snapshots\MultiEncodingExtractAndCompareTest\Compare Reports\
+11:21:49.617  797  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.49\MultiEncodingExtractAndCompareTest.html!{"expected":"File Contain Text Comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T11.21.49\\MultiEncodingExtractAndCompareTest.html","attachedLog":"Snapshots/MultiEncodingExtractAndCompareTest/Compare Reports/File Contain Text ComparatorHtmlReport2018-08-27T11.21.49-2.html"}
+11:21:52.470  258  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+11:21:52.471  259  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+11:21:52.472  260  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+11:21:52.536  324  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:52.536  324  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:52.536  324  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:52.536  324  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:52.540  328  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:52.541  329  [main] DEBUG c.a.automation.infra.Environment - name
+11:21:52.543  331  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:52.544  332  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:52.547  335  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+11:21:52.547  335  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+11:21:52.630  418  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\
+11:21:52.654  442  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112582_2018-08-27T11.21.52.txt
+11:21:52.658  446  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112582_2018-08-27T11.21.52.txt
+11:21:52.663  451  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\
+11:21:52.668  456  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112661_2018-08-27T11.21.52.txt
+11:21:52.671  459  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112661_2018-08-27T11.21.52.txt
+11:21:52.675  463  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\
+11:21:52.680  468  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112673_2018-08-27T11.21.52.txt
+11:21:52.685  473  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112673_2018-08-27T11.21.52.txt
+11:21:52.691  479  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\
+11:21:52.696  484  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112689_2018-08-27T11.21.52.txt
+11:21:52.697  485  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112689_2018-08-27T11.21.52.txt
+11:21:52.700  488  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\
+11:21:52.705  493  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112698_2018-08-27T11.21.52.txt
+11:21:52.709  497  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T11.21.52\Snapshots\FilterTest\TextCompareFiles\\input1535358112698_2018-08-27T11.21.52.txt
+11:21:53.983  243  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+11:21:53.985  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+11:21:53.985  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+11:21:53.986  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+11:21:53.986  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+11:21:53.987  247  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: new2 Value new val in keep referer hash
+11:21:53.988  248  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: new2 Value new val in keep referer hash
+11:21:53.989  249  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+11:21:53.990  250  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+11:21:53.990  250  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+11:21:53.990  250  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+11:21:53.990  250  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+11:21:53.991  251  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+11:21:53.991  251  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+11:21:53.991  251  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+11:21:53.991  251  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+11:21:53.991  251  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+11:21:53.991  251  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+11:21:53.992  252  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+11:21:53.992  252  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+11:21:53.992  252  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+11:21:53.992  252  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+11:21:53.992  252  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: new1 Value new val in keep referer hash
+12:45:52.054  301  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:45:52.056  303  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:45:52.057  304  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:45:52.129  376  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:52.130  377  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:52.130  377  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:52.130  377  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:52.134  381  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:52.135  382  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:52.138  385  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.138  385  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.141  388  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.141  388  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.148  395  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.148  395  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.195  442  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.197  444  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.367  614  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.367  614  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.368  615  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.370  617  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.389  636  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.389  636  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.391  638  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.393  640  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.410  657  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_alert_Test']/scriptName
+12:45:52.411  658  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.411  658  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.412  659  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.414  661  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.432  679  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_alert_Test1']/scriptName
+12:45:52.433  680  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.433  680  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.435  682  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.437  684  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.465  712  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_alert_Test2']/scriptName
+12:45:52.465  712  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.466  713  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.467  714  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.469  716  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.484  731  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //pk[@name='create_personsTable_Test']/statement
+12:45:52.485  732  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type dataset found on Xpath: //pk[@name='create_personsTable_Test']/dataset
+12:45:52.486  733  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.487  734  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.488  735  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.488  735  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.488  735  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.488  735  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.489  736  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.490  737  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.490  737  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.491  738  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.492  739  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.492  739  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.492  739  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.493  740  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.493  740  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.493  740  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.495  742  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.495  742  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.496  743  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.496  743  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.497  744  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.497  744  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.498  745  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.498  745  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.499  746  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.499  746  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.500  747  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.500  747  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.500  747  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.500  747  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.502  749  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.502  749  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.504  751  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.504  751  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.506  753  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.506  753  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.507  754  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.507  754  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.509  756  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.511  758  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.523  770  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.523  770  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.525  772  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.527  774  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.539  786  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='validate_proper_db_connect']/export
+12:45:52.540  787  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='validate_proper_db_connect']/scriptName
+12:45:52.543  790  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.543  790  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.544  791  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.546  793  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData1.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData1.xml
+12:45:52.566  813  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.566  813  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.567  814  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.569  816  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData2.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData2.xml
+12:45:52.579  826  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.579  826  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.580  827  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.582  829  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData3.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData3.xml
+12:45:52.591  838  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.591  838  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.592  839  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.595  842  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData4.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData4.xml
+12:45:52.600  847  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.600  847  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.602  849  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.604  851  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData5.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData5.xml
+12:45:52.611  858  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.611  858  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.612  859  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.615  862  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData7.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData7.xml
+12:45:52.620  867  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.620  867  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.622  869  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.625  872  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData8.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData8.xml
+12:45:52.631  878  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.631  878  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.632  879  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.634  881  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData9.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData9.xml
+12:45:52.642  889  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.643  890  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.644  891  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.646  893  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData10.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData10.xml
+12:45:52.652  899  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.652  899  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.654  901  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.656  903  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData11.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData11.xml
+12:45:52.661  908  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.661  908  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.662  909  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.664  911  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData12.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData12.xml
+12:45:52.671  918  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.671  918  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.673  920  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.675  922  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData13.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData13.xml
+12:45:52.681  928  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:52.681  928  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:52.682  929  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.684  931  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:52.694  941  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:52.696  943  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlDataTest.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataTest.xml
+12:45:55.223  445  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:45:55.226  448  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:45:55.226  448  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:45:55.290  512  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:55.291  513  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:55.291  513  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:55.291  513  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:55.295  517  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:55.296  518  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:55.298  520  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:55.298  520  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:55.356  578  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:45:55.359  581  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: testData/sqlData/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:45:55.591  813  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='count_pl_items']/export
+12:45:55.606  828  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='count_pl_items']/scriptName
+12:45:55.969  1191 [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.45.55\AdvancedDbUtilTest.html!{"expected":"select count(item_identifier) as COUNT_ITEMS from v_acm_internal_list_items where item_identifier in ({ITEM_IDENTIFIERS})            and list_join_id = (select list_join_id from v_acm_md_internal_lists where list_identifier = '{LIST_IDENTIFIER}')","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T12.45.55\\AdvancedDbUtilTest.html","attachedLog":"Snapshots/AdvancedDbUtilTest/Compare Reports/Equals CompareHtmlReport2018-08-27T12.45.55.html"}
+12:45:55.976  1198 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //pk[@name='count_pl_items']/export
+12:45:55.979  1201 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='count_pl_items']/scriptName
+12:45:58.690  272  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:45:58.692  274  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:45:58.692  274  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:45:58.753  335  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:58.754  336  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:58.754  336  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:58.754  336  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:58.758  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:58.758  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:45:58.762  344  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:58.762  344  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:58.765  347  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:45:58.765  347  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:45:59.285  867  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Contained CompareHtmlReport2018-08-27T12.45.59.html"}
+12:45:59.341  923  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Contains compareHtmlReport2018-08-27T12.45.59.html"}
+12:45:59.389  971  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T12.45.59.html"}
+12:45:59.414  996  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Not Contains CompareHtmlReport2018-08-27T12.45.59.html"}
+12:45:59.434  1016 [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"test Report OnSuccess True","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T12.45.59-2.html"}
+12:45:59.454  1036 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T12.45.59-3.html"}
+12:45:59.473  1055 [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\DbReporterTest\develeap\HTML_Reports2018-08-27T12.45.58\DbReporterTest.html!{"expected":"dbReporter test json parse and assert","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\DbReporterTest\\develeap\\HTML_Reports2018-08-27T12.45.58\\DbReporterTest.html","attachedLog":"Snapshots/DbReporterTest/Compare Reports/Equals CompareHtmlReport2018-08-27T12.45.59-4.html"}
+12:46:02.271  252  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:02.273  254  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:02.273  254  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:02.338  319  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:02.339  320  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:02.340  321  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:02.340  321  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:02.345  326  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:02.346  327  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:02.349  330  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:02.349  330  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:02.943  924  [main] ERROR c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\CreateDataForCompareUtil.html!{"expected":"select something","observed":"Compare Failed","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\CreateDataForCompareUtil.html","attachedLog":"Compare Reports/Not Contains CompareHtmlReport2018-08-27T12.46.02.html"}
+12:46:02.970  951  [main] DEBUG c.a.a.i.d.c.ComparatorListenerImpl - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\CreateDataForCompareUtil.html!{"expected":"select something","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\CreateDataForCompareUtil.html","attachedLog":"Compare Reports/Not Contains CompareHtmlReport2018-08-27T12.46.02-2.html"}
+12:46:04.226  235  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:04.229  238  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:04.229  238  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:04.289  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:04.289  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:04.289  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:04.289  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:04.293  302  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:04.294  303  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:04.296  305  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:04.296  305  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:04.494  503  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:04.496  505  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:04.780  789  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: first Value 1 in keep referer hash
+12:46:04.782  791  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:04.785  794  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:04.830  839  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_scripts']/statement
+12:46:04.836  845  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_scripts']/export
+12:46:04.848  857  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:04.850  859  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:04.889  898  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:04.892  901  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:04.928  937  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:04.931  940  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:04.972  981  [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='schemaNameDynamicValCheck']/scriptName
+12:46:04.977  986  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:04.979  988  [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+12:46:05.004  1013 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.006  1015 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:05.035  1044 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.038  1047 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+12:46:05.054  1063 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.056  1065 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+12:46:05.069  1078 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.072  1081 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlDataForTests.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlDataForTests.xml
+12:46:05.086  1095 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.089  1098 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:05.117  1126 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type scriptName found on Xpath: //pk[@name='check_export_tag']/scriptName
+12:46:05.123  1132 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.126  1135 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xml
+12:46:05.152  1161 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //group[@name='check_scripts_loading']//pk[@name='absolutePath']/statement
+12:46:05.155  1164 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //group[@name='check_scripts_loading']//pk[@name='absolutePath']/export
+12:46:05.166  1175 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type statement found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_infra']/statement
+12:46:05.169  1178 [main] WARN  c.a.a.infra.database.FileDbQuery - No elements of type export found on Xpath: //group[@name='check_scripts_loading']//pk[@name='scrit_in_database_infra']/export
+12:46:05.179  1188 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/SqlData.xsd --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData.xsd
+12:46:05.181  1190 [main] DEBUG c.a.a.infra.utils.ResourceManager - saving jarFilePath to the ResourceManager cache: database/infra/SqlData2.xml --> C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SqlData2.xml
+12:46:06.438  236  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:06.440  238  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:06.440  238  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:06.496  294  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:06.496  294  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:06.496  294  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:06.497  295  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:06.500  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:06.501  299  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:06.503  301  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:06.503  301  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:09.636  224  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:09.638  226  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:09.638  226  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:09.696  284  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:09.697  285  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:09.697  285  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:09.697  285  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:09.701  289  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:09.701  289  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:09.704  292  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:09.704  292  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:09.706  294  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:09.706  294  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:09.822  410  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.10000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.50000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.30000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:10.022  610  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:10.022  610  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:10.022  610  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:10.022  610  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv
+12:46:10.023  611  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:10.023  611  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:10.037  625  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.1000"	"-1.2300"	"-9.9999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.2345"	"0.1230"	"1.5000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.3000"	"0.3000"	"1.9999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.1111"	"100.0005"	"-6.7000"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:10.038  626  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:10.038  626  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:10.038  626  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:10.041  629  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv
+12:46:10.041  629  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:10.041  629  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:10.049  637  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.10000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.50000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.30000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:10.050  638  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\OracleFormatFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\SQLFormatFile.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:10.050  638  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:10.050  638  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:10.050  638  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\OracleFormatFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\SQLFormatFile.csv
+12:46:10.051  639  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:10.051  639  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:11.289  256  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:11.291  258  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:11.291  258  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:11.351  318  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:11.352  319  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:11.352  319  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:11.353  320  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:11.356  323  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:11.357  324  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:11.359  326  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:11.359  326  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:11.361  328  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:11.361  328  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:11.457  424  [main] DEBUG c.a.a.infra.utils.FileUtils - "First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.00000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.00000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.00000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:11.682  649  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16LE_Truncated_Mode_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16LE_Truncated_Mode_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:11.682  649  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.682  649  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:11.682  649  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16LE_Truncated_Mode_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16LE_Truncated_Mode_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16LE_Truncated_Mode_Expected_After_Conversion.csv
+12:46:11.683  650  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.683  650  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:11.690  657  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.00000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.00000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.00000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:11.691  658  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:11.691  658  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.691  658  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:11.692  659  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_Truncated_Mode_NC_Expected_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_Truncated_Mode_Expected_After_Conversion.csv
+12:46:11.692  659  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.692  659  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:11.698  665  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.00000"	"-1.23000"	"-9.99999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.23456"	"0.12300"	"1.00000"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.30000"	"0.00000"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.11110"	"100.00050"	"-6.70000"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:11.699  666  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16BE_Truncated_Mode_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF16BE_Truncated_Mode_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:11.699  666  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.699  666  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:11.699  666  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16BE_Truncated_Mode_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF16BE_Truncated_Mode_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF16BE_Truncated_Mode_Expected_After_Conversion.csv
+12:46:11.699  666  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.699  666  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:11.708  675  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1","float_col2","float_col3","str_col","bool_col","date_col","int_col""First_Float_Column","Second_Float_Column","Third_Float_Column","String_Column","Boolean_Column","Date_Column","Integer_Column""-4.00000","-1.23000","-9.99999","it's just a STRING","","12/12/2060 00:00","4""1.23456","0.12300","1.00000","just a string","TRUE","08/08/1991 00:00","1""2.30000","0.00000","1.99999","just another string","FALSE","02/19/2018 12:00 AM","2""3.11110","100.00050","-6.70000","abcdefghijklmnop","","","3"
+12:46:11.709  676  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:11.709  676  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.709  676  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:11.709  676  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\UTF8_NO_BOM_Truncated_Mode_Conversion_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\UTF8_NO_BOM_Truncated_Mode_Expected_After_Conversion.csv
+12:46:11.709  676  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.709  676  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:11.716  683  [main] DEBUG c.a.a.infra.utils.FileUtils - "Truncated","Ceiling","Floor","Round_half_up","Round_half_down","Round_up","String_field","Integer_field","Boolean_field","Date_field""truncated","Ceiling","floor","round_half_up","round_half_down","round_up","String_Field","Integer_Field","Boolean_Field","Date_Field""0.1234","9.2440","-9.2440","0.7172","0.7172","0.7172","=""one two three""","123","false","""1.2354","1.5340","123.0000","10.1010","2.2221","5.4562","","","","""21354.3436","0.1235","-1.0000","1.0000","0.9989","2.8889","=""write something in here""","1","true","02/25/2065 11:11 AM"
+12:46:11.717  684  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\NC_Test_Result.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\Multiple_Modes_Expected_After_Conversion.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\NC_Test_Result.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\Multiple_Modes_Expected_After_Conversion.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:11.717  684  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.717  684  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:11.717  684  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\NC_Test_Result.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\Multiple_Modes_Expected_After_Conversion.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\NC_Test_Result.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\Multiple_Modes_Expected_After_Conversion.csv
+12:46:11.717  684  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.717  684  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:11.741  708  [main] DEBUG c.a.a.infra.utils.FileUtils - "float_col1"	"float_col2"	"float_col3"	"str_col"	"bool_col"	"date_col"	"int_col""First_Float_Column"	"Second_Float_Column"	"Third_Float_Column"	"String_Column"	"Boolean_Column"	"Date_Column"	"Integer_Column""-4.1"	"-1.23"	"-9.999999"	"=""it's just a STRING"""	""	"12/12/2060 12:00 AM"	"4""1.234567"	"0.123"	"1.5"	"=""just a string"""	"true"	"08/08/1991 12:00 AM"	"1""2.3"	"0.3"	"1.99999"	"=""just another string"""	"false"	"02/19/2018 12:00 AM"	"2""3.1111"	"100.0005"	"-6.7"	"=""abcdefghijklmnop"""	""	""	"3"
+12:46:11.742  709  [main] DEBUG c.a.automation.infra.Reporting - html:null!{"expected":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\IdentityConvertFile.csv should be equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\IdentityCheck.csv","observed":"File C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\IdentityConvertFile.csv equal to C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\target\\test-classes\\testData\\testInputsFile\\CSVFileTest\\IdentityCheck.csv","message":"compareFiles: ","takeScreenShot":false,"logger":null,"attachedLog":null}
+12:46:11.742  709  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.742  709  [main] DEBUG c.a.automation.infra.Reporting - THREAD:1 -- TEST CASE NAME: 
+12:46:11.742  709  [main] DEBUG c.a.automation.infra.Reporting -  -- Description: compareFiles:  -- Expected Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\IdentityConvertFile.csv should be equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\IdentityCheck.csv -- Actual Value: File C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\IdentityConvertFile.csv equal to C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\target\test-classes\testData\testInputsFile\CSVFileTest\IdentityCheck.csv
+12:46:11.742  709  [main] DEBUG c.a.automation.infra.Reporting - #######
+12:46:11.742  709  [main] DEBUG c.a.a.infra.utils.FileUtils - Content of both files are same
+12:46:14.087  273  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:14.089  275  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:14.089  275  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:14.153  339  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:14.154  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:14.154  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:14.154  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:14.158  344  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:14.159  345  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:14.161  347  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:14.161  347  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:14.163  349  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:14.163  349  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:15.484  234  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:15.486  236  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:15.486  236  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:15.548  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:15.548  298  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:15.549  299  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:15.549  299  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:15.552  302  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:15.553  303  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:15.556  306  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:15.556  306  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:15.558  308  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:15.558  308  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:15.573  323  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\
+12:46:15.630  380  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\\fileForExtractor_2018-08-27T12.46.15.txt
+12:46:15.632  382  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\\fileForExtractor_2018-08-27T12.46.15.txt
+12:46:15.675  425  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\Compare Reports\
+12:46:16.020  770  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\FileExtractorTest.html!{"expected":"count Appearance comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T12.46.15\\FileExtractorTest.html","attachedLog":"Snapshots/FileExtractorTest/Compare Reports/count Appearance comparatorHtmlReport2018-08-27T12.46.15.html"}
+12:46:16.025  775  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\
+12:46:16.093  843  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\\DemoFile_2018-08-27T12.46.16.log
+12:46:16.094  844  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\\DemoFile_2018-08-27T12.46.16.log
+12:46:16.098  848  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\Compare Reports\
+12:46:16.124  874  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\FileExtractorTest.html!{"expected":"File Contain Text Comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T12.46.15\\FileExtractorTest.html","attachedLog":"Snapshots/FileExtractorTest/Compare Reports/File Contain Text ComparatorHtmlReport2018-08-27T12.46.16.html"}
+12:46:16.137  887  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\
+12:46:16.142  892  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\\dummyForTest_2018-08-27T12.46.16.txt
+12:46:16.143  893  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\TextCompareFiles\\dummyForTest_2018-08-27T12.46.16.txt
+12:46:16.147  897  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\Snapshots\FileExtractorTest\Compare Reports\
+12:46:16.170  920  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.15\FileExtractorTest.html!{"expected":"Text Equals compare passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T12.46.15\\FileExtractorTest.html","attachedLog":"Snapshots/FileExtractorTest/Compare Reports/Text Equals compareHtmlReport2018-08-27T12.46.16.html"}
+12:46:18.469  277  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:18.472  280  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:18.472  280  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:18.531  339  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:18.532  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:18.532  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:18.532  340  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:18.536  344  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:18.536  344  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:18.538  346  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:18.538  346  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:18.540  348  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:18.540  348  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:18.549  357  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\
+12:46:18.611  419  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\import CSV with delimiter Comma_2018-08-27T12.46.18.csv
+12:46:18.612  420  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\import CSV with delimiter Comma_2018-08-27T12.46.18.csv
+12:46:18.616  424  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\Compare Reports\
+12:46:18.942  750  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\MultiEncodingExtractAndCompareTest.html!{"expected":"File Contain Text Comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T12.46.18\\MultiEncodingExtractAndCompareTest.html","attachedLog":"Snapshots/MultiEncodingExtractAndCompareTest/Compare Reports/File Contain Text ComparatorHtmlReport2018-08-27T12.46.18.html"}
+12:46:18.944  752  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:18.944  752  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:18.945  753  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\
+12:46:18.950  758  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\Import CSV with delimiter TAB_2018-08-27T12.46.18.csv
+12:46:18.954  762  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\TextCompareFiles\\Import CSV with delimiter TAB_2018-08-27T12.46.18.csv
+12:46:18.957  765  [main] DEBUG c.a.a.i.e.FilesExtractor - Compare reports destination folder set to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\Snapshots\MultiEncodingExtractAndCompareTest\Compare Reports\
+12:46:18.979  787  [main] DEBUG c.a.a.i.e.FilesExtractor - html:C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.18\MultiEncodingExtractAndCompareTest.html!{"expected":"File Contain Text Comparator passed! content in expected match!","observed":"Compare Succeeded","message":"","takeScreenShot":false,"logger":"C:\\Users\\develeap\\Work\\Actimize\\AAF\\code\\infra\\aaf-infra\\output\\execution\\\\develeap\\HTML_Reports2018-08-27T12.46.18\\MultiEncodingExtractAndCompareTest.html","attachedLog":"Snapshots/MultiEncodingExtractAndCompareTest/Compare Reports/File Contain Text ComparatorHtmlReport2018-08-27T12.46.18-2.html"}
+12:46:21.478  236  [main] DEBUG c.a.automation.infra.Environment - Initializing variables
+12:46:21.480  238  [main] DEBUG c.a.automation.infra.Environment - user dir=C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra
+12:46:21.480  238  [main] DEBUG c.a.automation.infra.Environment - Variables initialized
+12:46:21.545  303  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:21.545  303  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:21.545  303  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:21.545  303  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:21.550  308  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:21.550  308  [main] DEBUG c.a.automation.infra.Environment - name
+12:46:21.553  311  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:21.553  311  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:21.556  314  [main] DEBUG c.a.automation.infra.Environment - initReporterParameters 
+12:46:21.556  314  [main] DEBUG c.a.automation.infra.Environment - ++++++++++++++initExecutionFolderVariables++++++++++++
+12:46:21.640  398  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\
+12:46:21.666  424  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181589_2018-08-27T12.46.21.txt
+12:46:21.669  427  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181589_2018-08-27T12.46.21.txt
+12:46:21.674  432  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\
+12:46:21.679  437  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181672_2018-08-27T12.46.21.txt
+12:46:21.683  441  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181672_2018-08-27T12.46.21.txt
+12:46:21.687  445  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\
+12:46:21.692  450  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181684_2018-08-27T12.46.21.txt
+12:46:21.696  454  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181684_2018-08-27T12.46.21.txt
+12:46:21.702  460  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\
+12:46:21.707  465  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181700_2018-08-27T12.46.21.txt
+12:46:21.708  466  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181700_2018-08-27T12.46.21.txt
+12:46:21.712  470  [main] DEBUG c.a.a.i.e.FilesExtractor - Setting Extractor destination folder to: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\
+12:46:21.716  474  [main] DEBUG c.a.a.i.e.FilesExtractor - Content was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181709_2018-08-27T12.46.21.txt
+12:46:21.720  478  [main] DEBUG c.a.a.i.e.FilesExtractor - Extract info was written into: C:\Users\develeap\Work\Actimize\AAF\code\infra\aaf-infra\output\execution\\develeap\HTML_Reports2018-08-27T12.46.21\Snapshots\FilterTest\TextCompareFiles\\input1535363181709_2018-08-27T12.46.21.txt
+12:46:22.936  238  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+12:46:22.939  241  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+12:46:22.939  241  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+12:46:22.939  241  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+12:46:22.939  241  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+12:46:22.940  242  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: new2 Value new val in keep referer hash
+12:46:22.941  243  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: new2 Value new val in keep referer hash
+12:46:22.942  244  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+12:46:22.942  244  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+12:46:22.942  244  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+12:46:22.942  244  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+12:46:22.942  244  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+12:46:22.943  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+12:46:22.943  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+12:46:22.943  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+12:46:22.943  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+12:46:22.943  245  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+12:46:22.944  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key1 Value value1 in keep referer hash
+12:46:22.944  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key2 Value value2 in keep referer hash
+12:46:22.944  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: key3 Value null in keep referer hash
+12:46:22.944  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num1 Value 1 in keep referer hash
+12:46:22.944  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: num2 Value 2 in keep referer hash
+12:46:22.944  246  [main] DEBUG c.a.a.infra.KeepRefererService - Save Key: new1 Value new val in keep referer hash

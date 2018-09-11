@@ -1,0 +1,62 @@
+﻿(TID#0x00000918) 2018-Feb-06 16:41:45.514 DIAGNOSTIC: Execution plan: execution started
+(TID#0x00000918) 2018-Feb-06 16:41:45.514 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ FileName=ProfileSliceParty06.csv }'
+(TID#0x00000918) 2018-Feb-06 16:41:45.514 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000918) 2018-Feb-06 16:41:45.514 DIAGNOSTIC: Execution plan: current event data:
+	from: 53b2a5c0-be4f-4e96-a31d-60bf63c76a8f
+	to: b63a1580-760a-43f7-ba33-046228456071
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.514 DIAGNOSTIC: Execution plan: event receiver:b63a1580-760a-43f7-ba33-046228456071
+(TID#0x00000918) 2018-Feb-06 16:41:45.530 INFO: [ExecutionPlanTask: Do Compare for one file] Process #4027 - Execution plan process execution plan name: 'IFM_QA_CompareOneFile'. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[Do Compare for one file]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.558 INFO: [ExecutionPlanTask: Do Compare for one file] Process #4018 - New process 'Do Compare for MI_Slices_ProfileSliceParty06.csv' has been launched. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[Do Compare for one file]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.558 INFO: [ExecutionPlanTask: Do Compare for one file] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Do_Compare_for_MI_Slices_ProfileSliceParty06_csv18-02-06_16-41-45_00.log'. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[Do Compare for one file]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.559 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00001724) 2018-Feb-06 16:41:45.602 INFO: [ExecutionPlanTask: Do Compare for one file] Process #4025 - Process Do Compare for MI_Slices_ProfileSliceParty06.csv ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Do_Compare_for_MI_Slices_ProfileSliceParty06_csv18-02-06_16-41-45_00.log' Location: [Execution plan:IFM_QA_CompareAndWriteLog\[Do Compare for one file]]
+(TID#0x00001724) 2018-Feb-06 16:41:45.602 INFO: [ExecutionPlanTask: Do Compare for one file] Process #4020 - Transition event 'on success any' from process 'Do Compare for MI_Slices_ProfileSliceParty06.csv' has been received.
+(TID#0x00000918) 2018-Feb-06 16:41:45.602 DIAGNOSTIC: Execution plan: current event data:
+	from: b63a1580-760a-43f7-ba33-046228456071
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.603 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000918) 2018-Feb-06 16:41:45.603 DIAGNOSTIC: Execution plan: current event data:
+	from: b63a1580-760a-43f7-ba33-046228456071
+	to: 3b45232a-84a5-4ecf-a5eb-cbbf616858ba
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.603 DIAGNOSTIC: Execution plan: event receiver:3b45232a-84a5-4ecf-a5eb-cbbf616858ba
+(TID#0x00000918) 2018-Feb-06 16:41:45.619 INFO: [ExecutionPlanTask: write_to_log_ended successfully] Process #4022 - Source process flow name: 'SR_write_to_log'. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[write_to_log_ended successfully]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.619 INFO: [ExecutionPlanTask: write_to_log_ended successfully] Process #4021 - Source process channel name: 'SR_write_to_log_source'. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[write_to_log_ended successfully]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.619 INFO: [ExecutionPlanTask: write_to_log_ended successfully] Process #4023 - Source process with source name: 'Source'. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[write_to_log_ended successfully]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.657 INFO: [ExecutionPlanTask: write_to_log_ended successfully] Process #4018 - New process 'Update log - MI_Slices_ProfileSliceParty06.csv Finished_Successfully' has been launched. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[write_to_log_ended successfully]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.658 INFO: [ExecutionPlanTask: write_to_log_ended successfully] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Update_log_MI_Slices_ProfileSliceParty06_csv_Finished_Successfully18-02-06_16-41-45_00.log'. Location: [Execution plan:IFM_QA_CompareAndWriteLog\[write_to_log_ended successfully]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.660 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x00000918) 2018-Feb-06 16:41:45.661 DIAGNOSTIC: Execution plan: current event data:
+	from: b63a1580-760a-43f7-ba33-046228456071
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.661 DIAGNOSTIC: Execution plan: not finished, there is at least one active process.
+(TID#0x000013ec) 2018-Feb-06 16:41:45.663 INFO: [ExecutionPlanTask: write_to_log_ended successfully] Process #4025 - Process Update log - MI_Slices_ProfileSliceParty06.csv Finished_Successfully ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Update_log_MI_Slices_ProfileSliceParty06_csv_Finished_Successfully18-02-06_16-41-45_00.log' Location: [Execution plan:IFM_QA_CompareAndWriteLog\[write_to_log_ended successfully]]
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: current event data:
+	from: 3b45232a-84a5-4ecf-a5eb-cbbf616858ba
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: current event data:
+	from: 3b45232a-84a5-4ecf-a5eb-cbbf616858ba
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: not finished, there is event in buffer.
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: current event data:
+	from: 3b45232a-84a5-4ecf-a5eb-cbbf616858ba
+	to: 00000000-0000-0000-0000-000000000000
+	msg: continue to work
+
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: finished, there is no events in buffer.
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: terminating all processes
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 DIAGNOSTIC: Execution plan: all processes has been terminated
+(TID#0x00000918) 2018-Feb-06 16:41:45.664 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Comparing_ProfileSliceParty06_csv18-02-06_16-41-45_00.log'
+(TID#0x00000abc) <log ended>
