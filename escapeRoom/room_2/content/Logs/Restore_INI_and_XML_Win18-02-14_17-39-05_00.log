@@ -1,3 +1,0 @@
-﻿2018-Feb-14 17:39:05.103 INFO: [Process: Restore INI and XML Win] #90000 - Shell Process Restore INI and XML Win is initializing. Command line: 'cmd /c xcopy /q /y "C:\QA_FF_Regression\Reset\Configuration Files" C:\Actimize\4.24.0.51\Instances\actimize_server_1'
-2018-Feb-14 17:39:05.117 INFO: [Process: Restore INI and XML Win] End #90002 - Shell Process is running.
-2018-Feb-14 17:39:05.375 INFO: [Process: Restore INI and XML Win] End #90007 - Shell Process Restore INI and XML Win finished successfully.

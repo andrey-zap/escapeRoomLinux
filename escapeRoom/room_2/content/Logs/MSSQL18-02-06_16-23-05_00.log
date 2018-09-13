@@ -1,7 +1,0 @@
-﻿2018-Feb-06 16:23:05.080 INFO: [Process] #6008 - SQL statement 'begin
-set nocount on
-EXEC STAGING_IDB.PROC_IDB_ROLLBACK '01/02/2000','RCM','10'
-end
-'.
-2018-Feb-06 16:23:05.114 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=database;UID=QA_IDB_1_MAINT;PWD=Actimize1;DATABASE=QA_IDB_1;'.
-<log ended>

@@ -1,4 +1,0 @@
-﻿2018-Feb-19 16:45:17.731 INFO: [Process: Configuration tool Win] #90000 - Shell Process Configuration tool Win is initializing. Command line: 'cmd /c "C:\Python27\python.exe C:\QA_FF_Regression\E2E\configurator_v3.py -f "C:\QA_FF_Regression\TestSuites\BulkHybridNacha_CheckRelated_SEC_codes\Initialization\Configuration Files" -d C:\Actimize\4.24.0.51\Instances\actimize_server_1 -i True -l C:\QA_FF_Regression\E2E\ -r True"'
-2018-Feb-19 16:45:17.732 INFO: [Process: Configuration tool Win] End #90002 - Shell Process is running.
-2018-Feb-19 16:45:19.987 INFO: [Process: Configuration tool Win] End #90007 - Shell Process Configuration tool Win finished successfully.
-<log ended>

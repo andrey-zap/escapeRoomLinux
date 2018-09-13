@@ -1,3 +1,0 @@
-﻿2018-Feb-06 16:58:29.837 INFO: [Process: Copy_ExpectedResults_Win] #90000 - Shell Process Copy_ExpectedResults_Win is initializing. Command line: 'cmd /c "xcopy /q /y  C:\QA_FF_Regression\TestSuites\MO_Slices\Expected_Results\MS-SQL\*.* C:\QA_FF_Regression\TestSuites\MO_Slices\Expected_Results\"'
-2018-Feb-06 16:58:29.838 INFO: [Process: Copy_ExpectedResults_Win] End #90002 - Shell Process is running.
-2018-Feb-06 16:58:29.852 ERROR: [Process: Copy_ExpectedResults_Win] End #90008 - Shell Process Copy_ExpectedResults_Win failed. Process exit code is 4. Command line: 'cmd /c "xcopy /q /y  C:\QA_FF_Regression\TestSuites\MO_Slices\Expected_Results\MS-SQL\*.* C:\QA_FF_Regression\TestSuites\MO_Slices\Expected_Results\"'

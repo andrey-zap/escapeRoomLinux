@@ -1,4 +1,0 @@
-﻿2018-Feb-06 16:21:59.991 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{  }'
-2018-Feb-06 16:21:59.994 INFO: [ExecutionPlanTask: Run FF_startActionsProcess] Process #4027 - Execution plan process execution plan name: 'FF_manualAlertProcess'. Location: [Execution plan:FF_manualAlert\[Run FF_startActionsProcess]]
-2018-Feb-06 16:22:00.199 INFO: [ExecutionPlanTask: Run FF_startActionsProcess] Process #4018 - New process 'Run FF_startActionsProcess' has been launched. Location: [Execution plan:FF_manualAlert\[Run FF_startActionsProcess]]
-2018-Feb-06 16:22:00.199 INFO: [ExecutionPlanTask: Run FF_startActionsProcess] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_FF_startActionsProcess18-02-06_16-21-59_00.log'. Location: [Execution plan:FF_manualAlert\[Run FF_startActionsProcess]]

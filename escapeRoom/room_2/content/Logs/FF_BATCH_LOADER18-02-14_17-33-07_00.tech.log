@@ -1,3 +1,0 @@
-﻿(TID#0x000006d8) 2018-Feb-14 17:33:07.576 INFO: [Process] #6008 - SQL statement 'truncate table FF_BATCH_LOADER_CONTROL;'.
-(TID#0x000006d8) 2018-Feb-14 17:33:07.627 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=QA_IFM_1_APP_owner;PWD=Actimize1;DATABASE=QA_IFM_1_APP;'.
-(TID#0x00000fa4) <log ended>

@@ -1,4 +1,0 @@
-﻿(TID#0x00000c7c) 2018-Feb-14 17:33:07.761 INFO: [Process] #6008 - SQL statement 'delete from alerts
-'.
-(TID#0x00000c7c) 2018-Feb-14 17:33:07.765 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=RCM_APP_USER;PWD=Actimize1;DATABASE=RCM_DB_NAME;'.
-(TID#0x00000fa4) <log ended>
