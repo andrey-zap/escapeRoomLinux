@@ -1,0 +1,390 @@
+NFO:   ****************************************
+INFO:   12/01/2017 09:35:57
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Non-Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files\STMicroelectronics\stdcfltn\dpinst.exe" /SA /LM /SW'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files\STMicroelectronics\stdcfltn'
+INFO:   Running on path 'C:\Program Files\STMicroelectronics\stdcfltn'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: legacy mode on.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Found driver package: 'C:\Program Files\STMicroelectronics\stdcfltn\stdcfltn.inf'.
+INFO:   Preinstalling 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+ERROR:  Preinstall is not a supported operation for driver type 5
+INFO:   RETURN: DriverPackagePreinstallW  (0x1)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   No driver store entry for c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf found. (Error code 0xE0000302.)
+INFO:   RETURN: DriverPackageGetPathW  (0xE0000302)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Copied 'stdcfltn.inf' to driver store...
+INFO:   Copied 'stdcfltn.cat' to driver store...
+INFO:   Commiting queue...
+INFO:   Copied file: 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.sys' -> 'C:\Windows\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.sys'.
+INFO:   Installing INF file "C:\Windows\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf" of Type 5.
+INFO:   installing class filter 'C:\Windows\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf'
+INFO:   'C:\Windows\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf' requires a reboot.
+INFO:   Device 'SCSI\DISK&VEN_LITEON&PROD_CV3-8D512-11\4&7A4D1DB&0&000000' failed to stop (error 0x13)
+INFO:   Device 'SCSI\DISK&VEN_LITEON&PROD_CV3-8D512-11\4&7A4D1DB&0&000000' failed to stop (error 0x13)
+SUCCESS:Installation completed with code 0x0.
+INFO:   RETURN: DriverPackageInstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+SUCCESS:Found driver store entry.
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   Successfull installation of 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf'.
+INFO:   Created entry in Add or Remove Programs for 'C:\Windows\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf'.
+INFO:   Machine will have to be rebooted to complete installation.
+INFO:   Returning with code 0x40000001
+INFO:   12/01/2017 09:35:57
+INFO:   ****************************************
+INFO:   12/01/2017 09:40:06
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files (x86)\Intel\Bluetooth\utilities\dpinst.exe" /SA /A /SE /SW /PATH "C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\WP\Win10Release\x64\'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files (x86)\Intel\Bluetooth\utilities'
+INFO:   Running on path 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\WP\Win10Release\x64\'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: Suppressing EULA.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+jeckie4:|__   _/ /  / __/
+INFO:   Install option set: Install all driver packages or none.
+INFO:   Found driver package: 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\WP\Win10Release\x64\\ibtusb.inf'.
+INFO:   Preinstalling 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wp\win10release\x64\\ibtusb.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wp\win10release\x64\\ibtusb.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wp\win10release\x64\ibtusb.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_4464580af486ac2c\ibtusb.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_4464580af486ac2c\ibtusb.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wp\win10release\x64\\ibtusb.inf'. Driver will be installed when plugged in.
+INFO:   Returning with code 0x100
+INFO:   12/01/2017 09:40:06
+INFO:   ****************************************
+INFO:   12/01/2017 09:40:06
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files (x86)\Intel\Bluetooth\utilities\dpinst.exe" /SA /A /SE /SW /PATH "C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\STP\Win10Release\x64\'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files (x86)\Intel\Bluetooth\utilities'
+INFO:   Running on path 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\STP\Win10Release\x64\'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: Suppressing EULA.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Install option set: Install all driver packages or none.
+INFO:   Found driver package: 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\STP\Win10Release\x64\\ibtusb.inf'.
+INFO:   Preinstalling 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\stp\win10release\x64\\ibtusb.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files (x86)\intel\bluetooth\drivers\ibtusb\stp\win10release\x64\\ibtusb.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\stp\win10release\x64\ibtusb.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_d4fe096716990e3b\ibtusb.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_d4fe096716990e3b\ibtusb.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\stp\win10release\x64\\ibtusb.inf'. Driver will be installed when plugged in.
+INFO:   Returning with code 0x100
+INFO:   12/01/2017 09:40:07
+INFO:   ****************************************
+INFO:   12/01/2017 09:40:07
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files (x86)\Intel\Bluetooth\utilities\dpinst.exe" /SA /A /SE /SW /PATH "C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\LNP\Win10Release\x64\'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files (x86)\Intel\Bluetooth\utilities'
+INFO:   Running on path 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\LNP\Win10Release\x64\'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: Suppressing EULA.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Install option set: Install all driver packages or none.
+INFO:   Found driver package: 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\LNP\Win10Release\x64\\ibtusb.inf'.
+INFO:   Preinstalling 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\lnp\win10release\x64\\ibtusb.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files (x86)\intel\bluetooth\drivers\ibtusb\lnp\win10release\x64\\ibtusb.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\lnp\win10release\x64\ibtusb.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_df8ce9d133ca53df\ibtusb.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_df8ce9d133ca53df\ibtusb.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\lnp\win10release\x64\\ibtusb.inf'. Driver will be installed when plugged in.
+INFO:   Returning with code 0x100
+INFO:   12/01/2017 09:40:07
+INFO:   ****************************************
+INFO:   12/01/2017 09:40:07
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files (x86)\Intel\Bluetooth\utilities\dpinst.exe" /SA /A /SE /SW /PATH "C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\SDP\Win10Release\x64\'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files (x86)\Intel\Bluetooth\utilities'
+INFO:   Running on path 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\SDP\Win10Release\x64\'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: Suppressing EULA.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Install option set: Install all driver packages or none.
+INFO:   Found driver package: 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\SDP\Win10Release\x64\\ibtusb.inf'.
+INFO:   Preinstalling 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\sdp\win10release\x64\\ibtusb.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files (x86)\intel\bluetooth\drivers\ibtusb\sdp\win10release\x64\\ibtusb.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\sdp\win10release\x64\ibtusb.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_d9e17ed5eef794d5\ibtusb.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_d9e17ed5eef794d5\ibtusb.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\sdp\win10release\x64\\ibtusb.inf'. Driver will be installed when plugged in.
+INFO:   Returning with code 0x100
+INFO:   12/01/2017 09:40:07
+INFO:   ****************************************
+INFO:   12/01/2017 09:40:07
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files (x86)\Intel\Bluetooth\utilities\dpinst.exe" /SA /A /SE /SW /PATH "C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\WSP\Win10Release\x64\'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files (x86)\Intel\Bluetooth\utilities'
+INFO:   Running on path 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\WSP\Win10Release\x64\'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: Suppressing EULA.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Install option set: Install all driver packages or none.
+INFO:   Found driver package: 'C:\Program Files (x86)\Intel\Bluetooth\drivers\ibtusb\WSP\Win10Release\x64\\ibtusb.inf'.
+INFO:   Preinstalling 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wsp\win10release\x64\\ibtusb.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wsp\win10release\x64\\ibtusb.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wsp\win10release\x64\ibtusb.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64]...
+INFO:   Installing devices with Id "USB\VID_8087&PID_0A2B&REV_0010" using INF "C:\Windows\System32\DriverStore\FileRepository\ibtusb.inf_amd64_dafa2b4331ac834b\ibtusb.inf".
+INFO:   ENTER UpdateDriverForPlugAndPlayDevices...
+SUCCESS:RETURN UpdateDriverForPlugAndPlayDevices.
+INFO:   Installation was successful.
+SUCCESS:Install completed
+INFO:   RETURN: DriverPackageInstallW  (0x0)
+INFO:   Successfull installation of 'c:\program files (x86)\intel\bluetooth\drivers\ibtusb\wsp\win10release\x64\\ibtusb.inf'.
+INFO:   Returning with code 0x1
+INFO:   12/01/2017 09:40:10
+INFO:   ****************************************
+INFO:   12/01/2017 09:40:19
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Interactive Windows Station
+INFO:   Command Line: 'DPInst64.exe /SW /C /SA '
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+ERROR:  Failed to set option to dump log info to console.
+INFO:   Current working directory: 'C:\Program Files\Intel\WiFiDrivers\Drivers'
+INFO:   Running on path 'C:\Program Files\Intel\WiFiDrivers\Drivers'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Found driver package: 'C:\Program Files\Intel\WiFiDrivers\Drivers\NETwbw02.INF'.
+INFO:   Found driver package: 'C:\Program Files\Intel\WiFiDrivers\Drivers\NETwew01.INF'.
+INFO:   Found driver package: 'C:\Program Files\Intel\WiFiDrivers\Drivers\NETwtw02.INF'.
+INFO:   Found driver package: 'C:\Program Files\Intel\WiFiDrivers\Drivers\NETwtw04.INF'.
+INFO:   Preinstalling 'c:\program files\intel\wifidrivers\drivers\netwbw02.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files\intel\wifidrivers\drivers\netwbw02.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   Preinstalling 'c:\program files\intel\wifidrivers\drivers\netwew01.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files\intel\wifidrivers\drivers\netwew01.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   Preinstalling 'c:\program files\intel\wifidrivers\drivers\netwtw02.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files\intel\wifidrivers\drivers\netwtw02.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   Preinstalling 'c:\program files\intel\wifidrivers\drivers\netwtw04.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+SUCCESS:c:\program files\intel\wifidrivers\drivers\netwtw04.inf is preinstalled.
+INFO:   RETURN: DriverPackagePreinstallW  (0x0)
+INFO:   ENTER:  DriverPackageGetPathW
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files\intel\wifidrivers\drivers\netwbw02.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64.6.3]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\netwbw02.inf_amd64_5b454a7ea2dad38e\netwbw02.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\netwbw02.inf_amd64_5b454a7ea2dad38e\netwbw02.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files\intel\wifidrivers\drivers\netwbw02.inf'. Driver will be installed when plugged in.
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files\intel\wifidrivers\drivers\netwew01.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64.6.2]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\netwew01.inf_amd64_8f61163a2a2bddf8\netwew01.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\netwew01.inf_amd64_8f61163a2a2bddf8\netwew01.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files\intel\wifidrivers\drivers\netwew01.inf'. Driver will be installed when plugged in.
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files\intel\wifidrivers\drivers\netwtw02.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64.10.0]...
+INFO:   No matching devices found in INF "C:\Windows\System32\DriverStore\FileRepository\netwtw02.inf_amd64_3e0c0c615068922c\netwtw02.inf" on the Machine.
+INFO:   No drivers installed. No devices found that match driver(s) contained in 'C:\Windows\System32\DriverStore\FileRepository\netwtw02.inf_amd64_3e0c0c615068922c\netwtw02.inf'.
+INFO:   RETURN: DriverPackageInstallW  (0xE000020B)
+INFO:   No matching device was found for 'c:\program files\intel\wifidrivers\drivers\netwtw02.inf'. Driver will be installed when plugged in.
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file 'c:\program files\intel\wifidrivers\drivers\netwtw04.inf' (Plug and Play).
+INFO:   Looking for Model Section [Device.NTamd64.10.0]...
+INFO:   Installing devices with Id "PCI\VEN_8086&DEV_24FD&SUBSYS_00508086&REV_78" using INF "C:\Windows\System32\DriverStore\FileRepository\netwtw04.inf_amd64_d6fcf0e7677d0132\netwtw04.inf".
+INFO:   ENTER UpdateDriverForPlugAndPlayDevices...
+SUCCESS:RETURN UpdateDriverForPlugAndPlayDevices.
+INFO:   Installation was successful.
+SUCCESS:Install completed
+INFO:   RETURN: DriverPackageInstallW  (0x0)
+INFO:   Successfull installation of 'c:\program files\intel\wifidrivers\drivers\netwtw04.inf'.
+INFO:   Returning with code 0x301
+INFO:   12/01/2017 09:40:28
+INFO:   ****************************************
+INFO:   02/04/2018 18:17:00
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Non-Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files\STMicroelectronics\stdcfltn\dpinst.exe" /SA /LM /SW'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files\STMicroelectronics\stdcfltn'
+INFO:   Running on path 'C:\Program Files\STMicroelectronics\stdcfltn'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: legacy mode on.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Found driver package: 'C:\Program Files\STMicroelectronics\stdcfltn\stdcfltn.inf'.
+INFO:   Preinstalling 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+ERROR:  Preinstall is not a supported operation for driver type 5
+INFO:   RETURN: DriverPackagePreinstallW  (0x1)
+INFO:   ENTER:  DriverPackageGetPathW
+SUCCESS:Found driver store entry.
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file "C:\WINDOWS\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf" of Type 5.
+INFO:   installing class filter 'C:\WINDOWS\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf'
+INFO:   'C:\WINDOWS\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf' requires a reboot.
+INFO:   The Stopping of device 'SCSI\DISK&VEN_LITEON&PROD_CV3-8D512-11\4&7A4D1DB&0&000000' was vetoed by 'SCSI\Disk&Ven_LITEON&Prod_CV3-8D512-11\4&7a4d1db&0&000000Ȁ' (veto type 551111304)
+INFO:   The Stopping of device 'SCSI\DISK&VEN_LITEON&PROD_CV3-8D512-11\4&7A4D1DB&0&000000' was vetoed by 'SCSI\Disk&Ven_LITEON&Prod_CV3-8D512-11\4&7a4d1db&0&000000Ȁ' (veto type 551111304)
+SUCCESS:Installation completed with code 0x0.
+INFO:   RETURN: DriverPackageInstallW  (0x0)
+INFO:   Successfull installation of 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf'.
+INFO:   Machine will have to be rebooted to complete installation.
+INFO:   Returning with code 0x40000001
+INFO:   02/04/2018 18:17:00
+INFO:   ****************************************
+INFO:   05/31/2018 15:57:15
+INFO:   Product Version 2.1.0.0.
+INFO:   Version: 6.0.6000 
+INFO:   Platform ID: 2 (NT)
+INFO:   Service Pack: 0.0
+INFO:   Suite: 0x0100, Product Type: 1
+INFO:   Architecture: AMD64.
+INFO:   Running under Local System Account
+INFO:   Non-Interactive Windows Station
+INFO:   Command Line: '"C:\Program Files\STMicroelectronics\stdcfltn\dpinst.exe" /SA /LM /SW'
+INFO:   DPInst is not multi-lingual.
+INFO:   ****************************************
+INFO:   Current working directory: 'C:\Program Files\STMicroelectronics\stdcfltn'
+INFO:   Running on path 'C:\Program Files\STMicroelectronics\stdcfltn'
+INFO:   No valid 'dpinst.xml' file provided.
+INFO:   Install option set: Suppressing Wizard but no OS popups.
+INFO:   Install option set: legacy mode on.
+INFO:   Install option set: Suppress Add or Remove Programs entries.
+INFO:   Found driver package: 'C:\Program Files\STMicroelectronics\stdcfltn\stdcfltn.inf'.
+INFO:   Preinstalling 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf' ...
+INFO:   ENTER:  DriverPackagePreinstallW
+ERROR:  Preinstall is not a supported operation for driver type 5
+INFO:   RETURN: DriverPackagePreinstallW  (0x1)
+INFO:   ENTER:  DriverPackageGetPathW
+SUCCESS:Found driver store entry.
+INFO:   RETURN: DriverPackageGetPathW  (0x0)
+INFO:   ENTER:  DriverPackageInstallW
+INFO:   Installing INF file "C:\WINDOWS\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf" of Type 5.
+INFO:   installing class filter 'C:\WINDOWS\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf'
+INFO:   'C:\WINDOWS\system32\DRVSTORE\stdcfltn_C87F13503BE4C0892933D319A32BB41101A19632\stdcfltn.inf' requires a reboot.
+INFO:   The Stopping of device 'SCSI\DISK&VEN_LITEON&PROD_CV3-8D512-11\4&7A4D1DB&0&000000' was vetoed by 'SCSI\Disk&Ven_LITEON&Prod_CV3-8D512-11\4&7a4d1db&0&000000' (veto type 866339464)
+INFO:   The Stopping of device 'SCSI\DISK&VEN_LITEON&PROD_CV3-8D512-11\4&7A4D1DB&0&000000' was vetoed by 'SCSI\Disk&Ven_LITEON&Prod_CV3-8D512-11\4&7a4d1db&0&000000' (veto type 866339464)
+SUCCESS:Installation completed with code 0x0.
+INFO:   RETURN: DriverPackageInstallW  (0x0)
+INFO:   Successfull installation of 'c:\program files\stmicroelectronics\stdcfltn\stdcfltn.inf'.
+INFO:   Machine will have to be rebooted to complete installation.
+INFO:   Returning with code 0x40000001
+INFO:   05/31/2018 15:57:15
+

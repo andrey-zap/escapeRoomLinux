@@ -1,0 +1,1399 @@
+18:15:47: Searching for downlevel datastore.
+18:15:47: Found downlevel datastore at \REGISTRY\MACHINE\SYSTEM\Setup\Upgrade\NetworkDriverBackup.
+18:15:47: Copying driver keys to temporary staging keys
+18:15:47: Opening migration factories.
+18:15:47: Downlevel datastore is version 0
+18:15:47: Getting downlevel reader.
+18:15:47: Getting uplevel writer.
+18:15:47: Reading graph.
+18:15:47: Reading NetSetup binding graph.
+18:15:47: Getting a NetSetup transaction.
+18:15:47: Getting Network Interfaces.
+18:15:47: Adding Local Area Connection* 5
+18:15:47: Adding Wi-Fi
+18:15:47: Adding Local Area Connection* 10
+18:15:47: Adding Local Area Connection* 3
+18:15:47: Adding Local Area Connection* 2
+18:15:47: Adding Teredo Tunneling Pseudo-Interface
+18:15:47: Adding Local Area Connection* 1
+18:15:47: Adding Local Area Connection* 9
+18:15:47: Adding Local Area Connection* 6
+18:15:47: Adding Local Area Connection* 8
+18:15:47: Adding Local Area Connection* 4
+18:15:47: Adding Local Area Connection* 7
+18:15:47: Adding Ethernet (Kernel Debugger)
+18:15:47: Adding Bluetooth Network Connection
+18:15:47: Adding Ethernet
+18:15:47: Getting Filter Drivers
+18:15:47: Adding ms_bridge
+18:15:47: Adding ms_wfplwf_lower
+18:15:47: Adding ms_vwifi
+18:15:47: Adding ms_pacer
+18:15:47: Adding ms_wfplwf_upper
+18:15:47: Adding ms_nativewifip
+18:15:47: Adding ms_wfplwf_vswitch
+18:15:47: Adding ms_ndiscap
+18:15:47: Getting Protocol Drivers
+18:15:47: Adding ms_rdma_ndk
+18:15:47: Adding ms_tcpip
+18:15:47: Adding ms_netbt
+18:15:47: Adding ms_implat
+18:15:47: Adding ms_ndiswanlegacy
+18:15:47: Adding ms_irda
+18:15:47: Adding ms_lldp
+18:15:47: Adding ms_wanarp
+18:15:47: Adding ms_tcpip_tunnel
+18:15:47: Adding ms_tcpip6_tunnel
+18:15:47: Adding ms_tcpip6
+18:15:47: Adding ms_rspndr
+18:15:47: Adding ms_pppoe
+18:15:47: Adding ms_wanarpv6
+18:15:47: Adding ms_netbt_smb
+18:15:47: Adding ms_ndisuio
+18:15:47: Adding ms_ndiswan
+18:15:47: Adding ms_lltdio
+18:15:47: Adding netvsc_vfpp
+18:15:47: Adding ms_xboxgip
+18:15:47: Getting Service Drivers
+18:15:47: Adding ms_netbios
+18:15:47: Adding ms_server
+18:15:47: Getting Client Drivers
+18:15:47: Adding ms_msclient
+18:15:47: Getting Binding Paths
+18:15:47: Writing graph to uplevel.
+18:15:47: Creating a NetSetup Transaction for migration with environment type 9.
+18:15:47: Preparing to write to transaction.
+18:15:47: Stashing the network interfaces pre-installed with the source image.
+18:15:47: Reading uplevel NetworkSetup database.
+18:15:47: Reading NetSetup binding graph.
+18:15:47: Getting a NetSetup transaction.
+18:15:47: Getting Network Interfaces.
+18:15:47: Getting Filter Drivers
+18:15:47: Adding ms_bridge
+18:15:47: Adding ms_wfplwf_lower
+18:15:47: Adding ms_vwifi
+18:15:47: Adding ms_pacer
+18:15:47: Adding ms_wfplwf_upper
+18:15:47: Adding ms_nativewifip
+18:15:47: Adding ms_wfplwf_vswitch
+18:15:47: Adding ms_ndiscap
+18:15:47: Getting Protocol Drivers
+18:15:47: Adding ms_rdma_ndk
+18:15:47: Adding ms_tcpip
+18:15:47: Adding ms_netbt
+18:15:47: Adding ms_implat
+18:15:47: Adding ms_ndiswanlegacy
+18:15:47: Adding ms_irda
+18:15:47: Adding ms_lldp
+18:15:47: Adding ms_wanarp
+18:15:47: Adding ms_tcpip_tunnel
+18:15:47: Adding ms_tcpip6_tunnel
+18:15:47: Adding ms_tcpip6
+18:15:47: Adding ms_rspndr
+18:15:47: Adding ms_pppoe
+18:15:47: Adding ms_wanarpv6
+18:15:47: Adding ms_netbt_smb
+18:15:47: Adding ms_ndisuio
+18:15:47: Adding ms_ndiswan
+18:15:47: Adding ms_lltdio
+18:15:47: Adding netvsc_vfpp
+18:15:47: Adding ms_xboxgip
+18:15:47: Getting Service Drivers
+18:15:47: Adding ms_netbios
+18:15:47: Adding ms_server
+18:15:47: Getting Client Drivers
+18:15:47: Adding ms_msclient
+18:15:47: Getting Binding Paths
+18:15:47: Found 0 network interfaces on uplevel
+18:15:47: Deleting the pre-installed network interfaces.
+18:15:47: Migrating muxes.
+18:15:47: Migrating and merging networking interfaces from the downlevel into the uplevel.
+18:15:47: {02C2E6C0-5E17-4BE2-9E9A-BB6357D27A75} - Pre-transition IfDescr: WAN Miniport (L2TP)
+18:15:47: {02C2E6C0-5E17-4BE2-9E9A-BB6357D27A75} - Post-transition IfDescr: WAN Miniport (L2TP)
+18:15:47: {18BCDC2A-A8BA-499D-963C-399F881F0B9B} - Pre-transition IfDescr: Intel(R) Dual Band Wireless-AC 8265
+18:15:47: {18BCDC2A-A8BA-499D-963C-399F881F0B9B} - Post-transition IfDescr: Intel(R) Dual Band Wireless-AC 8265
+18:15:47: {38ED297F-EDC5-49BB-9B99-68F8932C6F29} - Pre-transition IfDescr: WAN Miniport (Network Monitor)
+18:15:47: {38ED297F-EDC5-49BB-9B99-68F8932C6F29} - Post-transition IfDescr: WAN Miniport (Network Monitor)
+18:15:47: {610B0E9B-79EE-495A-A136-2D0346519BF5} - Pre-transition IfDescr: WAN Miniport (SSTP)
+18:15:47: {610B0E9B-79EE-495A-A136-2D0346519BF5} - Post-transition IfDescr: WAN Miniport (SSTP)
+18:15:47: {82402873-F2BD-45D1-8A77-D2F3E7F11B6B} - Pre-transition IfDescr: Bluetooth Device (RFCOMM Protocol TDI)
+18:15:47: {82402873-F2BD-45D1-8A77-D2F3E7F11B6B} - Post-transition IfDescr: Bluetooth Device (RFCOMM Protocol TDI)
+18:15:47: {836EA90A-12DA-43CE-AA09-95A7B9946D8F} - Pre-transition IfDescr: Teredo Tunneling Pseudo-Interface
+18:15:47: {836EA90A-12DA-43CE-AA09-95A7B9946D8F} - Post-transition IfDescr: Teredo Tunneling Pseudo-Interface
+18:15:47: {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4} - Pre-transition IfDescr: Microsoft Wi-Fi Direct Virtual Adapter
+18:15:47: {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4} - Post-transition IfDescr: Microsoft Wi-Fi Direct Virtual Adapter
+18:15:47: {AA9F912E-4DA1-4A25-AAD0-0F05FD07662A} - Pre-transition IfDescr: WAN Miniport (IPv6)
+18:15:47: {AA9F912E-4DA1-4A25-AAD0-0F05FD07662A} - Post-transition IfDescr: WAN Miniport (IPv6)
+18:15:47: {AF608F1F-1AAC-4812-9FA9-DF0EAEC5D605} - Pre-transition IfDescr: WAN Miniport (PPTP)
+18:15:47: {AF608F1F-1AAC-4812-9FA9-DF0EAEC5D605} - Post-transition IfDescr: WAN Miniport (PPTP)
+18:15:47: {C07F0264-5A9A-4389-87F8-4FB2E6DBD199} - Pre-transition IfDescr: WAN Miniport (IP)
+18:15:47: {C07F0264-5A9A-4389-87F8-4FB2E6DBD199} - Post-transition IfDescr: WAN Miniport (IP)
+18:15:47: {DFA2A3E4-BF94-4731-BD56-9E07223F40B2} - Pre-transition IfDescr: WAN Miniport (IKEv2)
+18:15:47: {DFA2A3E4-BF94-4731-BD56-9E07223F40B2} - Post-transition IfDescr: WAN Miniport (IKEv2)
+18:15:47: {E390AC0B-79E2-4C6E-97B7-EF346C54BEF2} - Pre-transition IfDescr: WAN Miniport (PPPOE)
+18:15:47: {E390AC0B-79E2-4C6E-97B7-EF346C54BEF2} - Post-transition IfDescr: WAN Miniport (PPPOE)
+18:15:47: {E4929A94-CC1B-40BE-9F83-F8310621651F} - Pre-transition IfDescr: Microsoft Kernel Debug Network Adapter
+18:15:47: {E4929A94-CC1B-40BE-9F83-F8310621651F} - Post-transition IfDescr: Microsoft Kernel Debug Network Adapter
+18:15:47: {F12144CA-6872-4425-A8E7-83C84F9C5D5D} - Pre-transition IfDescr: Bluetooth Device (Personal Area Network)
+18:15:47: {F12144CA-6872-4425-A8E7-83C84F9C5D5D} - Post-transition IfDescr: Bluetooth Device (Personal Area Network)
+18:15:47: {FDD9ED49-B432-47D9-BC77-483666C47299} - Pre-transition IfDescr: Intel(R) Ethernet Connection (5) I219-LM
+18:15:47: {FDD9ED49-B432-47D9-BC77-483666C47299} - Post-transition IfDescr: Intel(R) Ethernet Connection (5) I219-LM
+18:15:47: Migrating Ethernet.
+18:15:47: Migrating Wi-Fi.
+18:15:47: Migrating Bluetooth Network Connection.
+18:15:47: Migrating Ethernet (Kernel Debugger).
+18:15:47: Migrating Local Area Connection* 1.
+18:15:47: Not migrating Teredo Tunneling Pseudo-Interface.
+18:15:47: Not migrating Local Area Connection* 2.
+18:15:47: Not migrating Local Area Connection* 9.
+18:15:47: Not migrating Local Area Connection* 6.
+18:15:47: Not migrating Local Area Connection* 8.
+18:15:47: Not migrating Local Area Connection* 4.
+18:15:47: Not migrating Local Area Connection* 7.
+18:15:47: Not migrating Local Area Connection* 3.
+18:15:47: Not migrating Local Area Connection* 10.
+18:15:47: Not migrating Local Area Connection* 5.
+18:15:47: Attempting to migrate Ethernet.
+18:15:47: Successfully created Ethernet.
+18:15:47: Attempting to migrate Wi-Fi.
+18:15:47: Successfully created Wi-Fi.
+18:15:47: Attempting to migrate Bluetooth Network Connection.
+18:15:47: Successfully created Bluetooth Network Connection.
+18:15:47: Attempting to migrate Ethernet (Kernel Debugger).
+18:15:47: Successfully created Ethernet (Kernel Debugger).
+18:15:47: Attempting to migrate Local Area Connection* 1.
+18:15:47: Successfully created Local Area Connection* 1.
+18:15:47: Reinstalling unmerged uplevel interfaces.
+18:15:47: Migrating non-PnP enumerated objects.
+18:15:47: Not migrating ms_msclient.
+18:15:47: Not migrating ms_bridge.
+18:15:47: Not migrating ms_wfplwf_lower.
+18:15:47: Not migrating ms_vwifi.
+18:15:47: Not migrating ms_pacer.
+18:15:47: Not migrating ms_wfplwf_upper.
+18:15:47: Not migrating ms_nativewifip.
+18:15:47: Not migrating ms_wfplwf_vswitch.
+18:15:47: Not migrating ms_ndiscap.
+18:15:47: Not migrating ms_netbios.
+18:15:47: Not migrating ms_server.
+18:15:47: Not migrating ms_rdma_ndk.
+18:15:47: Not migrating ms_tcpip.
+18:15:47: Not migrating ms_netbt.
+18:15:47: Not migrating ms_implat.
+18:15:47: Not migrating ms_ndiswanlegacy.
+18:15:47: Not migrating ms_irda.
+18:15:47: Not migrating ms_lldp.
+18:15:47: Not migrating ms_wanarp.
+18:15:47: Not migrating ms_tcpip_tunnel.
+18:15:47: Not migrating ms_tcpip6_tunnel.
+18:15:47: Not migrating ms_tcpip6.
+18:15:47: Not migrating ms_rspndr.
+18:15:47: Not migrating ms_pppoe.
+18:15:47: Not migrating ms_wanarpv6.
+18:15:47: Not migrating ms_netbt_smb.
+18:15:47: Not migrating ms_ndisuio.
+18:15:47: Not migrating ms_ndiswan.
+18:15:47: Not migrating ms_lltdio.
+18:15:47: Not migrating netvsc_vfpp.
+18:15:47: Not migrating ms_xboxgip.
+18:15:47: Not migrating ms_msclient.
+18:15:47: Not migrating ms_bridge.
+18:15:47: Not migrating ms_wfplwf_lower.
+18:15:47: Not migrating ms_vwifi.
+18:15:47: Not migrating ms_pacer.
+18:15:47: Not migrating ms_wfplwf_upper.
+18:15:47: Not migrating ms_nativewifip.
+18:15:47: Not migrating ms_wfplwf_vswitch.
+18:15:47: Not migrating ms_ndiscap.
+18:15:47: Not migrating ms_netbios.
+18:15:47: Not migrating ms_server.
+18:15:47: Not migrating ms_rdma_ndk.
+18:15:47: Not migrating ms_tcpip.
+18:15:47: Not migrating ms_netbt.
+18:15:47: Not migrating ms_implat.
+18:15:47: Not migrating ms_ndiswanlegacy.
+18:15:47: Not migrating ms_irda.
+18:15:47: Not migrating ms_lldp.
+18:15:47: Not migrating ms_wanarp.
+18:15:47: Not migrating ms_tcpip_tunnel.
+18:15:47: Not migrating ms_tcpip6_tunnel.
+18:15:47: Not migrating ms_tcpip6.
+18:15:47: Not migrating ms_rspndr.
+18:15:47: Not migrating ms_pppoe.
+18:15:47: Not migrating ms_wanarpv6.
+18:15:47: Not migrating ms_netbt_smb.
+18:15:47: Not migrating ms_ndisuio.
+18:15:47: Not migrating ms_ndiswan.
+18:15:47: Not migrating ms_lltdio.
+18:15:47: Not migrating netvsc_vfpp.
+18:15:47: Not migrating ms_xboxgip.
+18:15:47: Migrating bind paths.
+18:15:47: Migrating 162 paths.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path ms_netbt_smb,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_implat
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_rdma_ndk
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_implat
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_rdma_ndk
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_lldp
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path ms_netbt_smb,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_lldp
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_rdma_ndk
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_implat
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_pacer,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_lldp
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_rdma_ndk
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_rdma_ndk
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {C07F0264-5A9A-4389-87F8-4FB2E6DBD199},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E390AC0B-79E2-4C6E-97B7-EF346C54BEF2},ms_ndiswan
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_lldp
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_implat
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {AA9F912E-4DA1-4A25-AAD0-0F05FD07662A},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_lldp
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6_tunnel
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {C07F0264-5A9A-4389-87F8-4FB2E6DBD199},ms_wanarp
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {38ED297F-EDC5-49BB-9B99-68F8932C6F29},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_implat
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_lltdio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_pppoe
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_rspndr
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_pacer,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_upper,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_lltdio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_ndisuio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {DFA2A3E4-BF94-4731-BD56-9E07223F40B2},ms_ndiswan
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_rspndr
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_pppoe
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_ndisuio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_lltdio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_vwifi
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_ndisuio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_pppoe
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_rspndr
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {AA9F912E-4DA1-4A25-AAD0-0F05FD07662A},ms_wanarpv6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {02C2E6C0-5E17-4BE2-9E9A-BB6357D27A75},ms_ndiswan
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_ndisuio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_pppoe
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_rspndr
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_pppoe
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {610B0E9B-79EE-495A-A136-2D0346519BF5},ms_ndiswan
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_rspndr
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_ndisuio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_nativewifip,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {AF608F1F-1AAC-4812-9FA9-DF0EAEC5D605},ms_ndiswan
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_lltdio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_lltdio
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_vwifi,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_upper,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_lower,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_upper,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_lower,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_pacer,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_nativewifip,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_upper
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_upper
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {C07F0264-5A9A-4389-87F8-4FB2E6DBD199},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_lower
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_lower,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_upper,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_lower,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_pacer,ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_nativewifip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_ndiscap
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_nativewifip
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt,ms_netbios
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt,ms_msclient
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {836EA90A-12DA-43CE-AA09-95A7B9946D8F},ms_tcpip6,ms_server
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_upper
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {38ED297F-EDC5-49BB-9B99-68F8932C6F29},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {AA9F912E-4DA1-4A25-AAD0-0F05FD07662A},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_pacer
+18:15:47: Successfully migrated bind path.
+18:15:47: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_upper
+18:15:47: Successfully migrated bind path.
+18:15:47: Committing the NetSetup transaction.
+18:15:47: Migration succeeded.
+18:15:47: Attempting to clean up left-over driver staging keys.
+15:55:54: Searching for downlevel datastore.
+15:55:54: Found downlevel datastore at \REGISTRY\MACHINE\SYSTEM\Setup\Upgrade\NetworkDriverBackup
+15:55:54: Copying driver keys to temporary staging keys
+15:55:54: Opening migration factories.
+15:55:54: Downlevel datastore is version 0
+15:55:54: Getting downlevel reader.
+15:55:54: Getting uplevel writer.
+15:55:54: Reading graph.
+15:55:54: Reading NetSetup binding graph.
+15:55:54: Getting a NetSetup transaction.
+15:55:54: Getting Network Interfaces.
+15:55:54: Adding Wi-Fi
+15:55:54: Adding Local Area Connection* 7
+15:55:54: Adding Local Area Connection* 11
+15:55:54: Adding Ethernet 2
+15:55:54: Adding Local Area Connection* 10
+15:55:54: Adding Local Area Connection* 3
+15:55:54: Adding Local Area Connection* 4
+15:55:54: Adding Local Area Connection* 2
+15:55:54: Adding Local Area Connection* 1
+15:55:54: Adding Local Area Connection* 9
+15:55:54: Adding Local Area Connection* 6
+15:55:54: Adding Local Area Connection* 8
+15:55:54: Adding Ethernet (Kernel Debugger)
+15:55:54: Adding Bluetooth Network Connection
+15:55:54: Adding Local Area Connection* 5
+15:55:54: Adding Ethernet
+15:55:54: Getting Filter Drivers
+15:55:54: Adding ms_bridge
+15:55:54: Adding ms_wfplwf_lower
+15:55:54: Adding ms_vwifi
+15:55:54: Adding MS_NdisLwf
+15:55:54: Adding ms_pacer
+15:55:54: Adding ms_wfplwf_upper
+15:55:54: Adding ms_nativewifip
+15:55:54: Adding ms_wfplwf_vswitch
+15:55:54: Adding ms_ndiscap
+15:55:54: Getting Protocol Drivers
+15:55:54: Adding ms_rdma_ndk
+15:55:54: Adding ms_tcpip
+15:55:54: Adding ms_netbt
+15:55:54: Adding ms_implat
+15:55:54: Adding ms_ndiswanlegacy
+15:55:54: Adding ms_irda
+15:55:54: Adding ms_lldp
+15:55:54: Adding ms_wanarp
+15:55:54: Adding ms_tcpip_tunnel
+15:55:54: Adding ms_tcpip6_tunnel
+15:55:54: Adding ms_tcpip6
+15:55:54: Adding ms_rspndr
+15:55:54: Adding ms_pppoe
+15:55:54: Adding ms_wanarpv6
+15:55:54: Adding ms_netbt_smb
+15:55:54: Adding ms_ndisuio
+15:55:54: Adding ms_ndiswan
+15:55:54: Adding ms_lltdio
+15:55:54: Adding netvsc_vfpp
+15:55:54: Adding ms_xboxgip
+15:55:54: Getting Service Drivers
+15:55:54: Adding ms_netbios
+15:55:54: Adding ms_server
+15:55:54: Getting Client Drivers
+15:55:54: Adding ms_msclient
+15:55:54: Getting Binding Paths
+15:55:54: Writing graph to uplevel.
+15:55:54: Creating a NetSetup Transaction for migration.
+15:55:54: Preparing to write to transaction.
+15:55:54: Stashing the network interfaces pre-installed with the source image.
+15:55:54: Reading uplevel NetworkSetup database.
+15:55:54: Reading NetSetup binding graph.
+15:55:54: Getting a NetSetup transaction.
+15:55:54: Getting Network Interfaces.
+15:55:54: Adding 6to4 Adapter
+15:55:54: Adding Microsoft IP-HTTPS Platform Interface
+15:55:54: Adding Teredo Tunneling Pseudo-Interface
+15:55:54: Getting Filter Drivers
+15:55:54: Adding ms_bridge
+15:55:54: Adding ms_wfplwf_lower
+15:55:54: Adding ms_vwifi
+15:55:54: Adding ms_pacer
+15:55:54: Adding ms_wfplwf_upper
+15:55:54: Adding ms_nativewifip
+15:55:54: Adding ms_wfplwf_vswitch
+15:55:54: Adding ms_ndiscap
+15:55:54: Getting Protocol Drivers
+15:55:54: Adding ms_rdma_ndk
+15:55:54: Adding ms_tcpip
+15:55:54: Adding ms_netbt
+15:55:54: Adding ms_implat
+15:55:54: Adding ms_ndiswanlegacy
+15:55:54: Adding ms_irda
+15:55:54: Adding ms_lldp
+15:55:54: Adding ms_wanarp
+15:55:54: Adding ms_tcpip_tunnel
+15:55:54: Adding ms_tcpip6_tunnel
+15:55:54: Adding ms_tcpip6
+15:55:54: Adding ms_rspndr
+15:55:54: Adding ms_pppoe
+15:55:54: Adding ms_wanarpv6
+15:55:54: Adding ms_netbt_smb
+15:55:54: Adding ms_ndisuio
+15:55:54: Adding ms_ndiswan
+15:55:54: Adding ms_lltdio
+15:55:54: Adding netvsc_vfpp
+15:55:54: Adding ms_xboxgip
+15:55:54: Getting Service Drivers
+15:55:54: Adding ms_netbios
+15:55:54: Adding ms_server
+15:55:54: Getting Client Drivers
+15:55:54: Adding ms_msclient
+15:55:54: Getting Binding Paths
+15:55:54: Found 3 network interfaces on uplevel
+15:55:54: Deleting the pre-installed network interfaces.
+15:55:54: Temporarily uninstalling 6to4 Adapter
+15:55:54: Failed to uninstall 6to4 Adapter with hr=0x80070057
+15:55:54: Temporarily uninstalling Microsoft IP-HTTPS Platform Interface
+15:55:54: Failed to uninstall Microsoft IP-HTTPS Platform Interface with hr=0x80070057
+15:55:54: Temporarily uninstalling Teredo Tunneling Pseudo-Interface
+15:55:54: Failed to uninstall Teredo Tunneling Pseudo-Interface with hr=0x80070057
+15:55:54: Migrating muxes.
+15:55:54: Migrating and merging networking interfaces from the downlevel into the uplevel.
+15:55:54: {18BCDC2A-A8BA-499D-963C-399F881F0B9B} - Pre-transition IfDescr: Intel(R) Dual Band Wireless-AC 8265
+15:55:54: {18BCDC2A-A8BA-499D-963C-399F881F0B9B} - Post-transition IfDescr: Intel(R) Dual Band Wireless-AC 8265
+15:55:54: {1DFB12D2-0912-43DB-B096-0F92F912BB8D} - Pre-transition IfDescr: WAN Miniport (PPTP)
+15:55:54: {1DFB12D2-0912-43DB-B096-0F92F912BB8D} - Post-transition IfDescr: WAN Miniport (PPTP)
+15:55:54: {2E51B318-681C-4883-91C8-B628C782B532} - Pre-transition IfDescr: WAN Miniport (Network Monitor)
+15:55:54: {2E51B318-681C-4883-91C8-B628C782B532} - Post-transition IfDescr: WAN Miniport (Network Monitor)
+15:55:54: {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC} - Pre-transition IfDescr: Check Point Virtual Network Adapter For Endpoint VPN Client
+15:55:54: {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC} - Post-transition IfDescr: Check Point Virtual Network Adapter For Endpoint VPN Client
+15:55:54: {4BA05CE9-1669-455D-82F5-C8F117666DF7} - Pre-transition IfDescr: WAN Miniport (IPv6)
+15:55:54: {4BA05CE9-1669-455D-82F5-C8F117666DF7} - Post-transition IfDescr: WAN Miniport (IPv6)
+15:55:54: {54B68195-22B2-4064-9735-2D6720C1FC82} - Pre-transition IfDescr: Microsoft Teredo Tunneling Adapter
+15:55:54: {54B68195-22B2-4064-9735-2D6720C1FC82} - Post-transition IfDescr: Microsoft Teredo Tunneling Adapter
+15:55:54: {77E2F8DA-2C52-4B79-A1EF-AE59832B3B7D} - Pre-transition IfDescr: WAN Miniport (SSTP)
+15:55:54: {77E2F8DA-2C52-4B79-A1EF-AE59832B3B7D} - Post-transition IfDescr: WAN Miniport (SSTP)
+15:55:54: {82402873-F2BD-45D1-8A77-D2F3E7F11B6B} - Pre-transition IfDescr: Bluetooth Device (RFCOMM Protocol TDI)
+15:55:54: {82402873-F2BD-45D1-8A77-D2F3E7F11B6B} - Post-transition IfDescr: Bluetooth Device (RFCOMM Protocol TDI)
+15:55:54: {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4} - Pre-transition IfDescr: Microsoft Wi-Fi Direct Virtual Adapter
+15:55:54: {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4} - Post-transition IfDescr: Microsoft Wi-Fi Direct Virtual Adapter
+15:55:54: {BCF71DE6-1C6F-4E81-8C13-D750D812AEA4} - Pre-transition IfDescr: WAN Miniport (IP)
+15:55:54: {BCF71DE6-1C6F-4E81-8C13-D750D812AEA4} - Post-transition IfDescr: WAN Miniport (IP)
+15:55:54: {D3AAD90D-3B53-49CD-82D4-D672D1C65472} - Pre-transition IfDescr: WAN Miniport (L2TP)
+15:55:54: {D3AAD90D-3B53-49CD-82D4-D672D1C65472} - Post-transition IfDescr: WAN Miniport (L2TP)
+15:55:54: {E126B5A5-89D1-4BD6-8A40-A1783E1176A0} - Pre-transition IfDescr: WAN Miniport (PPPOE)
+15:55:54: {E126B5A5-89D1-4BD6-8A40-A1783E1176A0} - Post-transition IfDescr: WAN Miniport (PPPOE)
+15:55:54: {E4929A94-CC1B-40BE-9F83-F8310621651F} - Pre-transition IfDescr: Microsoft Kernel Debug Network Adapter
+15:55:54: {E4929A94-CC1B-40BE-9F83-F8310621651F} - Post-transition IfDescr: Microsoft Kernel Debug Network Adapter
+15:55:54: {F12144CA-6872-4425-A8E7-83C84F9C5D5D} - Pre-transition IfDescr: Bluetooth Device (Personal Area Network)
+15:55:54: {F12144CA-6872-4425-A8E7-83C84F9C5D5D} - Post-transition IfDescr: Bluetooth Device (Personal Area Network)
+15:55:54: {FB99081D-381E-435E-9060-BBA0602EF27D} - Pre-transition IfDescr: WAN Miniport (IKEv2)
+15:55:54: {FB99081D-381E-435E-9060-BBA0602EF27D} - Post-transition IfDescr: WAN Miniport (IKEv2)
+15:55:54: {FDD9ED49-B432-47D9-BC77-483666C47299} - Pre-transition IfDescr: Intel(R) Ethernet Connection (5) I219-LM
+15:55:54: {FDD9ED49-B432-47D9-BC77-483666C47299} - Post-transition IfDescr: Intel(R) Ethernet Connection (5) I219-LM
+15:55:54: Migrating Wi-Fi.
+15:55:54: Migrating Ethernet.
+15:55:54: Migrating Bluetooth Network Connection.
+15:55:54: Migrating Ethernet 2.
+15:55:54: Migrating Ethernet (Kernel Debugger).
+15:55:54: Migrating Local Area Connection* 1.
+15:55:54: Not migrating Local Area Connection* 4.
+15:55:54: Not migrating Local Area Connection* 2.
+15:55:54: Not migrating Local Area Connection* 3.
+15:55:54: Not migrating Local Area Connection* 9.
+15:55:54: Not migrating Local Area Connection* 6.
+15:55:54: Not migrating Local Area Connection* 8.
+15:55:54: Not migrating Local Area Connection* 10.
+15:55:54: Not migrating Local Area Connection* 11.
+15:55:54: Not migrating Local Area Connection* 5.
+15:55:54: Not migrating Local Area Connection* 7.
+15:55:54: Attempting to migrate Wi-Fi.
+15:55:54: Successfully created Wi-Fi.
+15:55:54: Attempting to migrate Ethernet.
+15:55:54: Successfully created Ethernet.
+15:55:54: Attempting to migrate Bluetooth Network Connection.
+15:55:54: Successfully created Bluetooth Network Connection.
+15:55:54: Attempting to migrate Ethernet 2.
+15:55:54: Successfully created Ethernet 2.
+15:55:54: Attempting to migrate Ethernet (Kernel Debugger).
+15:55:54: Successfully created Ethernet (Kernel Debugger).
+15:55:54: Attempting to migrate Local Area Connection* 1.
+15:55:54: Successfully created Local Area Connection* 1.
+15:55:54: Reinstalling unmerged uplevel interfaces.
+15:55:54: Migrating non-PnP enumerated objects.
+15:55:54: Not migrating ms_msclient.
+15:55:54: Migrating MS_NdisLwf.
+15:55:54: Not migrating ms_wfplwf_lower.
+15:55:54: Not migrating ms_vwifi.
+15:55:54: Not migrating ms_bridge.
+15:55:54: Not migrating ms_pacer.
+15:55:54: Not migrating ms_wfplwf_upper.
+15:55:54: Not migrating ms_nativewifip.
+15:55:54: Not migrating ms_wfplwf_vswitch.
+15:55:54: Not migrating ms_ndiscap.
+15:55:54: Attempting to re-install MS_NdisLwf via its INF
+15:55:54: Not migrating ms_netbios.
+15:55:54: Not migrating ms_server.
+15:55:54: Not migrating ms_rdma_ndk.
+15:55:54: Not migrating ms_tcpip.
+15:55:54: Not migrating ms_netbt.
+15:55:54: Not migrating ms_implat.
+15:55:54: Not migrating ms_ndiswanlegacy.
+15:55:54: Not migrating ms_irda.
+15:55:54: Not migrating ms_lldp.
+15:55:54: Not migrating ms_wanarp.
+15:55:54: Not migrating ms_tcpip_tunnel.
+15:55:54: Not migrating ms_tcpip6_tunnel.
+15:55:54: Not migrating ms_tcpip6.
+15:55:54: Not migrating ms_rspndr.
+15:55:54: Not migrating ms_pppoe.
+15:55:54: Not migrating ms_wanarpv6.
+15:55:54: Not migrating ms_netbt_smb.
+15:55:54: Not migrating ms_ndisuio.
+15:55:54: Not migrating ms_ndiswan.
+15:55:54: Not migrating ms_lltdio.
+15:55:54: Not migrating netvsc_vfpp.
+15:55:54: Not migrating ms_xboxgip.
+15:55:54: Not migrating ms_msclient.
+15:55:54: Merging MS_NdisLwf.
+15:55:54: Not migrating ms_wfplwf_lower.
+15:55:54: Not migrating ms_vwifi.
+15:55:54: Not migrating ms_bridge.
+15:55:54: Not migrating ms_pacer.
+15:55:54: Not migrating ms_wfplwf_upper.
+15:55:54: Not migrating ms_nativewifip.
+15:55:54: Not migrating ms_wfplwf_vswitch.
+15:55:54: Not migrating ms_ndiscap.
+15:55:54: Not migrating ms_netbios.
+15:55:54: Not migrating ms_server.
+15:55:54: Not migrating ms_rdma_ndk.
+15:55:54: Not migrating ms_tcpip.
+15:55:54: Not migrating ms_netbt.
+15:55:54: Not migrating ms_implat.
+15:55:54: Not migrating ms_ndiswanlegacy.
+15:55:54: Not migrating ms_irda.
+15:55:54: Not migrating ms_lldp.
+15:55:54: Not migrating ms_wanarp.
+15:55:54: Not migrating ms_tcpip_tunnel.
+15:55:54: Not migrating ms_tcpip6_tunnel.
+15:55:54: Not migrating ms_tcpip6.
+15:55:54: Not migrating ms_rspndr.
+15:55:54: Not migrating ms_pppoe.
+15:55:54: Not migrating ms_wanarpv6.
+15:55:54: Not migrating ms_netbt_smb.
+15:55:54: Not migrating ms_ndisuio.
+15:55:54: Not migrating ms_ndiswan.
+15:55:54: Not migrating ms_lltdio.
+15:55:54: Not migrating netvsc_vfpp.
+15:55:54: Not migrating ms_xboxgip.
+15:55:54: Migrating bind paths.
+15:55:54: Migrating 204 paths.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_implat
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path ms_netbt_smb,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {BCF71DE6-1C6F-4E81-8C13-D750D812AEA4},ms_wanarp
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_implat
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_rdma_ndk
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_implat
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},MS_NdisLwf
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_nativewifip,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4BA05CE9-1669-455D-82F5-C8F117666DF7},MS_NdisLwf
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_pacer,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_rdma_ndk
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_lower
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_lldp
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path ms_netbt_smb,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_lldp
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_rdma_ndk
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_implat
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_rdma_ndk
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},MS_NdisLwf
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_pacer,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_lldp
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_rdma_ndk
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_lldp
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_rdma_ndk
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6,ms_msclient
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_lldp
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_implat
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_lower
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_lldp
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},MS_NdisLwf,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6_tunnel
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_implat
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_rspndr
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FB99081D-381E-435E-9060-BBA0602EF27D},ms_ndiswan
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_lltdio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {1DFB12D2-0912-43DB-B096-0F92F912BB8D},ms_ndiswan
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_pppoe
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_lltdio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_pacer,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_lltdio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_ndisuio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_rspndr
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_pacer
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_pppoe
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_ndisuio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_lltdio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_ndisuio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_vwifi
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {2E51B318-681C-4883-91C8-B628C782B532},ms_pacer
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_rspndr
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_pppoe
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4BA05CE9-1669-455D-82F5-C8F117666DF7},ms_wanarpv6
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_ndisuio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_pppoe
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_rspndr
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {2E51B318-681C-4883-91C8-B628C782B532},MS_NdisLwf
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {77E2F8DA-2C52-4B79-A1EF-AE59832B3B7D},ms_ndiswan
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E126B5A5-89D1-4BD6-8A40-A1783E1176A0},ms_ndiswan
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_ndisuio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_pppoe
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_rspndr
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_pppoe
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_rspndr
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {D3AAD90D-3B53-49CD-82D4-D672D1C65472},ms_ndiswan
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_ndisuio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_lltdio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_lltdio
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6,ms_netbt
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip6,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_wfplwf_upper
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_vwifi,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},MS_NdisLwf,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6,ms_server
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_upper,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_lower,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_upper,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_lower,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_pacer,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_nativewifip,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},MS_NdisLwf,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_upper
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_pacer
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_wfplwf_lower,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_wfplwf_upper,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_wfplwf_upper
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},MS_NdisLwf,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_lower
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_wfplwf_lower
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {2E51B318-681C-4883-91C8-B628C782B532},ms_wfplwf_lower
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip6,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {BCF71DE6-1C6F-4E81-8C13-D750D812AEA4},ms_wfplwf_lower
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6,ms_netbt,ms_server
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_lower
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4BA05CE9-1669-455D-82F5-C8F117666DF7},ms_wfplwf_lower
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},MS_NdisLwf
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {54B68195-22B2-4064-9735-2D6720C1FC82},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_pacer
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_lower,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_wfplwf_upper,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip6,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_upper,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_lower,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_pacer,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},MS_NdisLwf,ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {F12144CA-6872-4425-A8E7-83C84F9C5D5D},ms_tcpip6,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_nativewifip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_ndiscap
+15:55:54: bind path is disabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_nativewifip
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_tcpip,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4BA05CE9-1669-455D-82F5-C8F117666DF7},ms_pacer
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {4A7D4A94-82BD-4645-A0EC-B0C0167B88BC},ms_tcpip,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},ms_tcpip6,ms_netbt,ms_msclient
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {FDD9ED49-B432-47D9-BC77-483666C47299},MS_NdisLwf
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_tcpip6,ms_netbt,ms_server
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {BCF71DE6-1C6F-4E81-8C13-D750D812AEA4},ms_pacer
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_tcpip,ms_netbt,ms_netbios
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {BCF71DE6-1C6F-4E81-8C13-D750D812AEA4},MS_NdisLwf
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},MS_NdisLwf
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},MS_NdisLwf
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_pacer
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {E4929A94-CC1B-40BE-9F83-F8310621651F},ms_wfplwf_upper
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {18BCDC2A-A8BA-499D-963C-399F881F0B9B},ms_pacer
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Migrating bind path {9A74C948-BBBE-4A5B-92B5-A8E3A9DF9BE4},ms_wfplwf_upper
+15:55:54: bind path is enabled.
+15:55:54: Successfully migrated bind path.
+15:55:54: Committing the NetSetup transaction.
+15:55:54: Migration succeeded.
+15:55:54: Attempting to clean up left-over driver staging keys.

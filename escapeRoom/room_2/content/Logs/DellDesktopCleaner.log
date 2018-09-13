@@ -1,0 +1,12 @@
+[OS-DEV] Dell Desktop Cleaner Started...
+DTExceptions file was *NOT* found.
+----------------------------------------------------
+The path to Desktop is: C:\Users\Administrator\Desktop
+File Found: desktop.ini
+match: DESKTOP.INI
+----------------------------------------------------
+----------------------------------------------------
+The path to Desktop is: C:\Users\Public\Desktop
+File Found: desktop.ini
+match: DESKTOP.INI
+----------------------------------------------------
