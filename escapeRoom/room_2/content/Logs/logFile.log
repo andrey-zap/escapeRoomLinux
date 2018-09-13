@@ -1,8 +1,0 @@
-10:37:32.275  219  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-10:41:44.647  250  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-10:42:16.038  219  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-10:43:27.265  250  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-10:47:57.018  250  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-12:54:42.153  254  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-13:06:29.314  277  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite
-14:59:36.740  261  [main] DEBUG c.a.a.batch.impl.AbstractBatchTest - before suite

@@ -1,3 +1,0 @@
-﻿(TID#0x000010b8) 2018-Feb-15 08:45:44.933 INFO: [Process] #6008 - SQL statement 'truncate table FF_TRX_FIRST_RECV_VERSIONS'.
-(TID#0x000010b8) 2018-Feb-15 08:45:44.984 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=QA_IFM_1_APP_owner;PWD=Actimize1;DATABASE=QA_IFM_1_APP;'.
-(TID#0x00001110) <log ended>

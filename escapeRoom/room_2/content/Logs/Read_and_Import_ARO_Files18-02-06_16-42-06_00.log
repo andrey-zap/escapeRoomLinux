@@ -1,4 +1,0 @@
-﻿2018-Feb-06 16:42:06.993 INFO: [Process: Read and Import ARO Files] #4106 - Initializing loop with '1' concurrent processes.
-2018-Feb-06 16:42:07.003 INFO: [Process: Read and Import ARO Files] #4107 - Summary: 0 processes completed successfully. 0 processes completed with errors. 0 processes failed to initialize. 0 processes failed.
-2018-Feb-06 16:42:07.003 INFO: [Process: Read and Import ARO Files] #4102 - Execution ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Read_and_Import_ARO_Files18-02-06_16-42-06_00.log'
-<log ended>

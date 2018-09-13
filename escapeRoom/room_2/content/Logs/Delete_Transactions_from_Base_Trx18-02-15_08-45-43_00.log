@@ -1,4 +1,0 @@
-﻿2018-Feb-15 08:45:43.195 INFO: [Process] #6008 - SQL statement 'truncate table BASE_TRX;
-'.
-2018-Feb-15 08:45:43.241 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=QA_IFM_1_APP_owner;PWD=Actimize1;DATABASE=QA_IFM_1_APP;'.
-<log ended>

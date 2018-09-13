@@ -1,5 +1,0 @@
-fileName	bulkId	startProcessingTime	timeUntilResponseMillis	totalProcessingTimeMillis	status
-03. Row 1- IAT -TC22 - Outgoing- FF - USD to USD - 2 bulk in  1 physical file.ach	3000333	2018-Jan-03 10:08:57.782	371	2484	OK
-03. Row 1- IAT -TC22 - Outgoing- FF - USD to USD - 2 bulk in  1 physical file.ach	3000022	2018-Jan-03 10:09:00.386	18	44	OK
-File 1- AEE bulk level _1 bulk 2 Entries in 1 LG.xml	BTRX_2	2018-Jan-03 10:47:36.000	687	1988	OK
-Trx1 - File 1- 1 bulk 2 Entries in 1 LG.xml	BTRX_2	2018-Jan-03 11:08:18.433	146	1668	OK

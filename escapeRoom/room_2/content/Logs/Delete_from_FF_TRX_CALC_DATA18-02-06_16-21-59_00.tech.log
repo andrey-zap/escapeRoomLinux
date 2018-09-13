@@ -1,3 +1,0 @@
-﻿(TID#0x0000130c) 2018-Feb-06 16:21:59.455 INFO: [Process] #6008 - SQL statement 'truncate table FF_TRX_CALC_DATA'.
-(TID#0x0000130c) 2018-Feb-06 16:21:59.459 INFO: [Process] #6009 - Database connection type 'odbc'. Connection string: 'DSN=DATABASE;UID=QA_IFM_1_APP_owner;PWD=Actimize1;DATABASE=QA_IFM_1_APP;'.
-(TID#0x00000abc) <log ended>

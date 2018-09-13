@@ -1,8 +1,0 @@
-﻿2018-Feb-14 17:33:40.154 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{  }'
-2018-Feb-14 17:33:40.155 INFO: [ExecutionPlanTask] Process #4118 - Condition block 'IsWindows' started.
-2018-Feb-14 17:33:40.157 INFO: [ExecutionPlanTask] Process #4119 - Condition block 'IsWindows' ended. Result was 'true'.
-2018-Feb-14 17:33:40.166 INFO: [ExecutionPlanTask: Delete_AIS_Logs] Process #4018 - New process 'Delete_AIS_Logs' has been launched. Location: [Execution plan:Delete_AIS_Logs\Delete_AIS_Logs]
-2018-Feb-14 17:33:40.166 INFO: [ExecutionPlanTask: Delete_AIS_Logs] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/Delete_AIS_Logs18-02-14_17-33-40_00.log'. Location: [Execution plan:Delete_AIS_Logs\Delete_AIS_Logs]
-2018-Feb-14 17:33:41.034 INFO: [ExecutionPlanTask: Delete_AIS_Logs] Process #4025 - Process Delete_AIS_Logs ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/Delete_AIS_Logs18-02-14_17-33-40_00.log' Location: [Execution plan:Delete_AIS_Logs\Delete_AIS_Logs]
-2018-Feb-14 17:33:41.035 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-14_17-32-00_00/Run_Delete_AIS_Logs18-02-14_17-33-40_00.log'
-<log ended>

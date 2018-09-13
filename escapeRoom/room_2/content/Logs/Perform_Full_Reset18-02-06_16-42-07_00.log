@@ -1,9 +1,0 @@
-﻿2018-Feb-06 16:42:07.331 INFO: [ExecutionPlanTask] Process #4046 - Activation arguments - '{ areYouSure=TRUE, batchName=ALL }'
-2018-Feb-06 16:42:07.334 INFO: [ExecutionPlanTask] Process #4118 - Condition block 'Check that areYouSure is true' started.
-2018-Feb-06 16:42:07.337 INFO: [ExecutionPlanTask] Process #4119 - Condition block 'Check that areYouSure is true' ended. Result was 'true'.
-2018-Feb-06 16:42:07.340 INFO: [ExecutionPlanTask: Run IDB_runRollbackData] Process #4027 - Execution plan process execution plan name: 'IDB_runRollbackData'. Location: [Execution plan:IDB_performFullReset_internal\[Run IDB_runRollbackData]]
-2018-Feb-06 16:42:07.426 INFO: [ExecutionPlanTask: Run IDB_runRollbackData] Process #4018 - New process 'Run IDB_runRollbackData' has been launched. Location: [Execution plan:IDB_performFullReset_internal\[Run IDB_runRollbackData]]
-2018-Feb-06 16:42:07.435 INFO: [ExecutionPlanTask: Run IDB_runRollbackData] Process #4024 - Process log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_IDB_runRollbackData18-02-06_16-42-07_00.log'. Location: [Execution plan:IDB_performFullReset_internal\[Run IDB_runRollbackData]]
-2018-Feb-06 16:42:17.904 INFO: [ExecutionPlanTask: Run IDB_runRollbackData] Process #4025 - Process Run IDB_runRollbackData ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Run_IDB_runRollbackData18-02-06_16-42-07_00.log' Location: [Execution plan:IDB_performFullReset_internal\[Run IDB_runRollbackData]]
-2018-Feb-06 16:42:17.905 INFO: [ExecutionPlanTask] Process #4043 - Execution plan ended with status 'Finished successfully'. Log file name: 'C:/Actimize/4.24.0.51/Instances/actimize_server_1/logs/Run_E2E_Regression18-02-06_16-21-45_00/Perform_Full_Reset18-02-06_16-42-07_00.log'
-<log ended>
