@@ -9,14 +9,15 @@ sudo adduser escape sudo
 
 echo "Preparation process COMPLETED"
 
-#room1
+#room1 preparation
 // ls -lah sort all files and get phrase from first letters of each one
 // read permissions to all only
 
 chmod -R agou-w ~/escapeRoom/room_1/
 
-#room2
+#room2 preparation
 
+chmod -R agou-w ~/escapeRoom/room_2/
 //edit readme
 //create white_rabbit user with id 521
 
