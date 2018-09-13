@@ -4,4 +4,9 @@ This is a script creature, every script creature has a tail '.sh'
 You should read about them before touching one of those things!
 The creature is locked with a key, this is how to release it:
 
-To release the creature you need to count all the words in the song file!
+To release the creature you need to get the key to open the encrypted cage:
+1. The key is the number of all the words in the song file! you can count them one by one...or...read about WC
+2. use vim to open the creature.sh
+3. enter the key
+4.disable encryption with ':set key=' command (setting the encrypt key to empty)
+5. save the new file unencrypted
