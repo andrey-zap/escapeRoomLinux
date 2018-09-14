@@ -35,7 +35,7 @@ chmod -R agou-x escapeRoom/room_3/creature.sh
 
 chmod -R agou-w escapeRoom/room_4/
 chmod -R agou-r escapeRoom/room_4/crazyText
-#
+#PhenixFire.jar
 #sed  -e 's/zing/H/g' crazyText     -i to overwrite
 #sed  -e 's/zing/H/g' crazyText
 #sed  -e 's/zing/H/g' crazyText
@@ -43,3 +43,14 @@ chmod -R agou-r escapeRoom/room_4/crazyText
 #key to key file : linuxisstillfun
 
 #room number 5 : pass to readme crazyroom
+chmod -R agou-w escapeRoom/room_4/
+chmod -R agou-x escapeRoom/room_5/PhenixFire.jar
+
+#room number 6 : pass to readme fireofthephenix
+
+chmod -R agou-w escapeRoom/room_6/
+
+
+
+
+#
