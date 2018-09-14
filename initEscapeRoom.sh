@@ -34,3 +34,12 @@ chmod -R agou-x escapeRoom/room_3/creature.sh
 #room4 prep pass to readme: linuxIsFun
 
 chmod -R agou-w escapeRoom/room_4/
+chmod -R agou-r escapeRoom/room_4/crazyText
+#
+#sed  -e 's/zing/H/g' crazyText     -i to overwrite
+#sed  -e 's/zing/H/g' crazyText
+#sed  -e 's/zing/H/g' crazyText
+
+#key to key file : linuxisstillfun
+
+#room number 5 : pass to readme crazyroom
