@@ -48,9 +48,16 @@ chmod -R agou-x escapeRoom/room_5/PhenixFire.jar
 
 #room number 6 : pass to readme fireofthephenix
 
-chmod -R agou-w escapeRoom/room_6/
-
-
+#script to run:
+#!/bin/bash
+#for ((a=1; a <= 100 ; a++))
+#do
+#    if [  $(($a%7)) == 0 ]; then
+#    echo "7" >> check.txt
+#  else
+#   echo "$a" >> check.txt
+#fi
+#done
 
 
 #
