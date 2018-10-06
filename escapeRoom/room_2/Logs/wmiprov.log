@@ -64,7 +64,7 @@
 (Fri Aug 31 15:07:55 2018.611510906) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
  (Fri Aug 31 15:07:55 2018.611510906) : WDMClassesOfDriver.ClassName="MSNdis_WmiReceiveScaleCapabilities",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30681844,LowDateTime=2484628823(Fri Aug 31 15:07:55 2018.611510906) : 
 (Fri Aug 31 15:07:55 2018.611510921) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
-jeckie3:| || |_ / /  __) |
+jackie3:| || |_ / /  __) |
  (Fri Aug 31 15:07:55 2018.611510921) : WDMClassesOfDriver.ClassName="AntiStarvationBoost",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30681844,LowDateTime=2484628823(Fri Aug 31 15:07:55 2018.611510921) : 
 (Fri Aug 31 15:07:55 2018.611510937) : Tried to delete instance but couldn't, return code: 0x80041003 for instance: 
  (Fri Aug 31 15:07:55 2018.611510937) : WDMClassesOfDriver.ClassName="MSMCAInfo_RawMCAData",Driver="C:\\WINDOWS\\system32\\en-US\\kernelbase.dll.mui[MofResourceName]",HighDateTime=30681844,LowDateTime=2484628823(Fri Aug 31 15:07:55 2018.611510937) : 

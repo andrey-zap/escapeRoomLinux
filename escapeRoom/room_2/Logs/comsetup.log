@@ -64,7 +64,7 @@ COM+[6:20:40]: Processing TID_APPLICATION table
 COM+[6:20:40]: Processing tidCOMSERVICES_SERVICES table
 COM+[6:20:40]: Creating COM+ components
 COM+[6:20:40]: Processing tidCOMSERVICES_CLASSES_INTERNAL table
-jeckie4:|__   _/ /  / __/
+jackie4:|__   _/ /  / __/
 COM+[6:20:40]: Setting COM+ component class descriptions
 COM+[6:20:40]: Creating COM+ custom activators
 COM+[6:20:40]: Processing TID_CUSTOMACTIVATOR table

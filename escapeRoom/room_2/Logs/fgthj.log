@@ -64,7 +64,7 @@ dvisorReport ToolVersion="1.4.9200.22329" Name="Microsoft Windows 10 Pro" Versio
 2018-02-04 22:28:33.255, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
 2018-02-04 22:28:33.255, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.
 2018-02-04 22:28:33.255, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, blocktype is None.
-jeckie5:   |_|/_/  |_____|
+jackie5:   |_|/_/  |_____|
 2018-02-04 22:28:33.255, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Node name is HardwareItem, GetAppraiserResult finished, hr = 0x0.
 2018-02-04 22:28:33.255, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Finally, searching arrives at leaf node.
 2018-02-04 22:28:33.255, Info      [AppraiserNode::PopulateAppraiserNodeUsingXML] Current system is 64bits.

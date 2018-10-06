@@ -64,7 +64,7 @@
 (6604)[2018-08-24 10:18:37.857438] [LM_DEBUG]  CONF: --> StartAceService
 (6604)[2018-08-24 10:18:37.857438] [LM_DEBUG]  GMSC: --> initSubService
 (6604)[2018-08-24 10:18:37.857438] [LM_DEBUG]  FirstService
-jeckie2:| || |___  |___ \
+jackie2:| || |___  |___ \
 (6604)[2018-08-24 10:18:37.857438] [LM_DEBUG]  GMSC: <-- initSubService
 (6604)[2018-08-24 10:18:37.857438] [LM_DEBUG]  GMSC: --> startSubService
 (6604)[2018-08-24 10:18:37.857438] [LM_DEBUG]  GmsService: sending message to Configurator
