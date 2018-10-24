@@ -3,7 +3,7 @@
 echo "root:escaperoom" | chpasswd
 echo "escape:escape" | chpasswd
 apt-get update
-apt-get install -y apt-utils vim sudo cowsay
+apt-get install -y apt-utils vim sudo cowsay lolcat
 sudo adduser escape sudo
 
 echo "Preparation process COMPLETED"
@@ -73,3 +73,16 @@ useradd -M -s /bin/bash testUser
 chmod -R agou-w escapeRoom/room_8/
 #ll | grep "omri 38" | awk '{print $9}' | sed s/^dmc//g | sed s/.jpg//g | sort
 #
+
+
+#room_9 :
+#!/bin/bash
+#if [ "$1" = "" ]; then
+#    echo "argument is not a number"
+#else
+ #   key="$1"
+ #   for (( n=0; n< $key; n++ ))
+ #       do
+ #        echo "I like to bugiWugi every day!"
+ #        done
+#fi
