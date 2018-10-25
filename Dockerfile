@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:16.04
 RUN useradd -ms /bin/bash escape
 WORKDIR /home/escape
 COPY escapeRoom escapeRoom
