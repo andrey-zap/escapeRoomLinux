@@ -13,20 +13,23 @@ echo "Preparation process COMPLETED"
 # ls -lah sort all files by size and get pass from first letters of each one
 # read permissions to all only
 
-chmod -R agou-w escapeRoom/room_1
+chmod -R agou+rw escapeRoom/room_1
 
 #room2 preparation , pass to readme : whatsupman
 
-chmod -R agou-w escapeRoom/room_2/
+chmod -R agou+rw escapeRoom/room_2/
 
 #create white_rabbit user with id 521
 useradd -M -s /bin/false white_rabbit
 usermod -u 521 white_rabbit
 
 #room3 prep. pass to readme : 472
+#pass to creature: 83
+#1. count all "do" word appearances :    - 12  ::::: grep ' do ' song | wc -l 
+#2. count only LINES which NOT contain "home" :  -39    ::::::: grep  -v  "home" song |wc -l      
+#3. count only non empty lines - 32
 
-
-chmod -R agou-w escapeRoom/room_3/
+chmod -R agou+rw escapeRoom/room_3/
 
 chmod -R agou-x escapeRoom/room_3/creature.sh
 
@@ -34,8 +37,8 @@ chmod -R agou-x escapeRoom/room_3/creature.sh
 
 #room4 prep pass to readme: linuxisfun
 
-chmod -R agou-w escapeRoom/room_4/
-chmod -R agou-r escapeRoom/room_4/crazyText
+chmod -R agou+rw escapeRoom/room_4/
+chmod -R agou+rw escapeRoom/room_4/crazyText
 #PhenixFire.jar
 #sed  -e 's/zing/H/g' crazyText     -i to overwrite
 #sed  -e 's/zing/H/g' crazyText
@@ -44,8 +47,8 @@ chmod -R agou-r escapeRoom/room_4/crazyText
 #key to key file : linuxisstillfun
 
 #room number 5 : pass to readme crazyroom
-chmod -R agou-w escapeRoom/room_5/
-chmod -R agou-x escapeRoom/room_5/PhoenixFire.jar
+chmod -R agou+rw escapeRoom/room_5/
+chmod -R agou+x escapeRoom/room_5/PhoenixFire.jar
 
 #room number 6 : pass to readme fireofthephoenix
 
@@ -62,7 +65,7 @@ chmod -R agou-x escapeRoom/room_5/PhoenixFire.jar
 
 
 #room 7 - pass to readme: linuxpro
-chmod -R agou-w escapeRoom/room_7/
+chmod -R agou+rw escapeRoom/room_7/
 #ps, find, awk OR cut
 #2 ways:
 #awk -F , '{print $4}' table.csv | grep "png" | sort | sed s/junk//g | sed s/.png//g | cut -c 2-
@@ -71,7 +74,7 @@ chmod -R agou-w escapeRoom/room_7/
 #room 8 - pass to readme: linuxmagic
 # run with other user: sudo su testUser -c ./dragonfly.sh &
 useradd -M -s /bin/bash testUser
-chmod -R agou-w escapeRoom/room_8/
+chmod -R agou+rw escapeRoom/room_8/
 #dragonfly.sh:
 #!/bin/bash
 #while true
@@ -83,7 +86,7 @@ chmod -R agou-w escapeRoom/room_8/
 
 
 
-
+chmod -R agou+rw escapeRoom/room_9/
 #room_9 - pass to readme: coolproc :
 #!/bin/bash
 #if [ "$1" = "" ]; then
@@ -96,7 +99,7 @@ chmod -R agou-w escapeRoom/room_8/
  #        done
 #fi
 
-
+chmod -R agou+rw escapeRoom/room_10/
 #room 10 -  shutupanddance
 #    pass to open treasure chest geniuslinuxuser
 #questions.add("lets start with something simple: a symbol to comment a row in script or a command? (1 char)");
