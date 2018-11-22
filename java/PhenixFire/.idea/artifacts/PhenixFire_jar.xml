@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhenixFire:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhenixFire_jar</output-path>
+    <root id="archive" name="PhenixFire.jar">
+      <element id="module-output" name="PhenixFire" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

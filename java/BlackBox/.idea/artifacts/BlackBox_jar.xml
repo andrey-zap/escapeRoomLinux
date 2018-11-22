@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlackBox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlackBox_jar</output-path>
+    <root id="archive" name="BlackBox.jar">
+      <element id="module-output" name="BlackBox" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

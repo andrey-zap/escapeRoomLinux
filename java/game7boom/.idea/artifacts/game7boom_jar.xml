@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="game7boom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/game7boom_jar</output-path>
+    <root id="archive" name="game7boom.jar">
+      <element id="module-output" name="game7boom" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
