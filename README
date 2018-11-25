@@ -13,6 +13,10 @@
                      | |
                      |_|
 
+Intro:
+This is an series of rooms (similar to the real-life attractions of Escape rooms) with puzzles that
+are designed to train the player at using various commands and features of Bash and Linux.
+
 Setup:
 The Bash Escape Room is a docker based exercise. In order to start the game:
 1. Make sure you have Docker installed: $ docker -v
