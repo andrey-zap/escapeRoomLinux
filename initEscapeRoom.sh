@@ -9,13 +9,13 @@ sudo adduser escape sudo
 echo "Preparation process COMPLETED"
 
 #room1 preparation
-#remove all "*.txt" files from room_files folder
+# remove all "*.txt" files from room_files folder
 # ls -lah sort all files by size and get pass from first letters of each one
 # read permissions to all only
 
 chmod -R agou+rw escapeRoom/room_1
 
-#room2 preparation , pass to readme : whatsupman
+#room2 preparation, pass to readme : whatsupman
 
 chmod -R agou+rw escapeRoom/room_2/
 
@@ -82,8 +82,6 @@ chmod -R agou+rw escapeRoom/room_8/
 #        sleep 1
 #done
 #
-
-
 
 
 chmod -R agou+rw escapeRoom/room_9/
