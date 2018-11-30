@@ -1,1 +1,38 @@
-readme to be written soon 
+                      ____            _
+                     |  _ \          | |
+                     | |_) | __ _ ___| |__
+                     |  _ < / _` / __| '_ \
+                     | |_) | (_| \__ \ | | |
+                     |____/ \__,_|___/_| |_|
+ ______                            _____
+|  ____|                          |  __ \
+| |__   ___  ___ __ _ _ __   ___  | |__) |___   ___  _ __ ___
+|  __| / __|/ __/ _` | '_ \ / _ \ |  _  // _ \ / _ \| '_ ` _ \
+| |____\__ \ (_| (_| | |_) |  __/ | | \ \ (_) | (_) | | | | | |
+|______|___/\___\__,_| .__/ \___| |_|  \_\___/ \___/|_| |_| |_|
+                     | |
+                     |_|
+
+Intro:
+This is an series of rooms (similar to the real-life attractions of Escape rooms) with puzzles that
+are designed to train the player at using various commands and features of Bash and Linux.
+
+Setup:
+The Bash Escape Room is a docker based exercise. In order to start the game:
+1. Make sure you have Docker installed: $ docker -v
+   If you don't, then look it up online with your favorite search engine.
+2. Build the Escape Room from within this directory: $ docker build -t escape-room .
+   (notice the `.` at the end of the command)
+3. Start the game: docker run -it escape-room
+See you at the end!
+
+FAQ/Troubleshooting:
+1. Q: During build I get a `/bin/sh: 1: ./initEscapeRoom.sh: Permission denied` error, what to do?
+   A: Make sure you have set the script's permissions to executable: $ chmod 755 initEscapeRoom.sh
+2. Q: Can I use sudo commands?
+   A: Yes, your user (escape) is a sudo-er, with password: escape
+3. Q: Help I am stuck!
+   A: Tough. Use a search engine or ask you friends...
+      There is a solutions.txt file in here too, but it is password protected with the last room's
+      treasure chest password.
+
