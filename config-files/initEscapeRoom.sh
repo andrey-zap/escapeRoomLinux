@@ -1,12 +1,4 @@
 #!/bin/sh
-#preparation tasks:
-echo "root:escaperoom" | chpasswd
-echo "escape:escape" | chpasswd
-apt-get update
-apt-get install -y apt-utils vim sudo cowsay man
-sudo adduser escape sudo
-echo "Preparation process COMPLETED"
-
 # room_1
 # remove all "*.txt" files from room_files folder
 # ls -lah sort all files by size and get pass from first letters of each one
