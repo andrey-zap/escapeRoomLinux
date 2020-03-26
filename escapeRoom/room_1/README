@@ -3,13 +3,31 @@ This is the secret Linux Escape Room cave!
 This place is full of secrets and only the chosen can pass the cave!
 To figure out how to get away you need to find the pass to the next room README file by following the clues and learning Linux:
 Lets start:
+Every README file in "room_X" uses 'vim encryption'...to open them you will need a secret found in "room_X-1"...
 This is what you need to do in the First room:
-1. Go to 'room_files' folder and delete/move all the files with 'txt' extention...highly recommended to backup the folder before you do soemthing...
-2. Sort the remainig files by size, then look at the first letter of each filename(dont forget the hidden files),you will find a hidden message.
-3. Once you discover the hidden message, move to the next room.
-4. To open the README file apply the hidden message in lowercase...
 
-Every README file uses 'vim encryption'...to open them you will need a password...
+1. Folder 'room_files' contains many files. in order to find the secret message, you need to output the file names
+    in the following way:
+        a. ignore all files with txt extension (remove/filter out, as you wish).
+        b. list all files and sort them by size (small to big, top down)
+        c. Take the first letter of every filename from top to bottom and figure out the secret message
+            EXAMPLE:
+                -rw-r--r-- 1 deveLeap 197121 1.0M Mar 26 13:46 House
+                -rw-r--r-- 1 deveLeap 197121 2.0M Mar 26 13:46 Echo
+                -rw-r--r-- 1 deveLeap 197121 3.0M Mar 26 13:47 Lamp
+                -rw-r--r-- 1 deveLeap 197121 4.0M Mar 26 13:47 Linux
+                -rw-r--r-- 1 deveLeap 197121 5.0M Mar 26 13:47 Open-source
+            The secret message in the example is: "hello" (the secret will always be lowercase!)
+        IMPORTANT TIPS:
+        - use "ls" command with proper flags. use "ls --help" to get more info for this command
+        - Do not forget to include "hidden" Linux files in the result (ls -a)
+        - Remember that in Linux, there are many ways to achieve the same result!
 
+
+2. Once you discover the hidden message, move to the next room.
+3. To open the README file in the next room apply the hidden message in lowercase...
+EXAMPLE:
+    - use "vim README" and enter the secret OR "vim --cmd "set key=hello" README" ( "hello" is the secret)
+    - to remove the encryption, decrypt the file and then set empty password with ":X"
 And one last tip...to make the magic happen (delete, rename, change ownership, create files and etc.)
  you will need your secret sudo password: "escape".
