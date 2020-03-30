@@ -9,5 +9,4 @@ RUN config-files/initSystem.sh
 RUN config-files/initEscapeRoom.sh
 RUN rm -rf config-files
 USER escape
-
 ENTRYPOINT ["/bin/bash"]
