@@ -21,9 +21,13 @@ Setup:
 The Bash Escape Room is a docker based exercise. In order to start the game:
 1. Make sure you have Docker installed: $ docker -v
    If you don't, then look it up online with your favorite search engine.
-2. Build the Escape Room from within this directory: $ docker build -t escape-room .
+2. Build the Escape Room from within this directory: 
+   $ docker build -t escape-room .
    (notice the `.` at the end of the command)
-3. Start the game: docker run -it escape-room
+3. Start the game: 
+   $ docker run -it escape-room
+4. Start by viewing the First rooms README located in
+   ~/escapeRoom/room_1/README
 See you at the end!
 
 FAQ/Troubleshooting:
