@@ -1,13 +1,14 @@
 Hey There young traveler!
 This is the secret Linux Escape Room cave!
 This place is full of secrets and only the chosen can pass the cave!
-To figure out how to get away you need to find the pass to the next room README file by following the clues and learning Linux:
+The folder /home/escape/escapeRoom contain 10 folders(rooms), each folder has an encrypted READMY file (except the first room README )
+To figure out how to get away you need to find the pass to the next room README file by following the clues and learning Linux!
 Lets start:
 This is what you need to do in the First room:
-1. Go to 'room_files' folder and delete/move all the files with 'txt' extention...highly recommended to backup the folder before you do soemthing...
-2. Sort the remainig files by size, then look at the first letter of each filename(dont forget the hidden files),you will find a hidden message.
+1. Go to 'room_files' folder and delete/move/filter-out all the files with 'txt' extention...we dont need them here. highly recommended to backup the folder before you do soemthing...
+2. Sort recursively the remainig files in 'room_files' by size (Ascending Order, and  dont forget the hidden files!! ) and display the file names on the screen, then if you take the first letter of each filename top-to-bottom ,you should find a hidden message consisted of two words.
 3. Once you discover the hidden message, move to the next room.
-4. To open the README file apply the hidden message in lowercase...
+4. To open the README file apply the hidden message in lowercase without spaces...
 
 Every README file uses 'vim encryption'...to open them you will need a password...
 
